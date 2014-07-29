@@ -1,0 +1,7 @@
+*.pyc
+*.json
+*.csv
+*.pdf
+*.dat
+*.npy
+*.sql
