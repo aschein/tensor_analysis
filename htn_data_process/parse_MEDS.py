@@ -1,0 +1,117 @@
+## Robert Chen
+## Monday 5/12/2014
+##
+## read and process BMI file
+##
+##
+import datetime as dt
+import pandas as pd
+
+## options
+input_folder = '../../data/new_data_20140416/Data_20140409/'
+output_dir = '../../data/new_data_20140416/Data_curated_RC/'
+file_classes = input_folder + 'MedClasses.xlsx'
+
+## Prepare data, read data
+read_filename = input_folder + 'Meds_DD_04082014_withHeader.csv'
+store_filename = input_folder + "df_MEDS.h5"
+
+## read in med classes file
+medclasses_xls = pd.ExcelFile(file_classes)
+df_medclasses = medclasses_xls.parse(medclasses_xls.sheet_names[0])
+#build dictionary with med classes:
+d_drug_classes = dict()
+d_drug_classes_by_name = dict()
+for ind in range(len(df['Hypertension_Med_Classes'])):
+    key = str(df['Hypertension_Med_Classes'][ind]).upper()
+    val_drug = str(df['Drug_Name'][ind]).upper()
+    val_brand = str(df['Brand_Name'][ind]).upper()
+    if key in d_drug_classes.keys():
+        d_drug_classes[key].append(val_drug)
+        d_drug_classes[key].append(val_brand)
+    else:
+        d_drug_classes[key] = list()
+        d_drug_classes[key].append(val_drug)
+        d_drug_classes[key].append(val_brand)
+
+for ind in range(len(df['Drug_Name'])):
+    key1 = str(df['Drug_Name'][ind]).upper()
+    key2 = str(df['Brand_Name'][ind]).upper()
+    value = str(df['Hypertension_Med_Classes'][ind]).upper()
+    if key1 not in d_drug_classes_by_name.keys():
+        d_drug_classes_by_name[key1] = value
+    if key2 not in d_drug_classes_by_name.keys():
+        d_drug_classes_by_name[key2] = value
+
+df_MEDS_HTN = pd.DataFrame()
+
+## read the med data in chunks; its 11M lines - too big to read the whole thing in memory
+cnt = 0
+print "reading chunks, ~11.2M lines total; 500K-line chunks; 23 chunks total"  
+for chunk in pd.read_csv(read_filename, chunksize=500000, escapechar='\\'):
+    cnt = cnt + 1
+    print "start chunk number: " + str(cnt)
+    #split names for which there is a colon separating generic name and brand name
+    l_med_leftofcolon = [str(item).split(':')[0].strip().upper() for item in chunk['Drug_Name']]
+    l_med_rightofcolon = [str(item).split(':')[1].strip().upper() if len(str(item).split(':'))>1 else str(item).upper() for item in chunk['Drug_Name']]
+    chunk['DRUG_NAME_GENERIC'] = l_med_leftofcolon
+    chunk['DRUG_NAME_BRAND'] = l_med_rightofcolon
+
+    #check if they are HTN meds
+    df_MEDS_this_chunk_are_htn_meds = chunk[chunk['DRUG_NAME_GENERIC'].isin(d_drug_classes_by_name.keys())]
+    l_classes = [d_drug_classes_by_name[item] for item in df_MEDS_this_chunk_are_htn_meds['DRUG_NAME_GENERIC']]
+    df_MEDS_this_chunk_are_htn_meds['DRUG_CLASS'] = l_classes
+
+    #append the HTN meds
+    df_MEDS_HTN = df_MEDS_HTN.append(df_MEDS_this_chunk_are_htn_meds)
+
+### kick out records not in our date range (2 years before program start) -- FIX THIS EVENTUALLY
+#l_two_year_cutoff = [ df_Phenotype[df_Phenotype.RUID==item]['TWO_YEAR_BEFORE_ENGAGE_DATE'].iloc[0] for item in df_MEDS_HTN['RUID']]
+#df_MEDS_HTN['TWO_YEAR_BEFORE_ENGAGE_DATE'] = l_two_year_cutoff
+
+
+## calculate the counts for HTN meds
+unique_drug_classes = df_MEDS_HTN.DRUG_CLASS.unique()
+df_MEDS_HTN_counts = pd.DataFrame(columns=['RUID'])
+for medclass in unique_drug_classes:
+    print "calculating counts for class: " + medclass
+    df_this_drug_class_allrecords = df_MEDS_HTN[df_MEDS_HTN.DRUG_CLASS == medclass][['RUID', 'DRUG_CLASS', 'Entry_Date']]
+
+    #kick out the lines where the med was taken before the 2-year before cutoff
+    df_this_drug_class = pd.DataFrame()
+    for ruid in df_this_drug_class_allrecords['RUID'].unique():
+        df_this_ruid = df_this_drug_class_allrecords[df_this_drug_class_allrecords.RUID == ruid]
+        two_year_cutoff = df_Phenotype[df_Phenotype.RUID==ruid]['TWO_YEAR_BEFORE_ENGAGE_DATE'].iloc[0]
+        df_this_ruid_within_time = df_this_ruid[pd.to_datetime(df_this_ruid.Entry_Date).astype(dt.datetime) > two_year_cutoff]
+        df_this_drug_class = df_this_drug_class.append(df_this_ruid_within_time)
+
+    #calculate counts on the remaining table
+    series_counts_this_class = df_this_drug_class.groupby('RUID').size()
+    df_this_drug_class_counts = pd.DataFrame({'RUID': list(series_counts_this_class.index), medclass: list(series_counts_this_class.values)})
+    if len(df_MEDS_HTN_counts) == 0: #base case
+        df_MEDS_HTN_counts = df_this_drug_class_counts.copy()
+    else:
+        df_MEDS_HTN_counts = pd.merge(df_MEDS_HTN_counts, df_this_drug_class_counts, left_on='RUID', right_on='RUID', how = 'outer')
+#replace NaN values with 0
+df_MEDS_HTN_counts = df_MEDS_HTN_counts.replace(np.nan, 0)
+
+#write to output file
+df_MEDS_HTN_counts.to_csv( output_dir + 'df_MEDS_HTN_counts.csv', index = False)
+
+
+############################################################################################################################################
+
+#store = pd.HDFStore(store_filename, mode = 'w')
+#for chunk in pd.read_csv(read_filename, chunksize=500000, escapechar='\\'):
+#    
+#    store.append('df_MEDS', chunk)
+#store.close()
+
+
+#pd.set_option('display.line_width', 300)
+#df_MEDS_part1 = pd.read_csv(filename1, sep=',' , escapechar='\\')
+#df_MEDS_part2 = pd.read_csv(filename2, sep=',' , escapechar='\\')
+#
+#df_MEDS_part1['Entry_Date'] = pd.to_datetime(df_MEDS_part1['Entry_Date'])
+#df_MEDS_part2['Entry_Date'] = pd.to_datetime(df_MEDS_part2['Entry_Date'])
+
