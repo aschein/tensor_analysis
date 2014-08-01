@@ -16,9 +16,9 @@ sys.path.append('./')
 
 if bool_initial_run:
     # read in and process data
-    execfile('newdata_dataread_BP_MHTSTRATEGY_v2.py')
+#    execfile('newdata_dataread_BP_MHTSTRATEGY_v2.py')
     # analyze BP intervals to determine IN CONTROL / OUT OF CONTROL status
-    execfile('newdata_analyzeBP_BP_MHTSTRATEGY.py')
+#    execfile('newdata_analyzeBP_BP_MHTSTRATEGY.py')
     #parse other files
     execfile('parse_Phenotype.py')
     execfile('parse_BMI.py')
