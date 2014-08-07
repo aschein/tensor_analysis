@@ -1,0 +1,1114 @@
+===== phenotype 36=================================================================proportion of pts: 0.32904148784lambda: 798.418021768----------------------------------------Disorders of the peripheral nervous systemDisorders of the eye and adnexaArthropathies and related disordersDorsopathiesRheumatism, excluding the backSymptoms involving skin and other integumentary tissueAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Bacterial AgentsAntihypertensive AgentsAntimanic AgentsAntineoplastic Agents, HormonalBone Density Conservation AgentsCyclooxygenase InhibitorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANitric Oxide DonorsPurinergic P2Y Receptor AntagonistsSodium Potassium Chloride Symporter InhibitorsSweetening AgentsVasodilator AgentsVitamin B Complex===== phenotype 45=================================================================proportion of pts: 0.22460658083lambda: 712.414755598----------------------------------------Disorders of the eye and adnexaDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of esophagus, stomach, and duodenumOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueSymptoms involving cardiovascular systemSymptoms involving urinary system14-alpha Demethylase InhibitorsAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Anxiety AgentsAnti-Asthmatic AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsCardiotonic AgentsCyclooxygenase InhibitorsEnzyme InhibitorsEstrogensFree Radical ScavengersGABA-A Receptor AgonistsGlucocorticoidsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsImmunosuppressive AgentsMineralocorticoid Receptor AntagonistsNANarcoticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II Inhibitors===== phenotype 34=================================================================proportion of pts: 0.290414878398lambda: 667.624130214----------------------------------------DiabetesDisorders of lipoid metabolismHypertensive diseaseNonspecific findings on examination of bloodRange name naAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Inflammatory AgentsAntihypertensive AgentsBone Density Conservation AgentsCyclooxygenase InhibitorsGlucocorticoidsHydroxymethylglutaryl-CoA Reductase InhibitorsNAProton Pump InhibitorsRodenticidesSurface-Active AgentsVitamin B ComplexVitamins===== phenotype 26=================================================================proportion of pts: 0.247496423462lambda: 653.322573129----------------------------------------Diseases of veins and lymphatics, and other diseases of circulatory systemAcute respiratory infectionsOther diseases of the upper respiratory tractInfections of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueSymptoms involving head and neck14-alpha Demethylase InhibitorsAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAntacidsAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimalarialsAntimanic AgentsBone Density Conservation AgentsCyclooxygenase InhibitorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsMineralocorticoid Receptor AntagonistsMuscarinic AntagonistsNARodenticidesSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsVasodilator AgentsVitamins===== phenotype 5=================================================================proportion of pts: 0.218884120172lambda: 628.178684221----------------------------------------AnemiasOrganic sleep disordersDiseases of oral cavity, salivary glands, and jawsArthropathies and related disordersSymptoms involving head and neckSprains and strains of joints and adjacent musclesAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntiviral AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsDopamine Uptake InhibitorsGABA ModulatorsGABA-A Receptor AgonistsGastrointestinal AgentsHistamine H1 AntagonistsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNANarcoticsNitric Oxide DonorsProton Pump InhibitorsSodium Potassium Chloride Symporter InhibitorsSweetening AgentsVasodilator AgentsVitamin B Complex===== phenotype 15=================================================================proportion of pts: 0.203147353362lambda: 602.848928243----------------------------------------Disorders of thyroid glandDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na14-alpha Demethylase InhibitorsAdrenergic alpha-2 Receptor AgonistsAntacidsAnti-Bacterial AgentsAntihypertensive AgentsAntimutagenic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsEpithelial Sodium Channel BlockersGABA ModulatorsHistamine H1 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsNANeuroprotective AgentsNicotinic AgonistsSodium Chloride Symporter InhibitorsVitamin B ComplexVitamins===== phenotype 20=================================================================proportion of pts: 0.247496423462lambda: 594.170835442----------------------------------------Disorders of lipoid metabolismDiseases of the ear and mastoid processHypertensive diseaseOther diseases of the upper respiratory tractOther diseases of skin and subcutaneous tissueSymptoms involving respiratory system and other chest symptomsAdrenergic beta-1 Receptor AntagonistsAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntiviral AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsEstrogensGABA ModulatorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsImmunosuppressive AgentsMuscle Relaxants, CentralNANarcoticsParasympatholyticsProton Pump InhibitorsTopoisomerase II InhibitorsVasodilator Agents===== phenotype 13=================================================================proportion of pts: 0.195994277539lambda: 561.36963012----------------------------------------Neurotic, personality, nonpsychotic disordersDiseases of arteries, arterioles, and capillariesArthropathies and related disordersRheumatism, excluding the backAbnormal results of function studiesRange name naAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAnti-Asthmatic AgentsAnticholesteremic AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsCardiotonic AgentsCyclooxygenase InhibitorsEstrogensExplosive AgentsGABA ModulatorsGABA-A Receptor AgonistsHistamine H1 AntagonistsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypolipidemic AgentsMuscle Relaxants, CentralNAParasympatholyticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator Agents===== phenotype 38=================================================================proportion of pts: 0.241773962804lambda: 554.53885211----------------------------------------Other diseases of urinary systemOther inflammatory conditions of skin and subcutaneous tissueDorsopathiesSymptoms involving cardiovascular systemSymptoms involving urinary systemAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-2 Receptor AgonistsAnesthetics, IntravenousAnti-Bacterial AgentsAntihypertensive AgentsAntimanic AgentsCardiotonic AgentsCyclooxygenase InhibitorsDopamine Uptake InhibitorsGABA ModulatorsHydroxymethylglutaryl-CoA Reductase InhibitorsMuscle Relaxants, CentralNANarcoticsParasympatholyticsSurface-Active AgentsSympathomimeticsTopoisomerase II InhibitorsVasodilator AgentsVitamins===== phenotype 37=================================================================proportion of pts: 0.234620886981lambda: 548.437988976----------------------------------------Hypertensive diseaseIschemic heart diseaseOther diseases of urinary systemGeneral symptomsSymptoms involving urinary systemRange name naAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAntiviral AgentsBone Density Conservation AgentsDopamine AntagonistsEstrogensHistamine H1 AntagonistsHistamine H1 Antagonists, Non-SedatingHypoglycemic AgentsImmunosuppressive AgentsNASodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsVitamin B ComplexVitamins===== phenotype 4=================================================================proportion of pts: 0.178826895565lambda: 543.130797274----------------------------------------Disorders of lipoid metabolismAnemiasHypertensive diseaseArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesRange name na14-alpha Demethylase InhibitorsAdrenergic alpha-1 Receptor AntagonistsAngiotensin II Type 1 Receptor BlockersAnti-Asthmatic AgentsAnti-Inflammatory AgentsAntihypertensive AgentsAntimanic AgentsCholinergic AntagonistsFree Radical ScavengersGABA-A Receptor AgonistsGlucocorticoidsHypoglycemic AgentsImmunosuppressive AgentsNANarcoticsNucleic Acid Synthesis InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsTrace ElementsVoltage-Gated Sodium Channel Blockers===== phenotype 10=================================================================proportion of pts: 0.231759656652lambda: 542.409573015----------------------------------------NaDisorders of the eye and adnexaChronic obstructive pulmonary disease and allied conditionsOther diseases of intestines and peritoneumInfections of skin and subcutaneous tissueAbnormal results of function studiesAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Anxiety AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntineoplastic Agents, HormonalAntiviral AgentsCardiotonic AgentsCholinergic AntagonistsCyclooxygenase InhibitorsDopamine Uptake InhibitorsGABA-A Receptor AgonistsHistamine H1 Antagonists, Non-SedatingHypoglycemic AgentsImmunosuppressive AgentsNANarcoticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSurface-Active AgentsSympathomimeticsVasodilator AgentsVitamin B ComplexVoltage-Gated Sodium Channel Blockers===== phenotype 33=================================================================proportion of pts: 0.211731044349lambda: 530.882656349----------------------------------------Nutritional deficienciesDisorders of lipoid metabolismDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseArthropathies and related disordersAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAndrogensAngiotensin II Type 1 Receptor BlockersAnti-Bacterial AgentsAnti-Inflammatory Agents, Non-SteroidalAntimanic AgentsCyclooxygenase InhibitorsGABA ModulatorsGastrointestinal AgentsHypoglycemic AgentsNANarcoticsNootropic AgentsPhosphodiesterase 5 InhibitorsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator AgentsVitamin B Complex===== phenotype 46=================================================================proportion of pts: 0.200286123033lambda: 522.601866659----------------------------------------DiabetesDisorders of lipoid metabolismHypertensive diseaseIschemic heart diseaseSymptoms involving respiratory system and other chest symptomsRange name naAdrenergic alpha-1 Receptor AntagonistsAngiotensin II Type 1 Receptor BlockersAnti-Bacterial AgentsAntimanic AgentsAntioxidantsBone Density Conservation AgentsChelating AgentsCyclooxygenase InhibitorsExplosive AgentsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNANitric Oxide DonorsNootropic AgentsSodium Potassium Chloride Symporter InhibitorsSweetening AgentsVasodilator AgentsVitamins===== phenotype 1=================================================================proportion of pts: 0.230329041488lambda: 509.828991393----------------------------------------Disorders of lipoid metabolismHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseAcute respiratory infectionsArthropathies and related disordersAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnti-Allergic AgentsAnti-Asthmatic AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsCardiotonic AgentsCholinergic AntagonistsExplosive AgentsGABA ModulatorsHydroxymethylglutaryl-CoA Reductase InhibitorsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSympatholyticsTranquilizing AgentsVitamins===== phenotype 44=================================================================proportion of pts: 0.233190271817lambda: 505.643382186----------------------------------------Benign neoplasm of other parts of digestive systemDisorders of the eye and adnexaOther diseases of intestines and peritoneumRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAntihypertensive AgentsCyclooxygenase InhibitorsExplosive AgentsGABA ModulatorsGlucocorticoidsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsHypolipidemic AgentsImmunosuppressive AgentsNAProton Pump InhibitorsSympathomimeticsVasodilator AgentsVitamins===== phenotype 42=================================================================proportion of pts: 0.217453505007lambda: 496.957809084----------------------------------------Neurotic, personality, nonpsychotic disordersIschemic heart diseaseOther disorders of female genital tractGeneral symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisAdrenergic Uptake InhibitorsAdrenergic alpha-2 Receptor AgonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntihypertensive AgentsAntimanic AgentsAntiviral AgentsCardiotonic AgentsCyclooxygenase InhibitorsEnzyme InhibitorsEstrogensExpectorantsExplosive AgentsGABA ModulatorsGlucocorticoidsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANucleic Acid Synthesis InhibitorsParasympatholyticsSerotonin Uptake Inhibitors===== phenotype 43=================================================================proportion of pts: 0.14878397711lambda: 494.078025976----------------------------------------Overweight, obesity and other hyperalimentationOther diseases of the bloodDrug dependenceChronic obstructive pulmonary disease and allied conditionsSymptoms involving respiratory system and other chest symptomsIll-defined and unknown causes of morbidity and mortalityMiscellaneous diagnostic and therapeutic procedures14-alpha Demethylase InhibitorsAdrenergic Uptake InhibitorsAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsDopamine Uptake InhibitorsFluorescent DyesGlucocorticoidsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNANootropic AgentsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsTubulin ModulatorsVasodilator Agents===== phenotype 24=================================================================proportion of pts: 0.211731044349lambda: 493.535553651----------------------------------------Acute respiratory infectionsPneumonia and influenzaCongenital anomaliesSymptoms involving digestive systemAbnormal results of function studiesFracturesAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAntacidsAnti-Bacterial AgentsAntimanic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsGABA ModulatorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsImmunosuppressive AgentsNAProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsVasodilator AgentsVitamin B ComplexVitamins===== phenotype 29=================================================================proportion of pts: 0.178826895565lambda: 474.39163438----------------------------------------Neoplasm of uncertain behavior of other sites & tissuesHypertensive diseaseOther forms of heart diseaseOther diseases of skin and subcutaneous tissueArthropathies and related disordersSymptoms involving skin and other integumentary tissueAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnti-Allergic AgentsAntimanic AgentsAntineoplastic Agents, HormonalAntiviral AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsEnzyme InhibitorsEpithelial Sodium Channel BlockersGABA-A Receptor AgonistsHypoglycemic AgentsNAProton Pump InhibitorsSodium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator AgentsVitamin B ComplexVitamins===== phenotype 12=================================================================proportion of pts: 0.165951359084lambda: 467.960820106----------------------------------------Symptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemFracturesCertain traumatic complications and unspecified injuriesComplications of surgical and medical care, not elsewhere classifiedRange name naAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimalarialsCatharticsChelating AgentsCyclooxygenase InhibitorsDopamine AntagonistsDopamine Uptake InhibitorsEnzyme InhibitorsFree Radical ScavengersGABA ModulatorsHydroxymethylglutaryl-CoA Reductase InhibitorsImmunosuppressive AgentsNANucleic Acid Synthesis InhibitorsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsTrace ElementsVasodilator AgentsVoltage-Gated Sodium Channel Blockers===== phenotype 28=================================================================proportion of pts: 0.153075822604lambda: 456.559506186----------------------------------------MycosesDisorders of the peripheral nervous systemOther diseases of the upper respiratory tractOther diseases of urinary systemSymptoms involving skin and other integumentary tissueNonspecific findings on examination of blood14-alpha Demethylase InhibitorsAdrenergic Uptake InhibitorsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Asthmatic AgentsAnti-Bacterial AgentsAntimanic AgentsAntineoplastic Agents, HormonalAntitussive AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsEnzyme InhibitorsGABA ModulatorsGastrointestinal AgentsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsMuscle Relaxants, CentralNANucleic Acid Synthesis InhibitorsProton Pump InhibitorsSerotonin 5-HT1 Receptor AgonistsSerotonin Uptake InhibitorsSodium Potassium Chloride Symporter InhibitorsSympathomimeticsTopoisomerase II InhibitorsVasodilator AgentsVoltage-Gated Sodium Channel Blockers===== phenotype 31=================================================================proportion of pts: 0.174535050072lambda: 451.652998792----------------------------------------AnemiasCoagulation or hemorrhagic diseasesDrug dependenceCerebrovascular diseaseSymptoms involving nervous and musculoskeletal systemsMiscellaneous diagnostic and therapeutic proceduresAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Bacterial AgentsAntihypertensive AgentsAntimanic AgentsAntineoplastic Agents, HormonalCardiotonic AgentsCatharticsCyclooxygenase InhibitorsFree Radical ScavengersHistamine H1 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANarcoticsProton Pump InhibitorsPurinergic P2Y Receptor AntagonistsRodenticidesSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsSweetening AgentsSympathomimeticsVasodilator AgentsVitamin B ComplexVitaminsVoltage-Gated Sodium Channel Blockers===== phenotype 35=================================================================proportion of pts: 0.171673819742lambda: 435.236534596----------------------------------------Nutritional deficienciesDiseases of the ear and mastoid processOther diseases of intestines and peritoneumOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Asthmatic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsBone Density Conservation AgentsCyclooxygenase InhibitorsExplosive AgentsGlucocorticoidsHistamine H1 Antagonists, Non-SedatingMineralocorticoid Receptor AntagonistsNANarcoticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTopoisomerase II InhibitorsVitamin B ComplexVitamins===== phenotype 7=================================================================proportion of pts: 0.218884120172lambda: 434.432836433----------------------------------------Other bacterial diseasesMalignant neoplasm of skinDiseases of other endocrine glandsAnemiasHereditary and degenerative diseases of the central nervous systemDiseases of male genital organsAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsCardiotonic AgentsCyclooxygenase InhibitorsGABA ModulatorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNAProton Pump InhibitorsRodenticidesSodium Potassium Chloride Symporter InhibitorsVasodilator AgentsVitamin B Complex===== phenotype 19=================================================================proportion of pts: 0.168812589413lambda: 414.326604824----------------------------------------Overweight, obesity and other hyperalimentationPainOther disorders of the central nervous systemChronic obstructive pulmonary disease and allied conditionsHernia of abdominal cavitySymptoms involving skin and other integumentary tissueNonspecific abnormal findings on radiological and other examination of body structureAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Asthmatic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntimanic AgentsAntioxidantsCalcium Channel BlockersCardiotonic AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsExplosive AgentsGABA ModulatorsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsImmunosuppressive AgentsNANarcoticsNicotinic AgonistsParasympatholyticsProton Pump InhibitorsPurinergic P2Y Receptor AntagonistsSerotonin 5-HT1 Receptor AgonistsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator AgentsVitamins===== phenotype 2=================================================================proportion of pts: 0.155937052933lambda: 411.689126705----------------------------------------Other diseases of the bloodIschemic heart diseaseOther forms of heart diseaseGeneral symptomsMiscellaneous diagnostic and therapeutic proceduresAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Asthmatic AgentsAntihypertensive AgentsAntimalarialsAntimanic AgentsAntineoplastic Agents, HormonalCyclooxygenase InhibitorsEnzyme InhibitorsEpithelial Sodium Channel BlockersExplosive AgentsFree Radical ScavengersGABA ModulatorsGastrointestinal AgentsHistamine H1 Antagonists, Non-SedatingNANarcoticsNitric Oxide DonorsProton Pump InhibitorsRodenticidesSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsTopoisomerase II InhibitorsVasodilator Agents===== phenotype 3=================================================================proportion of pts: 0.18025751073lambda: 411.37035428----------------------------------------Nutritional deficienciesDorsopathiesRheumatism, excluding the backSymptoms involving respiratory system and other chest symptomsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Asthmatic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsGABA-A Receptor AgonistsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsNAProton Pump InhibitorsSympathomimeticsVasodilator AgentsVitamin B ComplexVitamins===== phenotype 16=================================================================proportion of pts: 0.125894134478lambda: 386.378377766----------------------------------------Hypertensive diseaseOther forms of heart diseaseNephritis, nephrotic syndrome, and nephrosisArthropathies and related disordersSymptoms involving respiratory system and other chest symptomsAdrenergic Uptake InhibitorsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAntihypertensive AgentsAntimalarialsAntimanic AgentsAntineoplastic Agents, AlkylatingCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsEnzyme InhibitorsExplosive AgentsGABA ModulatorsHypoglycemic AgentsMuscarinic AntagonistsNAProton Pump InhibitorsPurinergic P2Y Receptor AntagonistsRodenticidesSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSympathomimeticsVasodilator AgentsVoltage-Gated Sodium Channel Blockers===== phenotype 0=================================================================proportion of pts: 0.171673819742lambda: 383.577317643----------------------------------------Hypertensive diseaseAcute respiratory infectionsOther diseases of intestines and peritoneumArthropathies and related disordersGeneral symptomsRange name naAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnesthetics, IntravenousAngiotensin II Type 1 Receptor BlockersAntacidsAnti-Anxiety AgentsAntimanic AgentsGABA ModulatorsGABA-A Receptor AgonistsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNANeuroprotective AgentsProton Pump InhibitorsSerotonin Uptake InhibitorsSympathomimeticsTopoisomerase II InhibitorsVasodilator AgentsVitamin B Complex===== phenotype 18=================================================================proportion of pts: 0.135908440629lambda: 381.124360381----------------------------------------Hypertensive diseaseDiseases of male genital organsOther inflammatory conditions of skin and subcutaneous tissueDorsopathiesSymptoms involving respiratory system and other chest symptomsRange name naAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAntacidsAnti-Allergic AgentsAnti-Asthmatic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntioxidantsAntiviral AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsDopamine Uptake InhibitorsEnzyme InhibitorsFree Radical ScavengersGABA-A Receptor AgonistsHistamine H1 Antagonists, Non-SedatingHistamine H2 AntagonistsMineralocorticoid Receptor AntagonistsNAParasympatholyticsProton Pump InhibitorsPurinergic P1 Receptor AntagonistsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTrace ElementsVasodilator AgentsViscosupplementsVitamins===== phenotype 40=================================================================proportion of pts: 0.113018597997lambda: 376.110559002----------------------------------------Other bacterial diseasesNeurotic, personality, nonpsychotic disordersOther diseases of respiratory systemOther diseases of intestines and peritoneumOperations on the musculoskeletal systemOther and unspecified effects of external causes14-alpha Demethylase InhibitorsAdrenergic Uptake InhibitorsAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Bacterial AgentsAnti-Infective Agents, LocalAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsBone Density Conservation AgentsCardiotonic AgentsCariostatic AgentsCatharticsChelating AgentsCyclooxygenase InhibitorsEnzyme InhibitorsFree Radical ScavengersGABA ModulatorsGlucocorticoidsHematinicsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANucleic Acid Synthesis InhibitorsProton Pump InhibitorsSerotonin Uptake InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsSympathomimeticsVasodilator AgentsVitamins===== phenotype 41=================================================================proportion of pts: 0.171673819742lambda: 366.756404651----------------------------------------Disorders of breastOther disorders of female genital tractSymptoms concerning nutrition, metabolism, and developmentCertain traumatic complications and unspecified injuriesAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAntidepressive Agents, Second-GenerationAntimanic AgentsAntimutagenic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsGABA ModulatorsGABA-A Receptor AgonistsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsHypolipidemic AgentsImmunosuppressive AgentsNANarcoticsProton Pump InhibitorsRodenticidesSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsSweetening AgentsVasodilator AgentsVitamin B ComplexVitaminsVoltage-Gated Sodium Channel Blockers===== phenotype 48=================================================================proportion of pts: 0.140200286123lambda: 352.272210265----------------------------------------NaLiverArthropathies and related disordersGeneral symptomsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAndrogensAngiotensin II Type 1 Receptor BlockersAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsBone Density Conservation AgentsCalcium Channel BlockersCardiotonic AgentsCyclooxygenase InhibitorsDopamine Uptake InhibitorsEstrogensFood AdditivesFree Radical ScavengersGABA ModulatorsGastrointestinal AgentsHistamine H1 Antagonists, Non-SedatingHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypolipidemic AgentsMineralocorticoid Receptor AntagonistsNANarcoticsParasympatholyticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsTopoisomerase II InhibitorsVasodilator Agents===== phenotype 17=================================================================proportion of pts: 0.157367668097lambda: 343.404469355----------------------------------------Disorders of lipoid metabolismOther diseases of urinary systemDorsopathiesSymptoms involving digestive systemAdrenergic Uptake InhibitorsAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Obesity AgentsAntidepressive Agents, Second-GenerationAntimanic AgentsAntineoplastic Agents, HormonalCalcium Channel BlockersCardiotonic AgentsCatharticsDopamine AntagonistsEstrogensGastrointestinal AgentsHydroxymethylglutaryl-CoA Reductase InhibitorsMineralocorticoid Receptor AntagonistsMuscarinic AntagonistsNANarcoticsParasympatholyticsProton Pump InhibitorsRodenticidesSodium Potassium Chloride Symporter InhibitorsSweetening AgentsSympathomimeticsTranquilizing AgentsVasodilator Agents===== phenotype 22=================================================================proportion of pts: 0.134477825465lambda: 339.092214012----------------------------------------Drug dependenceOther disorders of the central nervous systemOther diseases of the upper respiratory tractOther diseases of respiratory systemDiseases of male genital organsArthropathies and related disordersSymptoms involving head and neckAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnesthetics, IntravenousAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Anxiety AgentsAnti-Asthmatic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntineoplastic Agents, HormonalCyclooxygenase InhibitorsExplosive AgentsFibrinolytic AgentsHistamine H1 Antagonists, Non-SedatingHypoglycemic AgentsImmunosuppressive AgentsIndicators and ReagentsNANitric Oxide DonorsProton Pump InhibitorsPurinergic P2Y Receptor AntagonistsSodium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator AgentsVoltage-Gated Sodium Channel Blockers===== phenotype 6=================================================================proportion of pts: 0.1330472103lambda: 338.728805705----------------------------------------Disorders of lipoid metabolismDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of urinary systemOther symptoms involving abdomen and pelvisAdrenergic alpha-2 Receptor AgonistsAnalgesics, Non-NarcoticAnesthetics, IntravenousAnti-Allergic AgentsAntidepressive Agents, Second-GenerationAntimalarialsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsEpithelial Sodium Channel BlockersEstrogensHistamine H1 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsImmunosuppressive AgentsNANarcoticsPhosphodiesterase 5 InhibitorsProton Pump InhibitorsSurface-Active AgentsVitamins===== phenotype 47=================================================================proportion of pts: 0.177396280401lambda: 336.887733109----------------------------------------Other diseases of respiratory systemSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsOther and unspecified effects of external causesAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-AntagonistsAnalgesics, Non-NarcoticAnesthetics, IntravenousAnti-Allergic AgentsAnti-Bacterial AgentsAntihypertensive AgentsAntiviral AgentsBone Density Conservation AgentsEnzyme InhibitorsExplosive AgentsGABA-A Receptor AgonistsHydroxymethylglutaryl-CoA Reductase InhibitorsMuscarinic AntagonistsNANarcoticsNitric Oxide DonorsPhosphodiesterase 5 InhibitorsPurinergic P2Y Receptor AntagonistsRodenticidesSodium Chloride Symporter InhibitorsSurface-Active AgentsSweetening AgentsVasodilator AgentsVitamins===== phenotype 32=================================================================proportion of pts: 0.12017167382lambda: 335.716194075----------------------------------------Organic sleep disordersHereditary and degenerative diseases of the central nervous systemDiseases of esophagus, stomach, and duodenumOther diseases of digestive systemOther symptoms involving abdomen and pelvisAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-2 Receptor AgonistsAnesthetics, IntravenousAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntimutagenic AgentsAntioxidantsBone Density Conservation AgentsCalcium Channel BlockersCardiotonic AgentsCatharticsChelating AgentsDopamine AntagonistsDopamine Uptake InhibitorsGABA ModulatorsGastrointestinal AgentsHypoglycemic AgentsHypolipidemic AgentsIndicators and ReagentsMineralocorticoid Receptor AntagonistsNANeuroprotective AgentsPhosphodiesterase 5 InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsSympathomimeticsVasodilator AgentsVitamins===== phenotype 8=================================================================proportion of pts: 0.124463519313lambda: 305.772615562----------------------------------------Secondary malignant neoplasm of lymph nodes, digestive system and other specified sitesDisorders of thyroid glandAcute respiratory infectionsOther diseases of the upper respiratory tractRheumatism, excluding the backAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsCardiotonic AgentsCholinergic AntagonistsCyclooxygenase InhibitorsEstrogensFree Radical ScavengersGABA-A Receptor AgonistsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsHypolipidemic AgentsNANarcoticsNucleic Acid Synthesis InhibitorsProton Pump InhibitorsSodium Potassium Chloride Symporter InhibitorsSweetening AgentsTopoisomerase II InhibitorsVasodilator AgentsVoltage-Gated Sodium Channel Blockers===== phenotype 30=================================================================proportion of pts: 0.0944206008584lambda: 303.494741882----------------------------------------MycosesDisorders of the peripheral nervous systemOther diseases of intestines and peritoneumOther diseases of skin and subcutaneous tissueDorsopathiesSymptoms involving skin and other integumentary tissueAdrenergic beta-AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntimanic AgentsAntineoplastic Agents, AlkylatingBone Density Conservation AgentsCholinergic AntagonistsCyclooxygenase InhibitorsDopamine Uptake InhibitorsEstrogensGlucocorticoidsHistamine H1 AntagonistsKeratolytic AgentsNANucleic Acid Synthesis InhibitorsProton Pump InhibitorsSweetening AgentsSympathomimeticsVoltage-Gated Sodium Channel Blockers===== phenotype 39=================================================================proportion of pts: 0.12017167382lambda: 301.418935763----------------------------------------Chronic rheumatic heart diseaseDiseases of pulmonary circulationOther diseases of respiratory systemNonspecific findings on examination of bloodNonspecific findings on examination of urineAdrenergic alpha-1 Receptor AntagonistsAdrenergic beta-1 Receptor AntagonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAntacidsAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntiviral AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsGABA ModulatorsHistamine H1 Antagonists, Non-SedatingHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMineralocorticoid Receptor AntagonistsNASodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsVasodilator AgentsVitamin B ComplexVitamins===== phenotype 9=================================================================proportion of pts: 0.138769670959lambda: 299.211275013----------------------------------------MycosesDiabetesRheumatism, excluding the backRange name naAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-AntagonistsAnalgesics, Non-NarcoticAntihypertensive AgentsAntimanic AgentsAntineoplastic Agents, AlkylatingCardiotonic AgentsCatharticsCholinergic AntagonistsDopamine AntagonistsEnzyme InhibitorsEstrogensGABA ModulatorsGastrointestinal AgentsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsMyeloablative AgonistsNANootropic AgentsSodium Chloride Symporter InhibitorsSweetening AgentsVasodilator AgentsVitamin B Complex===== phenotype 21=================================================================proportion of pts: 0.1330472103lambda: 294.914976655----------------------------------------Hernia of abdominal cavitySymptoms involving nervous and musculoskeletal systemsOpen woundComplications of surgical and medical care, not elsewhere classifiedAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAntacidsAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsBone Density Conservation AgentsCardiotonic AgentsCholinergic AntagonistsCyclooxygenase InhibitorsEstrogensGABA ModulatorsGABA-A Receptor AgonistsHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANarcoticsProton Pump InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsVasodilator Agents===== phenotype 11=================================================================proportion of pts: 0.123032904149lambda: 266.780677218----------------------------------------PainDisorders of the peripheral nervous systemArthropathies and related disordersOther nonspecific abnormal findings5-alpha Reductase InhibitorsAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Allergic AgentsAnti-Bacterial AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntioxidantsAntiviral AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsEstrogensFree Radical ScavengersGABA ModulatorsGABA-A Receptor AgonistsHydroxymethylglutaryl-CoA Reductase InhibitorsImmunosuppressive AgentsNAParasympatholyticsProton Pump InhibitorsSodium Chloride Symporter InhibitorsSodium Potassium Chloride Symporter InhibitorsTrace ElementsVasodilator AgentsVitamin B ComplexVitamins===== phenotype 27=================================================================proportion of pts: 0.128755364807lambda: 263.760790567----------------------------------------Disorders of fluid, electrolyte, and acid-base balanceAnemiasOther diseases of urinary systemSymptoms involving urinary systemAdrenergic alpha-1 Receptor AntagonistsAdrenergic alpha-2 Receptor AgonistsAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAndrogensAnti-Allergic AgentsAntidepressive Agents, Second-GenerationAntimalarialsAntineoplastic Agents, AlkylatingBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase InhibitorsDopamine Uptake InhibitorsFree Radical ScavengersHistamine H1 Antagonists, Non-SedatingHistamine H2 AntagonistsHypoglycemic AgentsNitric Oxide DonorsPurinergic P1 Receptor AntagonistsRodenticidesSodium Potassium Chloride Symporter InhibitorsTopoisomerase II Inhibitors===== phenotype 23=================================================================proportion of pts: 0.0987124463519lambda: 234.263809976----------------------------------------Malignant neoplasm of lymphatic and hematopoietic tissueRheumatism, excluding the backNaRange name naAdrenergic beta-1 Receptor AntagonistsAdrenergic beta-2 Receptor AgonistsAnalgesics, Non-NarcoticAngiotensin II Type 1 Receptor BlockersAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntihypertensive AgentsAntimanic AgentsAntineoplastic Agents, HormonalAntiviral AgentsCardiotonic AgentsCyclooxygenase InhibitorsGABA ModulatorsHistamine H1 Antagonists, Non-SedatingHistamine H2 AntagonistsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsHypolipidemic AgentsMineralocorticoid Receptor AntagonistsNANarcoticsNucleic Acid Synthesis InhibitorsProton Pump InhibitorsRodenticidesSerotonin Receptor AgonistsSurface-Active AgentsSympathomimeticsTopoisomerase II InhibitorsTranquilizing AgentsVasodilator AgentsVitamin B ComplexVoltage-Gated Sodium Channel Blockers===== phenotype 25=================================================================proportion of pts: 0.108726752504lambda: 212.089280457----------------------------------------NaHypertensive diseaseRheumatism, excluding the backGeneral symptomsAdrenergic beta-1 Receptor AntagonistsAndrogensAnti-Allergic AgentsAnti-Bacterial AgentsAntimanic AgentsAntiviral AgentsBone Density Conservation AgentsCyclooxygenase 2 InhibitorsDopamine Uptake InhibitorsEpithelial Sodium Channel BlockersGABA ModulatorsHistamine H1 AntagonistsImmunosuppressive AgentsNANarcoticsNeuroprotective AgentsProgestinsSodium Chloride Symporter InhibitorsVitamin B Complex===== phenotype 49=================================================================proportion of pts: 0.0915593705293lambda: 204.265454407----------------------------------------Organic psychotic conditionsRheumatism, excluding the backOperations on the musculoskeletal systemGeneral symptomsAdrenergic alpha-1 Receptor AntagonistsAnalgesics, Non-NarcoticAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Inflammatory AgentsAntidepressive Agents, Second-GenerationAntimanic AgentsAntimutagenic AgentsAntineoplastic AgentsAntineoplastic Agents, HormonalAntioxidantsAntipsychotic AgentsBone Density Conservation AgentsCardiotonic AgentsCyclooxygenase 2 InhibitorsCyclooxygenase InhibitorsDopamine Uptake InhibitorsEstrogensGABA ModulatorsGastrointestinal AgentsHydroxymethylglutaryl-CoA Reductase InhibitorsHypoglycemic AgentsNANarcoticsNitric Oxide DonorsNootropic AgentsProton Pump InhibitorsSodium Potassium Chloride Symporter InhibitorsSurface-Active AgentsSweetening AgentsVasodilator AgentsVitamin B Complex===== phenotype 14=================================================================proportion of pts: 0.118741058655lambda: 201.904278754----------------------------------------Hypertensive diseaseOther diseases of skin and subcutaneous tissueSymptoms involving respiratory system and other chest symptomsRange name naAndrogensAnti-Allergic AgentsAnti-Bacterial AgentsAnti-Obesity AgentsAntimutagenic AgentsAntineoplastic Agents, HormonalAntioxidantsDopamine AntagonistsGABA ModulatorsGastrointestinal AgentsHistamine H1 Antagonists, Non-SedatingHypoglycemic AgentsImmunosuppressive AgentsIndicators and ReagentsMuscle Relaxants, CentralSerotonin 5-HT1 Receptor AgonistsTrace ElementsVitamin B ComplexVitaminsVoltage-Gated Sodium Channel Blockers===== phenotype 36=================================================================
+proportion of pts: 0.32904148784
+lambda: 798.418021768
+----------------------------------------
+Disorders of the peripheral nervous system
+Disorders of the eye and adnexa
+Arthropathies and related disorders
+Dorsopathies
+Rheumatism, excluding the back
+Symptoms involving skin and other integumentary tissue
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antihypertensive Agents
+Antimanic Agents
+Antineoplastic Agents, Hormonal
+Bone Density Conservation Agents
+Cyclooxygenase Inhibitors
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+NA
+Nitric Oxide Donors
+Purinergic P2Y Receptor Antagonists
+Sodium Potassium Chloride Symporter Inhibitors
+Sweetening Agents
+Vasodilator Agents
+Vitamin B Complex
+===== phenotype 45=================================================================
+proportion of pts: 0.22460658083
+lambda: 712.414755598
+----------------------------------------
+Disorders of the eye and adnexa
+Diseases of veins and lymphatics, and other diseases of circulatory system
+Diseases of esophagus, stomach, and duodenum
+Other inflammatory conditions of skin and subcutaneous tissue
+Other diseases of skin and subcutaneous tissue
+Symptoms involving cardiovascular system
+Symptoms involving urinary system
+14-alpha Demethylase Inhibitors
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Anxiety Agents
+Anti-Asthmatic Agents
+Anti-Inflammatory Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimanic Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Estrogens
+Free Radical Scavengers
+GABA-A Receptor Agonists
+Glucocorticoids
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Immunosuppressive Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Narcotics
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+===== phenotype 34=================================================================
+proportion of pts: 0.290414878398
+lambda: 667.624130214
+----------------------------------------
+Diabetes
+Disorders of lipoid metabolism
+Hypertensive disease
+Nonspecific findings on examination of blood
+Range name na
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Inflammatory Agents
+Antihypertensive Agents
+Bone Density Conservation Agents
+Cyclooxygenase Inhibitors
+Glucocorticoids
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+NA
+Proton Pump Inhibitors
+Rodenticides
+Surface-Active Agents
+Vitamin B Complex
+Vitamins
+===== phenotype 26=================================================================
+proportion of pts: 0.247496423462
+lambda: 653.322573129
+----------------------------------------
+Diseases of veins and lymphatics, and other diseases of circulatory system
+Acute respiratory infections
+Other diseases of the upper respiratory tract
+Infections of skin and subcutaneous tissue
+Other diseases of skin and subcutaneous tissue
+Symptoms involving head and neck
+14-alpha Demethylase Inhibitors
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Antacids
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimalarials
+Antimanic Agents
+Bone Density Conservation Agents
+Cyclooxygenase Inhibitors
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Mineralocorticoid Receptor Antagonists
+Muscarinic Antagonists
+NA
+Rodenticides
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Vasodilator Agents
+Vitamins
+===== phenotype 5=================================================================
+proportion of pts: 0.218884120172
+lambda: 628.178684221
+----------------------------------------
+Anemias
+Organic sleep disorders
+Diseases of oral cavity, salivary glands, and jaws
+Arthropathies and related disorders
+Symptoms involving head and neck
+Sprains and strains of joints and adjacent muscles
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Anti-Inflammatory Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimanic Agents
+Antiviral Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Dopamine Uptake Inhibitors
+GABA Modulators
+GABA-A Receptor Agonists
+Gastrointestinal Agents
+Histamine H1 Antagonists
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Narcotics
+Nitric Oxide Donors
+Proton Pump Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Sweetening Agents
+Vasodilator Agents
+Vitamin B Complex
+===== phenotype 15=================================================================
+proportion of pts: 0.203147353362
+lambda: 602.848928243
+----------------------------------------
+Disorders of thyroid gland
+Disorders of lipoid metabolism
+Disorders of the eye and adnexa
+Hypertensive disease
+General symptoms
+Symptoms involving respiratory system and other chest symptoms
+Range name na
+14-alpha Demethylase Inhibitors
+Adrenergic alpha-2 Receptor Agonists
+Antacids
+Anti-Bacterial Agents
+Antihypertensive Agents
+Antimutagenic Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase 2 Inhibitors
+Epithelial Sodium Channel Blockers
+GABA Modulators
+Histamine H1 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+NA
+Neuroprotective Agents
+Nicotinic Agonists
+Sodium Chloride Symporter Inhibitors
+Vitamin B Complex
+Vitamins
+===== phenotype 20=================================================================
+proportion of pts: 0.247496423462
+lambda: 594.170835442
+----------------------------------------
+Disorders of lipoid metabolism
+Diseases of the ear and mastoid process
+Hypertensive disease
+Other diseases of the upper respiratory tract
+Other diseases of skin and subcutaneous tissue
+Symptoms involving respiratory system and other chest symptoms
+Adrenergic beta-1 Receptor Antagonists
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimanic Agents
+Antiviral Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors
+Estrogens
+GABA Modulators
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Immunosuppressive Agents
+Muscle Relaxants, Central
+NA
+Narcotics
+Parasympatholytics
+Proton Pump Inhibitors
+Topoisomerase II Inhibitors
+Vasodilator Agents
+===== phenotype 13=================================================================
+proportion of pts: 0.195994277539
+lambda: 561.36963012
+----------------------------------------
+Neurotic, personality, nonpsychotic disorders
+Diseases of arteries, arterioles, and capillaries
+Arthropathies and related disorders
+Rheumatism, excluding the back
+Abnormal results of function studies
+Range name na
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Anti-Asthmatic Agents
+Anticholesteremic Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Estrogens
+Explosive Agents
+GABA Modulators
+GABA-A Receptor Agonists
+Histamine H1 Antagonists
+Histamine H2 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypolipidemic Agents
+Muscle Relaxants, Central
+NA
+Parasympatholytics
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Surface-Active Agents
+Vasodilator Agents
+===== phenotype 38=================================================================
+proportion of pts: 0.241773962804
+lambda: 554.53885211
+----------------------------------------
+Other diseases of urinary system
+Other inflammatory conditions of skin and subcutaneous tissue
+Dorsopathies
+Symptoms involving cardiovascular system
+Symptoms involving urinary system
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-2 Receptor Agonists
+Anesthetics, Intravenous
+Anti-Bacterial Agents
+Antihypertensive Agents
+Antimanic Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Dopamine Uptake Inhibitors
+GABA Modulators
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Muscle Relaxants, Central
+NA
+Narcotics
+Parasympatholytics
+Surface-Active Agents
+Sympathomimetics
+Topoisomerase II Inhibitors
+Vasodilator Agents
+Vitamins
+===== phenotype 37=================================================================
+proportion of pts: 0.234620886981
+lambda: 548.437988976
+----------------------------------------
+Hypertensive disease
+Ischemic heart disease
+Other diseases of urinary system
+General symptoms
+Symptoms involving urinary system
+Range name na
+Adrenergic alpha-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Antiviral Agents
+Bone Density Conservation Agents
+Dopamine Antagonists
+Estrogens
+Histamine H1 Antagonists
+Histamine H1 Antagonists, Non-Sedating
+Hypoglycemic Agents
+Immunosuppressive Agents
+NA
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Vitamin B Complex
+Vitamins
+===== phenotype 4=================================================================
+proportion of pts: 0.178826895565
+lambda: 543.130797274
+----------------------------------------
+Disorders of lipoid metabolism
+Anemias
+Hypertensive disease
+Arthropathies and related disorders
+Rheumatism, excluding the back
+Osteopathies, chondropathies, and acquired musculoskeletal deformities
+Range name na
+14-alpha Demethylase Inhibitors
+Adrenergic alpha-1 Receptor Antagonists
+Angiotensin II Type 1 Receptor Blockers
+Anti-Asthmatic Agents
+Anti-Inflammatory Agents
+Antihypertensive Agents
+Antimanic Agents
+Cholinergic Antagonists
+Free Radical Scavengers
+GABA-A Receptor Agonists
+Glucocorticoids
+Hypoglycemic Agents
+Immunosuppressive Agents
+NA
+Narcotics
+Nucleic Acid Synthesis Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Trace Elements
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 10=================================================================
+proportion of pts: 0.231759656652
+lambda: 542.409573015
+----------------------------------------
+Na
+Disorders of the eye and adnexa
+Chronic obstructive pulmonary disease and allied conditions
+Other diseases of intestines and peritoneum
+Infections of skin and subcutaneous tissue
+Abnormal results of function studies
+Adrenergic alpha-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Anxiety Agents
+Anti-Bacterial Agents
+Anti-Inflammatory Agents
+Antineoplastic Agents, Hormonal
+Antiviral Agents
+Cardiotonic Agents
+Cholinergic Antagonists
+Cyclooxygenase Inhibitors
+Dopamine Uptake Inhibitors
+GABA-A Receptor Agonists
+Histamine H1 Antagonists, Non-Sedating
+Hypoglycemic Agents
+Immunosuppressive Agents
+NA
+Narcotics
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Surface-Active Agents
+Sympathomimetics
+Vasodilator Agents
+Vitamin B Complex
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 33=================================================================
+proportion of pts: 0.211731044349
+lambda: 530.882656349
+----------------------------------------
+Nutritional deficiencies
+Disorders of lipoid metabolism
+Disorders of the eye and adnexa
+Diseases of the ear and mastoid process
+Hypertensive disease
+Arthropathies and related disorders
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Androgens
+Angiotensin II Type 1 Receptor Blockers
+Anti-Bacterial Agents
+Anti-Inflammatory Agents, Non-Steroidal
+Antimanic Agents
+Cyclooxygenase Inhibitors
+GABA Modulators
+Gastrointestinal Agents
+Hypoglycemic Agents
+NA
+Narcotics
+Nootropic Agents
+Phosphodiesterase 5 Inhibitors
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
+Vasodilator Agents
+Vitamin B Complex
+===== phenotype 46=================================================================
+proportion of pts: 0.200286123033
+lambda: 522.601866659
+----------------------------------------
+Diabetes
+Disorders of lipoid metabolism
+Hypertensive disease
+Ischemic heart disease
+Symptoms involving respiratory system and other chest symptoms
+Range name na
+Adrenergic alpha-1 Receptor Antagonists
+Angiotensin II Type 1 Receptor Blockers
+Anti-Bacterial Agents
+Antimanic Agents
+Antioxidants
+Bone Density Conservation Agents
+Chelating Agents
+Cyclooxygenase Inhibitors
+Explosive Agents
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Nitric Oxide Donors
+Nootropic Agents
+Sodium Potassium Chloride Symporter Inhibitors
+Sweetening Agents
+Vasodilator Agents
+Vitamins
+===== phenotype 1=================================================================
+proportion of pts: 0.230329041488
+lambda: 509.828991393
+----------------------------------------
+Disorders of lipoid metabolism
+Hypertensive disease
+Ischemic heart disease
+Other forms of heart disease
+Acute respiratory infections
+Arthropathies and related disorders
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Cardiotonic Agents
+Cholinergic Antagonists
+Explosive Agents
+GABA Modulators
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sympatholytics
+Tranquilizing Agents
+Vitamins
+===== phenotype 44=================================================================
+proportion of pts: 0.233190271817
+lambda: 505.643382186
+----------------------------------------
+Benign neoplasm of other parts of digestive system
+Disorders of the eye and adnexa
+Other diseases of intestines and peritoneum
+Rheumatism, excluding the back
+General symptoms
+Symptoms involving respiratory system and other chest symptoms
+Adrenergic alpha-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Antihypertensive Agents
+Cyclooxygenase Inhibitors
+Explosive Agents
+GABA Modulators
+Glucocorticoids
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Hypolipidemic Agents
+Immunosuppressive Agents
+NA
+Proton Pump Inhibitors
+Sympathomimetics
+Vasodilator Agents
+Vitamins
+===== phenotype 42=================================================================
+proportion of pts: 0.217453505007
+lambda: 496.957809084
+----------------------------------------
+Neurotic, personality, nonpsychotic disorders
+Ischemic heart disease
+Other disorders of female genital tract
+General symptoms
+Symptoms involving digestive system
+Other symptoms involving abdomen and pelvis
+Adrenergic Uptake Inhibitors
+Adrenergic alpha-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Anti-Inflammatory Agents
+Antihypertensive Agents
+Antimanic Agents
+Antiviral Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Estrogens
+Expectorants
+Explosive Agents
+GABA Modulators
+Glucocorticoids
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+NA
+Nucleic Acid Synthesis Inhibitors
+Parasympatholytics
+Serotonin Uptake Inhibitors
+===== phenotype 43=================================================================
+proportion of pts: 0.14878397711
+lambda: 494.078025976
+----------------------------------------
+Overweight, obesity and other hyperalimentation
+Other diseases of the blood
+Drug dependence
+Chronic obstructive pulmonary disease and allied conditions
+Symptoms involving respiratory system and other chest symptoms
+Ill-defined and unknown causes of morbidity and mortality
+Miscellaneous diagnostic and therapeutic procedures
+14-alpha Demethylase Inhibitors
+Adrenergic Uptake Inhibitors
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimanic Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Dopamine Uptake Inhibitors
+Fluorescent Dyes
+Glucocorticoids
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Nootropic Agents
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Tubulin Modulators
+Vasodilator Agents
+===== phenotype 24=================================================================
+proportion of pts: 0.211731044349
+lambda: 493.535553651
+----------------------------------------
+Acute respiratory infections
+Pneumonia and influenza
+Congenital anomalies
+Symptoms involving digestive system
+Abnormal results of function studies
+Fractures
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Antacids
+Anti-Bacterial Agents
+Antimanic Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors
+GABA Modulators
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Immunosuppressive Agents
+NA
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Vasodilator Agents
+Vitamin B Complex
+Vitamins
+===== phenotype 29=================================================================
+proportion of pts: 0.178826895565
+lambda: 474.39163438
+----------------------------------------
+Neoplasm of uncertain behavior of other sites & tissues
+Hypertensive disease
+Other forms of heart disease
+Other diseases of skin and subcutaneous tissue
+Arthropathies and related disorders
+Symptoms involving skin and other integumentary tissue
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Anti-Allergic Agents
+Antimanic Agents
+Antineoplastic Agents, Hormonal
+Antiviral Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Epithelial Sodium Channel Blockers
+GABA-A Receptor Agonists
+Hypoglycemic Agents
+NA
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Surface-Active Agents
+Vasodilator Agents
+Vitamin B Complex
+Vitamins
+===== phenotype 12=================================================================
+proportion of pts: 0.165951359084
+lambda: 467.960820106
+----------------------------------------
+Symptoms involving skin and other integumentary tissue
+Symptoms involving cardiovascular system
+Fractures
+Certain traumatic complications and unspecified injuries
+Complications of surgical and medical care, not elsewhere classified
+Range name na
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Anti-Inflammatory Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimalarials
+Cathartics
+Chelating Agents
+Cyclooxygenase Inhibitors
+Dopamine Antagonists
+Dopamine Uptake Inhibitors
+Enzyme Inhibitors
+Free Radical Scavengers
+GABA Modulators
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Immunosuppressive Agents
+NA
+Nucleic Acid Synthesis Inhibitors
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Trace Elements
+Vasodilator Agents
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 28=================================================================
+proportion of pts: 0.153075822604
+lambda: 456.559506186
+----------------------------------------
+Mycoses
+Disorders of the peripheral nervous system
+Other diseases of the upper respiratory tract
+Other diseases of urinary system
+Symptoms involving skin and other integumentary tissue
+Nonspecific findings on examination of blood
+14-alpha Demethylase Inhibitors
+Adrenergic Uptake Inhibitors
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Anti-Bacterial Agents
+Antimanic Agents
+Antineoplastic Agents, Hormonal
+Antitussive Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+GABA Modulators
+Gastrointestinal Agents
+Histamine H2 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+Muscle Relaxants, Central
+NA
+Nucleic Acid Synthesis Inhibitors
+Proton Pump Inhibitors
+Serotonin 5-HT1 Receptor Agonists
+Serotonin Uptake Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Sympathomimetics
+Topoisomerase II Inhibitors
+Vasodilator Agents
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 31=================================================================
+proportion of pts: 0.174535050072
+lambda: 451.652998792
+----------------------------------------
+Anemias
+Coagulation or hemorrhagic diseases
+Drug dependence
+Cerebrovascular disease
+Symptoms involving nervous and musculoskeletal systems
+Miscellaneous diagnostic and therapeutic procedures
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anti-Bacterial Agents
+Antihypertensive Agents
+Antimanic Agents
+Antineoplastic Agents, Hormonal
+Cardiotonic Agents
+Cathartics
+Cyclooxygenase Inhibitors
+Free Radical Scavengers
+Histamine H1 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+NA
+Narcotics
+Proton Pump Inhibitors
+Purinergic P2Y Receptor Antagonists
+Rodenticides
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
+Sweetening Agents
+Sympathomimetics
+Vasodilator Agents
+Vitamin B Complex
+Vitamins
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 35=================================================================
+proportion of pts: 0.171673819742
+lambda: 435.236534596
+----------------------------------------
+Nutritional deficiencies
+Diseases of the ear and mastoid process
+Other diseases of intestines and peritoneum
+Osteopathies, chondropathies, and acquired musculoskeletal deformities
+General symptoms
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Bone Density Conservation Agents
+Cyclooxygenase Inhibitors
+Explosive Agents
+Glucocorticoids
+Histamine H1 Antagonists, Non-Sedating
+Mineralocorticoid Receptor Antagonists
+NA
+Narcotics
+Proton Pump Inhibitors
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Topoisomerase II Inhibitors
+Vitamin B Complex
+Vitamins
+===== phenotype 7=================================================================
+proportion of pts: 0.218884120172
+lambda: 434.432836433
+----------------------------------------
+Other bacterial diseases
+Malignant neoplasm of skin
+Diseases of other endocrine glands
+Anemias
+Hereditary and degenerative diseases of the central nervous system
+Diseases of male genital organs
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antimanic Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+GABA Modulators
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Proton Pump Inhibitors
+Rodenticides
+Sodium Potassium Chloride Symporter Inhibitors
+Vasodilator Agents
+Vitamin B Complex
+===== phenotype 19=================================================================
+proportion of pts: 0.168812589413
+lambda: 414.326604824
+----------------------------------------
+Overweight, obesity and other hyperalimentation
+Pain
+Other disorders of the central nervous system
+Chronic obstructive pulmonary disease and allied conditions
+Hernia of abdominal cavity
+Symptoms involving skin and other integumentary tissue
+Nonspecific abnormal findings on radiological and other examination of body structure
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antimanic Agents
+Antioxidants
+Calcium Channel Blockers
+Cardiotonic Agents
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors
+Explosive Agents
+GABA Modulators
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Immunosuppressive Agents
+NA
+Narcotics
+Nicotinic Agonists
+Parasympatholytics
+Proton Pump Inhibitors
+Purinergic P2Y Receptor Antagonists
+Serotonin 5-HT1 Receptor Agonists
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
+Vasodilator Agents
+Vitamins
+===== phenotype 2=================================================================
+proportion of pts: 0.155937052933
+lambda: 411.689126705
+----------------------------------------
+Other diseases of the blood
+Ischemic heart disease
+Other forms of heart disease
+General symptoms
+Miscellaneous diagnostic and therapeutic procedures
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anti-Asthmatic Agents
+Antihypertensive Agents
+Antimalarials
+Antimanic Agents
+Antineoplastic Agents, Hormonal
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Epithelial Sodium Channel Blockers
+Explosive Agents
+Free Radical Scavengers
+GABA Modulators
+Gastrointestinal Agents
+Histamine H1 Antagonists, Non-Sedating
+NA
+Narcotics
+Nitric Oxide Donors
+Proton Pump Inhibitors
+Rodenticides
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
+Topoisomerase II Inhibitors
+Vasodilator Agents
+===== phenotype 3=================================================================
+proportion of pts: 0.18025751073
+lambda: 411.37035428
+----------------------------------------
+Nutritional deficiencies
+Dorsopathies
+Rheumatism, excluding the back
+Symptoms involving respiratory system and other chest symptoms
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-2 Receptor Agonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+GABA-A Receptor Agonists
+Histamine H2 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+NA
+Proton Pump Inhibitors
+Sympathomimetics
+Vasodilator Agents
+Vitamin B Complex
+Vitamins
+===== phenotype 16=================================================================
+proportion of pts: 0.125894134478
+lambda: 386.378377766
+----------------------------------------
+Hypertensive disease
+Other forms of heart disease
+Nephritis, nephrotic syndrome, and nephrosis
+Arthropathies and related disorders
+Symptoms involving respiratory system and other chest symptoms
+Adrenergic Uptake Inhibitors
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Anti-Bacterial Agents
+Antihypertensive Agents
+Antimalarials
+Antimanic Agents
+Antineoplastic Agents, Alkylating
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Explosive Agents
+GABA Modulators
+Hypoglycemic Agents
+Muscarinic Antagonists
+NA
+Proton Pump Inhibitors
+Purinergic P2Y Receptor Antagonists
+Rodenticides
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Sympathomimetics
+Vasodilator Agents
+Voltage-Gated Sodium Channel Blockers
+===== phenotype 0=================================================================
+proportion of pts: 0.171673819742
+lambda: 383.577317643
+----------------------------------------
+Hypertensive disease
+Acute respiratory infections
+Other diseases of intestines and peritoneum
+Arthropathies and related disorders
+General symptoms
+Range name na
+Adrenergic alpha-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Anesthetics, Intravenous
+Angiotensin II Type 1 Receptor Blockers
+Antacids
+Anti-Anxiety Agents
+Antimanic Agents
+GABA Modulators
+GABA-A Receptor Agonists
+Hypoglycemic Agents
+Mineralocorticoid Receptor Antagonists
+NA
+Neuroprotective Agents
+Proton Pump Inhibitors
+Serotonin Uptake Inhibitors
+Sympathomimetics
+Topoisomerase II Inhibitors
+Vasodilator Agents
+Vitamin B Complex
+===== phenotype 18=================================================================
+proportion of pts: 0.135908440629
+lambda: 381.124360381
+----------------------------------------
+Hypertensive disease
+Diseases of male genital organs
+Other inflammatory conditions of skin and subcutaneous tissue
+Dorsopathies
+Symptoms involving respiratory system and other chest symptoms
+Range name na
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Antacids
+Anti-Allergic Agents
+Anti-Asthmatic Agents
+Anti-Bacterial Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Antioxidants
+Antiviral Agents
+Cyclooxygenase 2 Inhibitors
+Cyclooxygenase Inhibitors
+Dopamine Uptake Inhibitors
+Enzyme Inhibitors
+Free Radical Scavengers
+GABA-A Receptor Agonists
+Histamine H1 Antagonists, Non-Sedating
+Histamine H2 Antagonists
+Mineralocorticoid Receptor Antagonists
+NA
+Parasympatholytics
+Proton Pump Inhibitors
+Purinergic P1 Receptor Antagonists
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Trace Elements
+Vasodilator Agents
+Viscosupplements
+Vitamins
+===== phenotype 40=================================================================
+proportion of pts: 0.113018597997
+lambda: 376.110559002
+----------------------------------------
+Other bacterial diseases
+Neurotic, personality, nonpsychotic disorders
+Other diseases of respiratory system
+Other diseases of intestines and peritoneum
+Operations on the musculoskeletal system
+Other and unspecified effects of external causes
+14-alpha Demethylase Inhibitors
+Adrenergic Uptake Inhibitors
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Adrenergic beta-Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Bacterial Agents
+Anti-Infective Agents, Local
+Anti-Inflammatory Agents
+Antidepressive Agents, Second-Generation
+Antihypertensive Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cariostatic Agents
+Cathartics
+Chelating Agents
+Cyclooxygenase Inhibitors
+Enzyme Inhibitors
+Free Radical Scavengers
+GABA Modulators
+Glucocorticoids
+Hematinics
+Histamine H2 Antagonists
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+NA
+Nucleic Acid Synthesis Inhibitors
+Proton Pump Inhibitors
+Serotonin Uptake Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
+Sympathomimetics
+Vasodilator Agents
+Vitamins
+===== phenotype 41=================================================================
+proportion of pts: 0.171673819742
+lambda: 366.756404651
+----------------------------------------
+Disorders of breast
+Other disorders of female genital tract
+Symptoms concerning nutrition, metabolism, and development
+Certain traumatic complications and unspecified injuries
+Adrenergic alpha-1 Receptor Antagonists
+Adrenergic alpha-2 Receptor Agonists
+Adrenergic beta-1 Receptor Antagonists
+Analgesics, Non-Narcotic
+Angiotensin II Type 1 Receptor Blockers
+Anti-Allergic Agents
+Antidepressive Agents, Second-Generation
+Antimanic Agents
+Antimutagenic Agents
+Bone Density Conservation Agents
+Cardiotonic Agents
+Cyclooxygenase Inhibitors
+GABA Modulators
+GABA-A Receptor Agonists
+Histamine H1 Antagonists, Non-Sedating
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Hypoglycemic Agents
+Hypolipidemic Agents
+Immunosuppressive Agents
+NA
+Narcotics
+Proton Pump Inhibitors
+Rodenticides
+Sodium Chloride Symporter Inhibitors
+Sodium Potassium Chloride Symporter Inhibitors
+Surface-Active Agents
