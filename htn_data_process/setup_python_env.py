@@ -5,6 +5,7 @@
 ## import modules
 import os
 import sys
+import time
 if os.name == 'nt': #'nt' = windows                                                                                                                                                                                        
     sys.path.append('C:\\anaconda\\lib\\site-packages') #in windows, alot of modules were installed with Anaconda
 if os.name == 'posix': #PACE cluster
@@ -18,6 +19,8 @@ import math
 import copy
 import csv
 import scipy as s
+from collections import OrderedDict
+
 #import openpyxl
 #from openpyxl import load_workbook
 import matplotlib

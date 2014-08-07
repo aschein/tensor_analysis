@@ -52,9 +52,6 @@ if bool_initial_run:
     l_pts_used_MHT_outcome_analysis = [int(x) for x in l_pts_used_MHT_outcome_analysis]
     l_pts_used_MHT_outcome_analysis = np.sort(l_pts_used_MHT_outcome_analysis)
     
-    
-    ## load phenotype file
-    fdsafdas 
 
     ## Prepare data, read data
     print("preparing and loading data ..........")
@@ -64,11 +61,15 @@ if bool_initial_run:
     df_allmeds_mht_filename = output_dir + "df_MEDS_ALLMEDS_MHT.csv"
 #    file_df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE = input_curated_dir + 'df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE.csv'
     file_df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE = '../../data/df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE.csv'   
-    
+    #declare dataframes
     df_jdrange_allentries = pd.read_csv(jdrange_filename)
     l_jdrange_names_unique = list(np.sort(df_jdrange_allentries.JD_X_RANGE.unique()))
     df_MEDS_ALLMEDS_MHT = pd.read_csv(df_allmeds_mht_filename)
     df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE = pd.read_csv(file_df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE)
+    #convert dates to datetimes
+    df_jdrange_allentries['EVENT_DATE'] = pd.to_datetime(df_jdrange_allentries['EVENT_DATE']).astype(dt.datetime)
+    df_MEDS_ALLMEDS_MHT['Entry_Date'] = pd.to_datetime(df_MEDS_ALLMEDS_MHT['Entry_Date']).astype(dt.datetime)
+    df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE['ENGAGE_DATE'] = pd.to_datetime(df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE['ENGAGE_DATE']).astype(dt.datetime)
     
     l_med_classes_unique = list(np.sort(d_meds_classes.values()))
 
@@ -145,8 +146,6 @@ if bool_initial_run:
 
 print("preparing meds data for converting to med classes / building interaction matrices ..................")
 
-start_time = time.time()
-
 l_sample_pts = l_pts_used_MHT_outcome_analysis
 df_MEDS_ALLMEDS_sample_pts = df_MEDS_ALLMEDS_MHT[df_MEDS_ALLMEDS_MHT.RUID.isin(l_sample_pts)]
 df_BPSTATUS_sample_pts = df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE[df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE.RUID.isin(l_sample_pts)]
@@ -191,30 +190,29 @@ if bool_initial_run:
 else:
     nparr_pt_jdrange_med = np.copy(nparr_pt_jdrange_med_first699)
 
-cnt_pt_loop = 699
+start_time = time.time()
+cnt_pt_loop = 0
 print("number pts total = " + str(num_pts))
-for pt in l_sample_pts[699:]:
+for pt in l_sample_pts:
     cnt_pt_loop = cnt_pt_loop + 1
     if np.mod(cnt_pt_loop, 1)== 0:
         print str(cnt_pt_loop) + "; time elapsed: " + str(time.time()-start_time)
     matrix_interaction_this_pt = np.zeros([num_jdrange, num_med_classes])
-    df_jdrange_this_pt = df_jdrange_allentries[df_jdrange_allentries['RUID']==pt] #jdrange recordings
-    df_med_this_pt = df_MEDS_ALLMEDS_sample_pts[df_MEDS_ALLMEDS_sample_pts['RUID']==pt]
+    dt_engagedate_this_pt = df_BPSTATUS_sample_pts[df_BPSTATUS_sample_pts['RUID']==pt]['ENGAGE_DATE'].astype(dt.datetime).values[0]
+    dt_twoyearbefore_this_pt = dt_engagedate_this_pt-dt.timedelta(730) #take 730 days = 2 years
+    df_jdrange_this_pt = df_jdrange_allentries[(df_jdrange_allentries['RUID']==pt) &(df_jdrange_allentries['EVENT_DATE']>dt_twoyearbefore_this_pt)& (df_jdrange_allentries['EVENT_DATE']< dt_engagedate_this_pt)] #jdrange recordings
+    df_med_this_pt = df_MEDS_ALLMEDS_sample_pts[(df_MEDS_ALLMEDS_sample_pts['RUID']==pt) & (df_MEDS_ALLMEDS_sample_pts['Entry_Date']>dt_twoyearbefore_this_pt) & (df_MEDS_ALLMEDS_sample_pts['Entry_Date']<dt_engagedate_this_pt)]
     for entry_idx in range(len(df_jdrange_this_pt)):
-        dt_jdrange = parse(df_jdrange_this_pt.iloc[entry_idx]['EVENT_DATE'])
-#        dt_jdrange = dt.datetime.strptime(df_jdrange_this_pt.iloc[entry_idx]['EVENT_DATE'], "%Y-%m-%d %H:%M:%S")
-        this_jdrange = df_jdrange_this_pt.iloc[entry_idx]['JD_X_RANGE'] #this JDRANGE
-        for med_idx in range(len(df_med_this_pt)):
+        dt_jdrange = df_jdrange_this_pt.iloc[entry_idx]['EVENT_DATE']
+        if type(dt_jdrange) == dt.datetime:
+            this_jdrange = df_jdrange_this_pt.iloc[entry_idx]['JD_X_RANGE'] #this JDRANGE
             this_jdrange_matrixidx = d_jdrange_index[this_jdrange]
-            this_med = df_med_this_pt.iloc[med_idx]['DRUG_CLASS']
-            this_med_matrixidx = d_med_index[this_med]
-            if type(df_med_this_pt.iloc[med_idx]['Entry_Date']) == str:
-                if matrix_interaction_this_pt[this_jdrange_matrixidx, this_med_matrixidx] == 0:
-                    dt_med = parse(df_med_this_pt.iloc[med_idx]['Entry_Date'])
-    #                dt_med = dt.datetime.strptime(df_med_this_pt.iloc[med_idx]['Entry_Date'], "%Y-%m-%d %H:%M:%S")
-                    timediff = dt_jdrange - dt_med
-                    if abs(timediff.days <= 7):
-                        matrix_interaction_this_pt[this_jdrange_matrixidx, this_med_matrixidx] += 1
+            ## find dataframe of all meds entries occuring within a week of the jdrange
+            df_med_within_one_week_this_pt = df_med_this_pt[(df_med_this_pt['Entry_Date']>dt_jdrange-dt.timedelta(3)) & (df_med_this_pt['Entry_Date']<dt_jdrange+dt.timedelta(3))]
+            l_medclasses_within_one_week_this_pt = list(df_med_within_one_week_this_pt['DRUG_CLASS'].unique())
+            for med in l_medclasses_within_one_week_this_pt: ##loop thru all meds that have entries within a week of the jdrange
+                this_med_matrixidx = d_med_index[med]
+                matrix_interaction_this_pt[this_jdrange_matrixidx, this_med_matrixidx] += 1       
     nparr_pt_jdrange_med = np.append(nparr_pt_jdrange_med, matrix_interaction_this_pt)
 nparr_pt_jdrange_med = nparr_pt_jdrange_med.reshape([num_pts, num_jdrange, num_med_classes])
 make_interaction_3dmatrix_time = time.time() - start_time #elapsed time

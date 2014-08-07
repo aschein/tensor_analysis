@@ -31,7 +31,7 @@ jdDict = OrderedDict(sorted({}.items(), key= lambda t:t[1])) #axis dict, jd mode
 jdrangeDict = OrderedDict(sorted({}.items(), key= lambda t:t[1])) #axis dict, jdrange mode
 for pt in l_patients_for_tensor:
     patDict[pt] = len(patDict)
-for med in l_med_names_unique: 
+for med in l_med_classes_unique: 
     medDict[med] = len(medDict)
 for jdrange in l_jdrange_names_unique:
     jdrangeDict[jdrange] = len(jdrangeDict)
@@ -45,11 +45,12 @@ nparr_pt_jdrange_med_binary_subset = nparr_pt_jdrange_med_binary[l_patDict_idx_p
 
 
 #df_MAP_CHANGE = df_MAP_CHANGE_finite[df_MAP_CHANGE_finite['RUID'].isin(l_patients_for_tensor)]
-df_MAP_CHANGE['MAP_CHANGE_GOOD'] = df_MAP_CHANGE['MEDIAN_MAP_CHANGE']<=-2 
-df_MAP_CHANGE['MAP_CHANGE_GOOD'] = df_MAP_CHANGE['MAP_CHANGE_GOOD'].astype('int')
-df_MAP_CHANGE = df_MAP_CHANGE.sort(['RUID'], ascending=1)
-l_patClass_allpts = df_MAP_CHANGE['MAP_CHANGE_GOOD'] #patient classifications
-l_patClass_allfinitepts = list(df_MAP_CHANGE[df_MAP_CHANGE.RUID.isin(l_all_pts_with_MEDS_JDRANGE)]['MAP_CHANGE_GOOD'])
+df_MAP_CHANGE_sample_pts['MAP_CHANGE_GOOD'] = df_MAP_CHANGE_sample_pts['MEDIAN_MAP_CHANGE']<=-2 
+df_MAP_CHANGE_sample_pts['MAP_CHANGE_GOOD'] = df_MAP_CHANGE_sample_pts['MAP_CHANGE_GOOD'].astype('int')
+df_MAP_CHANGE_sample_pts = df_MAP_CHANGE_sample_pts.sort(['RUID'], ascending=1)
+l_patClass_allpts = df_MAP_CHANGE_sample_pts['MAP_CHANGE_GOOD'] #patient classifications
+l_patClass_allfinitepts = list(df_MAP_CHANGE_sample_pts[df_MAP_CHANGE_sample_pts.RUID.isin(l_sample_pts)]['MAP_CHANGE_GOOD'])
+
 
 od_patClass_for_tensor = OrderedDict(zip(patDict.keys(), l_patClass_allfinitepts)) #OrderedDict of patient classifications
 

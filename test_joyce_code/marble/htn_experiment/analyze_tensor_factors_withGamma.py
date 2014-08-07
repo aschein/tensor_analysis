@@ -1,11 +1,6 @@
 import os
 import json
 
-operating_dir = '/Users/localadmin/tensor_factorization/test_joyce_code/marble/htn_experiment'
-os.chdir(operating_dir)
-
-#setup env and load df's
-execfile('./setup_load_data.py')
 
 def calculateValues(TM, M):
     fms = TM.greedy_fms(M)
@@ -14,12 +9,12 @@ def calculateValues(TM, M):
     return fms, fos, nnz
 
 ## load the tensor #######
-loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-allfinite-tensor-{0}.dat")
+loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-tensor-subsetforanalysis-{0}.dat")
 
 
 ##read in the pickles:
-matrix_pkl = open("./pheno_htn_subset_analyzed_withGamma_REG.pickle", "rb")
-pheno_htn_subset_analyzed_withGamma_REG = pickle.load(matrix_pkl)
+matrix_pkl = open("./pheno_htn_subset_analyzed_REG_withGamma.pickle", "rb")
+pheno_htn_subset_analyzed_REG_withGamma = pickle.load(matrix_pkl)
 matrix_pkl.close()
   
 matrix_pkl = open("./Yinfo_htn_subset_analyzed_withGamma.pickle", "rb")
@@ -30,7 +25,7 @@ matrix_pkl.close()
 ##############################################################################################################
 
 #tensor with all phenotypes (factorization)
-ktensor_phenotypes = pheno_htn_subset_analyzed_withGamma_REG
+ktensor_phenotypes = pheno_htn_subset_analyzed_REG_withGamma[0]
 l_pts = loaded_axisDict[0].keys()
 l_jdrange = loaded_axisDict[1].keys()
 l_meds= loaded_axisDict[2].keys()
@@ -38,15 +33,16 @@ l_meds= loaded_axisDict[2].keys()
 #will store all the data
 d_pheno_nonzero_labels = OrderedDict()
 
+
 #sort phenotypes by lambda values:
-d_lambda_phenoNumber = OrderedDict(zip(list(pheno_htn_subset_analyzed_withGamma_REG.lmbda),
+d_lambda_phenoNumber = OrderedDict(zip(list(ktensor_phenotypes.lmbda),
                                         list(range(R) )
                                         ))
 l_phenoNumbers_sorted_by_lambda = [  d_lambda_phenoNumber[x] for x in sorted(d_lambda_phenoNumber.keys(), reverse=True)]                                  
 
 #print phenotype feature names #################
-#for i in [0]:
-for i in l_phenoNumbers_sorted_by_lambda:
+for i in range(1):
+#for i in l_phenoNumbers_sorted_by_lambda:
     print "===== phenotype " + str(i) + "================================================================="
     this_lmbda = ktensor_phenotypes.lmbda[i]
     this_pheno_pt_factor = ktensor_phenotypes.U[0][:,i]

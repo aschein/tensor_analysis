@@ -1,17 +1,15 @@
 #do the factorization with the list of patients in question 
 #
-#
+# last modified aug 6, 2014
 
+R = 50
+alpha = 1
 
-#BP data
-df_MAP_CHANGE = df_BPSTATUS_Phenotype_BMI_ECG_EGFR_BPCHANGE[['RUID', 'MEDIAN_MAP_CHANGE']] #should have 6700 rows
-df_MAP_CHANGE_finite = df_MAP_CHANGE[np.isfinite(df_MAP_CHANGE['MEDIAN_MAP_CHANGE'])] #should have 2845 rows
-l_pts_with_MAP_CHANGE_recorded = list(df_MAP_CHANGE_finite.RUID)
 ##classification for patients####
 ##classification for patients: use MAP_CHANGE < -2 as a positive change
 
 #determine classifications of patients in the tensor
-df_MAP_CHANGE_forTensorAnalysis = df_MAP_CHANGE_finite
+df_MAP_CHANGE_forTensorAnalysis = df_MAP_CHANGE_sample_pts
 df_MAP_CHANGE_forTensorAnalysis['MAP_CHANGE_GOOD'] = df_MAP_CHANGE_forTensorAnalysis['MEDIAN_MAP_CHANGE']<=-2
 df_MAP_CHANGE_forTensorAnalysis['MAP_CHANGE_GOOD'] = df_MAP_CHANGE_forTensorAnalysis['MAP_CHANGE_GOOD'].astype('int')
 df_MAP_CHANGE_forTensorAnalysis = df_MAP_CHANGE_forTensorAnalysis.sort(['RUID'], ascending=1)
@@ -25,7 +23,7 @@ loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-all
 #convert to nparray
 nparr_loaded_X = loaded_X.tondarray()
 #patients needed: 
-l_patDict_idx_patients_for_tensor = np.sort([loaded_axisDict[0][ruid] for ruid in l_pts_with_MAP_CHANGE_recorded])
+l_patDict_idx_patients_for_tensor = np.sort([loaded_axisDict[0][ruid] for ruid in l_sample_pts])
 
 nparr_subset_for_analysis = nparr_loaded_X[l_patDict_idx_patients_for_tensor]
 patDict_subset_for_analysis = OrderedDict()
@@ -66,8 +64,11 @@ pheno_htn_subset_analyzed_AUG = spntf_htn_subset_analyzed.M[1]
 
 
 #save factorization in pickle
-with open("pheno_htn_subset_analyzed.pickle", "wb") as output_file: ##IMPT! phenotype stored in this pickle
-    pickle.dump(pheno_htn_subset_analyzed, output_file)
+with open("pheno_htn_subset_analyzed_REG.pickle", "wb") as output_file: ##IMPT! phenotype stored in this pickle
+    pickle.dump(pheno_htn_subset_analyzed_REG, output_file)
+output_file.close()
+with open("pheno_htn_subset_analyzed_AUG.pickle", "wb") as output_file: ##IMPT! phenotype stored in this pickle
+    pickle.dump(pheno_htn_subset_analyzed_AUG, output_file)
 output_file.close()
 with open("Yinfo_htn_subset_analyzed.pickle", "wb") as output_file:
     pickle.dump(Yinfo_htn_subset_analyzed, output_file)
@@ -85,7 +86,7 @@ loaded_X_subset_to_analyze, loaded_axisDict_subset_to_analyze, loaded_classDict_
 startTime = time.time()#start time -- to time it
 ##factorization
 spntf_htn_subset_analyzed_withGamma = SP_NTF.SP_NTF(loaded_X_subset_to_analyze, R=R, alpha=alpha)
-Yinfo_htn_subset_analyzed_withGamma = spntf_htn_subset_analyzed.computeDecomp(gamma=[0.0001, 0.1, 0.01])
+Yinfo_htn_subset_analyzed_withGamma = spntf_htn_subset_analyzed.computeDecomp(gamma=[0.0001, 0.01, 0.01])
 marbleElapse = time.time() - startTime #elapsed time
 
 #tensor decomposition factors ("phenotypes"):
