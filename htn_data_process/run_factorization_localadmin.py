@@ -4,7 +4,7 @@
 
 R = 50
 alpha = 1
-gammaForTF = [0.0001, 0.05, 0.05]
+gammaForTF = [0.001, 0.1, 0.1]
 
 
 

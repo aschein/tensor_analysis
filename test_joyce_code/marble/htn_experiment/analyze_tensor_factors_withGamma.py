@@ -1,3 +1,5 @@
+gamma_str = '_gamma-0.0001-0.01-0.01.pickle'
+
 import os
 import json
 
@@ -13,14 +15,19 @@ loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-ten
 
 
 ##read in the pickles:
-matrix_pkl = open("./pheno_htn_subset_analyzed_REG_withGamma.pickle", "rb")
+outfile_str = "pheno_htn_subset_analyzed_REG" + gamma_str
+matrix_pkl = open(outfile_str, "rb")
 pheno_htn_subset_analyzed_REG_withGamma = pickle.load(matrix_pkl)
 matrix_pkl.close()
-  
-matrix_pkl = open("./Yinfo_htn_subset_analyzed_withGamma.pickle", "rb")
+
+outfile_str = "Yinfo_htn_subset_analyzed" + gamma_str  
+matrix_pkl = open(outfile_str, "rb")
 Yinfo_htn_subset_analyzed_withGamma = pickle.load(matrix_pkl)
 matrix_pkl.close()
- 
+
+#write output file
+pheno_outstream = open("phenotypes"+gamma_str+".out", 'w+')
+    
 
 ##############################################################################################################
 
@@ -41,9 +48,10 @@ d_lambda_phenoNumber = OrderedDict(zip(list(ktensor_phenotypes.lmbda),
 l_phenoNumbers_sorted_by_lambda = [  d_lambda_phenoNumber[x] for x in sorted(d_lambda_phenoNumber.keys(), reverse=True)]                                  
 
 #print phenotype feature names #################
-for i in range(1):
-#for i in l_phenoNumbers_sorted_by_lambda:
+#for i in range(10):
+for i in l_phenoNumbers_sorted_by_lambda:
     print "===== phenotype " + str(i) + "================================================================="
+    pheno_outstream.write("===== phenotype " + str(i) + "=================================================================" + '\n')
     this_lmbda = ktensor_phenotypes.lmbda[i]
     this_pheno_pt_factor = ktensor_phenotypes.U[0][:,i]
     this_pheno_jdrange_factor = ktensor_phenotypes.U[1][:,i]
@@ -75,8 +83,11 @@ for i in range(1):
     d_pheno_nonzero_labels[i]['JDRANGE_NAMES_NZ'] = l_nonzero_jdrange_names_thisPheno #for phenotype i 
     
     print "proportion of pts: " + str(d_pheno_nonzero_labels[i]['PERCENT_PTS'])
+    pheno_outstream.write("proportion of pts: " + str(d_pheno_nonzero_labels[i]['PERCENT_PTS']) + '\n')
     print "lambda: " + str(this_lmbda)
+    pheno_outstream.write("lambda: " + str(this_lmbda) + '\n')
     print "----------------------------------------" #divider
+    pheno_outstream.write("----------------------------------------" + '\n')
     #print "\tnumber jdrange: " + str(len(d_pheno_nonzero_labels[i]['JDRANGE_NZ']))
     #print "\tjdrange: " + str(d_pheno_nonzero_labels[i]['JDRANGE_NZ'])
     for jdrange in d_pheno_nonzero_labels[i]['JDRANGE_NZ']:
@@ -84,7 +95,9 @@ for i in range(1):
     #print "\tnumber meds: " + str(len(d_pheno_nonzero_labels[i]['MEDS_NZ']))
     #print "\tmeds: " + str(d_pheno_nonzero_labels[i]['MEDS_NZ'])
     print "----------------------------------------" #divider between diagnostic codes and meds
+    pheno_outstream.write("----------------------------------------" + '\n')
     for med in d_pheno_nonzero_labels[i]['MEDS_NZ']:
         print med   
-        
+        pheno_outstream.write(med + '\n')
+pheno_outstream.close()
         
