@@ -2,20 +2,7 @@
 proportion of pts: 0.204680682269
 lambda: 10127.1266603
 ----------------------------------------
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDisorders of lipoid metabolismDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -33,16 +20,7 @@ Vitamins
 proportion of pts: 0.209440698136
 lambda: 9035.67323311
 ----------------------------------------
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -59,21 +37,7 @@ Vasodilator Agents
 proportion of pts: 0.210630702102
 lambda: 8977.22189746
 ----------------------------------------
-Disorders of lipoid metabolism
-Organic sleep disorders
-Hypertensive disease
-Acute respiratory infections
-Diseases of esophagus, stomach, and duodenum
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-----------------------------------------
+Disorders of lipoid metabolismOrganic sleep disordersHypertensive diseaseAcute respiratory infectionsDiseases of esophagus, stomach, and duodenumArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of blood----------------------------------------
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
 Antidepressive Agents, Second-Generation
@@ -90,15 +54,7 @@ Vasodilator Agents
 proportion of pts: 0.24355414518
 lambda: 8837.47221658
 ----------------------------------------
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Hypertensive disease
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+DiabetesNutritional deficienciesDisorders of lipoid metabolismHypertensive diseaseRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
 Bone Density Conservation Agents
@@ -115,18 +71,7 @@ Vasodilator Agents
 proportion of pts: 0.188813962713
 lambda: 8530.89240412
 ----------------------------------------
-Disorders of lipoid metabolism
-Drug dependence
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Pneumonia and influenza
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismDrug dependenceHypertensive diseaseIschemic heart diseaseOther forms of heart diseasePneumonia and influenzaChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic beta-2 Receptor Agonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -146,19 +91,7 @@ Vasodilator Agents
 proportion of pts: 0.197937326458
 lambda: 8438.91664466
 ----------------------------------------
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -176,18 +109,7 @@ Sodium Chloride Symporter Inhibitors
 proportion of pts: 0.209837366125
 lambda: 8168.77507842
 ----------------------------------------
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Hypertensive disease
-Diseases of esophagus, stomach, and duodenum
-Other diseases of urinary system
-Other disorders of female genital tract
-Dorsopathies
-General symptoms
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+Disorders of thyroid glandDisorders of lipoid metabolismHypertensive diseaseDiseases of esophagus, stomach, and duodenumOther diseases of urinary systemOther disorders of female genital tractDorsopathiesGeneral symptomsSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 Angiotensin II Type 1 Receptor Blockers
 Anti-Allergic Agents
 Bone Density Conservation Agents
@@ -205,17 +127,7 @@ Vasodilator Agents
 proportion of pts: 0.20785402618
 lambda: 8152.77498663
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Diseases of esophagus, stomach, and duodenum
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseDiseases of esophagus, stomach, and duodenumArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Antihypertensive Agents
 Cardiotonic Agents
@@ -232,16 +144,7 @@ Vitamins
 proportion of pts: 0.222927409758
 lambda: 8038.7163629
 ----------------------------------------
-Disorders of lipoid metabolism
-Organic sleep disorders
-Diseases of the ear and mastoid process
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of esophagus, stomach, and duodenum
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-----------------------------------------
+Disorders of lipoid metabolismOrganic sleep disordersDiseases of the ear and mastoid processHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of esophagus, stomach, and duodenumSymptoms involving head and neckSymptoms involving respiratory system and other chest symptoms----------------------------------------
 Angiotensin II Type 1 Receptor Blockers
 Anti-Allergic Agents
 Anti-Bacterial Agents
@@ -257,20 +160,7 @@ Vasodilator Agents
 proportion of pts: 0.186830622769
 lambda: 8002.40961591
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Nephritis, nephrotic syndrome, and nephrosis
-Symptoms involving respiratory system and other chest symptoms
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismAnemiasDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumNephritis, nephrotic syndrome, and nephrosisSymptoms involving respiratory system and other chest symptomsOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Angiotensin II Type 1 Receptor Blockers
 Cyclooxygenase Inhibitors
@@ -288,19 +178,7 @@ Vitamins
 proportion of pts: 0.187623958747
 lambda: 7910.77507745
 ----------------------------------------
-Disorders of lipoid metabolism
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Acute respiratory infections
-Diseases of male genital organs
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseAcute respiratory infectionsDiseases of male genital organsArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic beta-1 Receptor Antagonists
 Anti-Bacterial Agents
@@ -318,19 +196,7 @@ Vitamins
 proportion of pts: 0.170567235224
 lambda: 7769.15906622
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Symptoms involving skin and other integumentary tissue
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesSymptoms involving skin and other integumentary tissueRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
@@ -347,19 +213,7 @@ Vasodilator Agents
 proportion of pts: 0.20785402618
 lambda: 7712.96984135
 ----------------------------------------
-Disorders of lipoid metabolism
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Other symptoms involving abdomen and pelvis
-----------------------------------------
+Disorders of lipoid metabolismHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsOther symptoms involving abdomen and pelvis----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
 Analgesics, Non-Narcotic
@@ -378,21 +232,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.150337167791
 lambda: 7658.52721778
 ----------------------------------------
-Disorders of lipoid metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of arteries, arterioles, and capillaries
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Nephritis, nephrotic syndrome, and nephrosis
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismDisorders of fluid, electrolyte, and acid-base balanceAnemiasHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of arteries, arterioles, and capillariesDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemNephritis, nephrotic syndrome, and nephrosisSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
@@ -412,21 +252,7 @@ Vasodilator Agents
 proportion of pts: 0.160253867513
 lambda: 7621.54487227
 ----------------------------------------
-Mycoses
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Other forms of heart disease
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Other diseases of skin and subcutaneous tissue
-Rheumatism, excluding the back
-Symptoms involving urinary system
-Range name na
-----------------------------------------
+MycosesDiabetesDisorders of lipoid metabolismAnemiasDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseOther forms of heart diseaseNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemOther diseases of skin and subcutaneous tissueRheumatism, excluding the backSymptoms involving urinary systemRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Bacterial Agents
@@ -445,20 +271,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.156683855613
 lambda: 7334.42673016
 ----------------------------------------
-Anemias
-Hypertensive disease
-Other forms of heart disease
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Other diseases of urinary system
-Dorsopathies
-Rheumatism, excluding the back
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+AnemiasHypertensive diseaseOther forms of heart diseaseDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of urinary systemDorsopathiesRheumatism, excluding the backSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Antacids
 Anti-Allergic Agents
@@ -476,19 +289,7 @@ Surface-Active Agents
 proportion of pts: 0.16144387148
 lambda: 7307.14176767
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Hypertensive disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismHypertensive diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic beta-2 Receptor Agonists
 Anti-Allergic Agents
 Anti-Asthmatic Agents
@@ -506,21 +307,7 @@ Vasodilator Agents
 proportion of pts: 0.17929393098
 lambda: 7040.30154047
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Hypertensive disease
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Liver
-Other diseases of urinary system
-Other inflammatory conditions of skin and subcutaneous tissue
-Dorsopathies
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-----------------------------------------
+DiabetesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationOrganic sleep disordersHypertensive diseaseDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumLiverOther diseases of urinary systemOther inflammatory conditions of skin and subcutaneous tissueDorsopathiesSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvis----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -538,20 +325,7 @@ Proton Pump Inhibitors
 proportion of pts: 0.194763982547
 lambda: 6945.18183438
 ----------------------------------------
-Mycoses
-Neoplasm of uncertain behavior of other sites & tissues
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-----------------------------------------
+MycosesNeoplasm of uncertain behavior of other sites & tissuesDiabetesDisorders of lipoid metabolismDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractOther diseases of skin and subcutaneous tissueArthropathies and related disordersSymptoms involving head and neckSymptoms involving respiratory system and other chest symptoms----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Bacterial Agents
@@ -567,16 +341,7 @@ Vasodilator Agents
 proportion of pts: 0.170567235224
 lambda: 6857.8473079
 ----------------------------------------
-Disorders of thyroid gland
-Disorders of the eye and adnexa
-Hypertensive disease
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDisorders of the eye and adnexaHypertensive diseaseArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
 Analgesics, Non-Narcotic
@@ -595,20 +360,7 @@ Vasodilator Agents
 proportion of pts: 0.130503768346
 lambda: 6801.4386993
 ----------------------------------------
-Diabetes
-Operations on the cardiovascular system
-Hypertensive disease
-Other forms of heart disease
-Other diseases of respiratory system
-Arthropathies and related disorders
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Miscellaneous diagnostic and therapeutic procedures
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+DiabetesOperations on the cardiovascular systemHypertensive diseaseOther forms of heart diseaseOther diseases of respiratory systemArthropathies and related disordersOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving respiratory system and other chest symptomsMiscellaneous diagnostic and therapeutic proceduresComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
 Anti-Anxiety Agents
@@ -625,21 +377,7 @@ Topoisomerase II Inhibitors
 proportion of pts: 0.12534708449
 lambda: 6548.33238773
 ----------------------------------------
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Coagulation or hemorrhagic diseases
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Pneumonia and influenza
-Other diseases of respiratory system
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Ill-defined and unknown causes of morbidity and mortality
-----------------------------------------
+Disorders of fluid, electrolyte, and acid-base balanceAnemiasCoagulation or hemorrhagic diseasesOther forms of heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesPneumonia and influenzaOther diseases of respiratory systemNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueIll-defined and unknown causes of morbidity and mortality----------------------------------------
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
 Anti-Bacterial Agents
@@ -658,19 +396,7 @@ Vasodilator Agents
 proportion of pts: 0.174533915113
 lambda: 6464.23891287
 ----------------------------------------
-Malignant neoplasm of breast
-Hypertensive disease
-Other forms of heart disease
-Disorders of breast
-Other disorders of female genital tract
-Infections of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Symptoms involving skin and other integumentary tissue
-Nonspecific abnormal findings on radiological and other examination of body structure
-Range name na
-----------------------------------------
+Malignant neoplasm of breastHypertensive diseaseOther forms of heart diseaseDisorders of breastOther disorders of female genital tractInfections of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesSymptoms involving skin and other integumentary tissueNonspecific abnormal findings on radiological and other examination of body structureRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -688,21 +414,7 @@ Vasodilator Agents
 proportion of pts: 0.157080523602
 lambda: 6430.95672424
 ----------------------------------------
-Disorders of lipoid metabolism
-Gout
-Organic sleep disorders
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of urinary system
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving urinary system
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismGoutOrganic sleep disordersHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of urinary systemArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving urinary systemNonspecific findings on examination of bloodRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Antidepressive Agents, Second-Generation
@@ -719,19 +431,7 @@ Vasodilator Agents
 proportion of pts: 0.196350654502
 lambda: 6306.62784966
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 Antacids
 Antimanic Agents
 Antineoplastic Agents, Hormonal
@@ -747,21 +447,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.167790559302
 lambda: 6304.62287315
 ----------------------------------------
-Nutritional deficiencies
-Disorders of fluid, electrolyte, and acid-base balance
-Other diseases of the blood
-Disorders of the eye and adnexa
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Other disorders of female genital tract
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Range name na
-----------------------------------------
+Nutritional deficienciesDisorders of fluid, electrolyte, and acid-base balanceOther diseases of the bloodDisorders of the eye and adnexaHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractOther disorders of female genital tractGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemRange name na----------------------------------------
 Anti-Allergic Agents
 Antidepressive Agents, Second-Generation
 Bone Density Conservation Agents
@@ -779,18 +465,7 @@ Vitamin B Complex
 proportion of pts: 0.16858389528
 lambda: 6290.10478155
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Hypertensive disease
-Ischemic heart disease
-Cerebrovascular disease
-Nephritis, nephrotic syndrome, and nephrosis
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismAnemiasHypertensive diseaseIschemic heart diseaseCerebrovascular diseaseNephritis, nephrotic syndrome, and nephrosisSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-2 Receptor Agonists
 Anti-Allergic Agents
@@ -809,17 +484,7 @@ Vitamins
 proportion of pts: 0.212614042047
 lambda: 6208.5638452
 ----------------------------------------
-Mycoses
-Malignant neoplasm of skin
-Neoplasm of uncertain behavior of other sites & tissues
-Diseases of the ear and mastoid process
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Acute respiratory infections
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Dorsopathies
-----------------------------------------
+MycosesMalignant neoplasm of skinNeoplasm of uncertain behavior of other sites & tissuesDiseases of the ear and mastoid processHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemAcute respiratory infectionsOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueDorsopathies----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Anti-Allergic Agents
 Antihypertensive Agents
@@ -836,18 +501,7 @@ Vitamins
 proportion of pts: 0.165410551369
 lambda: 6120.00865899
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Antidepressive Agents, Second-Generation
 Explosive Agents
@@ -861,19 +515,7 @@ Purinergic P2Y Receptor Antagonists
 proportion of pts: 0.141213804046
 lambda: 6025.62657421
 ----------------------------------------
-Other bacterial diseases
-Diseases of other endocrine glands
-Disorders of fluid, electrolyte, and acid-base balance
-Other diseases of the blood
-Organic sleep disorders
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Infections of skin and subcutaneous tissue
-Symptoms involving skin and other integumentary tissue
-Symptoms involving cardiovascular system
-Nonspecific findings on examination of blood
-Other and unspecified effects of external causes
-----------------------------------------
+Other bacterial diseasesDiseases of other endocrine glandsDisorders of fluid, electrolyte, and acid-base balanceOther diseases of the bloodOrganic sleep disordersDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemInfections of skin and subcutaneous tissueSymptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemNonspecific findings on examination of bloodOther and unspecified effects of external causes----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -892,21 +534,7 @@ Vasodilator Agents
 proportion of pts: 0.141610472035
 lambda: 6004.03342116
 ----------------------------------------
-Benign neoplasm of other parts of digestive system
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Hypertensive disease
-Ischemic heart disease
-Diseases of arteries, arterioles, and capillaries
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of intestines and peritoneum
-Dorsopathies
-Miscellaneous diagnostic and therapeutic procedures
-Range name na
-----------------------------------------
+Benign neoplasm of other parts of digestive systemDisorders of thyroid glandDiabetesDisorders of lipoid metabolismOrganic sleep disordersDisorders of the peripheral nervous systemHypertensive diseaseIschemic heart diseaseDiseases of arteries, arterioles, and capillariesDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of intestines and peritoneumDorsopathiesMiscellaneous diagnostic and therapeutic proceduresRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Analgesics, Non-Narcotic
 Anesthetics, Intravenous
@@ -925,20 +553,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.122570408568
 lambda: 5846.5455406
 ----------------------------------------
-nan
-Disorders of lipoid metabolism
-Drug dependence
-Operations on the cardiovascular system
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Other diseases of urinary system
-Diseases of male genital organs
-Operations on the musculoskeletal system
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Miscellaneous diagnostic and therapeutic procedures
-----------------------------------------
+nanDisorders of lipoid metabolismDrug dependenceOperations on the cardiovascular systemHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseOther diseases of urinary systemDiseases of male genital organsOperations on the musculoskeletal systemSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsMiscellaneous diagnostic and therapeutic procedures----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -957,18 +572,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.163030543435
 lambda: 5699.91892242
 ----------------------------------------
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Na
-Hypertensive disease
-Diseases of oral cavity, salivary glands, and jaws
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Range name na
-----------------------------------------
+DiabetesDisorders of lipoid metabolismAnemiasNaHypertensive diseaseDiseases of oral cavity, salivary glands, and jawsArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
 Antidepressive Agents, Second-Generation
@@ -986,19 +590,7 @@ Vasodilator Agents
 proportion of pts: 0.163823879413
 lambda: 5695.14597165
 ----------------------------------------
-Disorders of fluid, electrolyte, and acid-base balance
-Na
-Neurotic, personality, nonpsychotic disorders
-Drug dependence
-Other disorders of the central nervous system
-Hypertensive disease
-Nephritis, nephrotic syndrome, and nephrosis
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of urine
-----------------------------------------
+Disorders of fluid, electrolyte, and acid-base balanceNaNeurotic, personality, nonpsychotic disordersDrug dependenceOther disorders of the central nervous systemHypertensive diseaseNephritis, nephrotic syndrome, and nephrosisDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of urine----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1016,19 +608,7 @@ Vasodilator Agents
 proportion of pts: 0.167790559302
 lambda: 5534.00198713
 ----------------------------------------
-Disorders of lipoid metabolism
-Gout
-Hypertensive disease
-Ischemic heart disease
-Arthropathies and related disorders
-Dorsopathies
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Abnormal results of function studies
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismGoutHypertensive diseaseIschemic heart diseaseArthropathies and related disordersDorsopathiesSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodAbnormal results of function studiesRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1045,19 +625,7 @@ Tubulin Modulators
 proportion of pts: 0.158667195557
 lambda: 5490.54839911
 ----------------------------------------
-Diabetes
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Other diseases of urinary system
-Infections of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving urinary system
-Range name na
-----------------------------------------
+DiabetesDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseOther diseases of urinary systemInfections of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving urinary systemRange name na----------------------------------------
 Angiotensin II Type 1 Receptor Blockers
 Anti-Allergic Agents
 Anti-Bacterial Agents
@@ -1074,18 +642,7 @@ Vasodilator Agents
 proportion of pts: 0.165410551369
 lambda: 5370.31563729
 ----------------------------------------
-Disorders of the eye and adnexa
-Hypertensive disease
-Other diseases of intestines and peritoneum
-Other diseases of urinary system
-Arthropathies and related disorders
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+Disorders of the eye and adnexaHypertensive diseaseOther diseases of intestines and peritoneumOther diseases of urinary systemArthropathies and related disordersOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
 Bone Density Conservation Agents
@@ -1103,20 +660,7 @@ Vitamins
 proportion of pts: 0.123363744546
 lambda: 5367.51632987
 ----------------------------------------
-Organic psychotic conditions
-Na
-Hereditary and degenerative diseases of the central nervous system
-Other disorders of the central nervous system
-Cerebrovascular disease
-Noninfectious enteritis and colitis
-Other diseases of intestines and peritoneum
-Dorsopathies
-General symptoms
-Symptoms involving nervous and musculoskeletal systems
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving head and neck
-Symptoms involving digestive system
-----------------------------------------
+Organic psychotic conditionsNaHereditary and degenerative diseases of the central nervous systemOther disorders of the central nervous systemCerebrovascular diseaseNoninfectious enteritis and colitisOther diseases of intestines and peritoneumDorsopathiesGeneral symptomsSymptoms involving nervous and musculoskeletal systemsSymptoms concerning nutrition, metabolism, and developmentSymptoms involving head and neckSymptoms involving digestive system----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1135,19 +679,7 @@ Vasodilator Agents
 proportion of pts: 0.151923839746
 lambda: 5305.37203019
 ----------------------------------------
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Anemias
-Hereditary and degenerative diseases of the central nervous system
-Disorders of the peripheral nervous system
-Hypertensive disease
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Range name na
-----------------------------------------
+Nutritional deficienciesDisorders of lipoid metabolismAnemiasHereditary and degenerative diseases of the central nervous systemDisorders of the peripheral nervous systemHypertensive diseaseDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Antidepressive Agents, Second-Generation
 Antioxidants
@@ -1163,18 +695,7 @@ Vitamin B Complex
 proportion of pts: 0.144783815946
 lambda: 5220.56230193
 ----------------------------------------
-Nutritional deficiencies
-Anemias
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Other diseases of digestive system
-Congenital anomalies
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-----------------------------------------
+Nutritional deficienciesAnemiasOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityOther diseases of digestive systemCongenital anomaliesGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvis----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anesthetics, Intravenous
@@ -1191,18 +712,7 @@ Vitamin B Complex
 proportion of pts: 0.151130503768
 lambda: 5183.51060477
 ----------------------------------------
-Disorders of lipoid metabolism
-Na
-Neurotic, personality, nonpsychotic disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Other forms of heart disease
-Other diseases of the upper respiratory tract
-Other diseases of skin and subcutaneous tissue
-General symptoms
-Na
-----------------------------------------
+Disorders of lipoid metabolismNaNeurotic, personality, nonpsychotic disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseOther forms of heart diseaseOther diseases of the upper respiratory tractOther diseases of skin and subcutaneous tissueGeneral symptomsNa----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1220,18 +730,7 @@ Vitamin B Complex
 proportion of pts: 0.13605712019
 lambda: 5059.73150675
 ----------------------------------------
-Diseases of other endocrine glands
-Disorders of lipoid metabolism
-Organic sleep disorders
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Diseases of male genital organs
-Arthropathies and related disorders
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Diseases of other endocrine glandsDisorders of lipoid metabolismOrganic sleep disordersDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseDiseases of male genital organsArthropathies and related disordersSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Androgens
@@ -1248,17 +747,7 @@ Vasodilator Agents
 proportion of pts: 0.165410551369
 lambda: 5040.58332004
 ----------------------------------------
-Disorders of thyroid gland
-Nutritional deficiencies
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Inflammatory disease of female pelvic organs
-Other disorders of female genital tract
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Disorders of thyroid glandNutritional deficienciesOverweight, obesity and other hyperalimentationOrganic sleep disordersHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemInflammatory disease of female pelvic organsOther disorders of female genital tractNonspecific findings on examination of bloodRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
 Anti-Allergic Agents
@@ -1276,20 +765,7 @@ Vasodilator Agents
 proportion of pts: 0.129710432368
 lambda: 4438.60136536
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Anemias
-Neurotic, personality, nonpsychotic disorders
-Disorders of the eye and adnexa
-Hypertensive disease
-Diseases of esophagus, stomach, and duodenum
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesNutritional deficienciesDisorders of lipoid metabolismAnemiasNeurotic, personality, nonpsychotic disordersDisorders of the eye and adnexaHypertensive diseaseDiseases of esophagus, stomach, and duodenumArthropathies and related disordersRheumatism, excluding the backGeneral symptomsRange name na----------------------------------------
 Angiogenesis Inhibitors
 Anti-Allergic Agents
 Anti-Asthmatic Agents
@@ -1306,15 +782,7 @@ Vitamin B Complex
 proportion of pts: 0.136850456168
 lambda: 4385.86887998
 ----------------------------------------
-Pain
-Hypertensive disease
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Operations on the musculoskeletal system
-Sprains and strains of joints and adjacent muscles
-Range name na
-----------------------------------------
+PainHypertensive diseaseArthropathies and related disordersDorsopathiesRheumatism, excluding the backOperations on the musculoskeletal systemSprains and strains of joints and adjacent musclesRange name na----------------------------------------
 Analgesics, Non-Narcotic
 Anesthetics, Local
 Anti-Allergic Agents
@@ -1330,21 +798,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.13248710829
 lambda: 4331.9984787
 ----------------------------------------
-Operations on the nose, mouth, and pharynx
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Hypertensive disease
-Other forms of heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Operations on the nose, mouth, and pharynxDiabetesDisorders of lipoid metabolismAnemiasHypertensive diseaseOther forms of heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Anti-Infective Agents, Local
 Antifungal Agents
@@ -1361,19 +815,7 @@ Trace Elements
 proportion of pts: 0.126537088457
 lambda: 4120.23293685
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Na
-Disorders of the eye and adnexa
-Hypertensive disease
-Acute respiratory infections
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismNaDisorders of the eye and adnexaHypertensive diseaseAcute respiratory infectionsArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Anti-Bacterial Agents
 Antidepressive Agents, Second-Generation
 Antimanic Agents
@@ -1390,19 +832,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.120587068624
 lambda: 4104.06933993
 ----------------------------------------
-Benign neoplasm of skin
-Neoplasm of uncertain behavior of other sites & tissues
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Gout
-Hypertensive disease
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Benign neoplasm of skinNeoplasm of uncertain behavior of other sites & tissuesNutritional deficienciesDisorders of lipoid metabolismGoutHypertensive diseaseOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersOsteopathies, chondropathies, and acquired musculoskeletal deformitiesNonspecific findings on examination of bloodRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
@@ -1419,14 +849,7 @@ Vitamin B Complex
 proportion of pts: 0.149147163824
 lambda: 4094.04959906
 ----------------------------------------
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Fractures
-Sprains and strains of joints and adjacent muscles
-Na
-Certain traumatic complications and unspecified injuries
-----------------------------------------
+Arthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesFracturesSprains and strains of joints and adjacent musclesNaCertain traumatic complications and unspecified injuries----------------------------------------
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
 Anti-Bacterial Agents
@@ -1443,19 +866,7 @@ Vasodilator Agents
 proportion of pts: 0.0801269337564
 lambda: 1442.02091282
 ----------------------------------------
-Viral diseases accompanied by exanthem
-Malignant neoplasm of lymphatic and hematopoietic tissue
-Disorders of plasma protein metabolism
-Anemias
-Other diseases of the blood
-Hypertensive disease
-Chronic obstructive pulmonary disease and allied conditions
-Infections of skin and subcutaneous tissue
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Viral diseases accompanied by exanthemMalignant neoplasm of lymphatic and hematopoietic tissueDisorders of plasma protein metabolismAnemiasOther diseases of the bloodHypertensive diseaseChronic obstructive pulmonary disease and allied conditionsInfections of skin and subcutaneous tissueOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Anti-Allergic Agents
 Anti-Bacterial Agents
 Antiviral Agents

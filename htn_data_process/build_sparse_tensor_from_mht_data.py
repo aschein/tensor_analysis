@@ -31,7 +31,7 @@ jdDict = OrderedDict(sorted({}.items(), key= lambda t:t[1])) #axis dict, jd mode
 jdrangeDict = OrderedDict(sorted({}.items(), key= lambda t:t[1])) #axis dict, jdrange mode
 for pt in l_patients_for_tensor:
     patDict[pt] = len(patDict)
-for med in l_med_classes_unique: 
+for med in l_classes_unique_singlemeds: 
     medDict[med] = len(medDict)
 for jdrange in l_jdrange_names_unique:
     jdrangeDict[jdrange] = len(jdrangeDict)
@@ -55,4 +55,4 @@ l_patClass_allfinitepts = list(df_MAP_CHANGE_sample_pts[df_MAP_CHANGE_sample_pts
 od_patClass_for_tensor = OrderedDict(zip(patDict.keys(), l_patClass_allfinitepts)) #OrderedDict of patient classifications
 
 #save the tensor
-tensorIO.saveSingleTensor(sparse_tensor_all_finite, axisDict, od_patClass_for_tensor, "htn-allfinite-tensor-{0}.dat") #
+tensorIO.saveSingleTensor(sparse_tensor_all_finite, axisDict, od_patClass_for_tensor, "htn-allfinite-tensor-20140811-{0}.dat") #

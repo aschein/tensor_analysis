@@ -1,0 +1,19 @@
+fdsafdsafdsaf
+fdsa
+fdsaf
+fdsa
+
+fdsa
+
+
+
+
+    l_nonzero_jdrange_names_thisPheno = []
+    
+    for j in this_pheno_pt_nnz:
+        l_nonzero_pt_thisPheno.append(l_pts[j])
+    for j in this_pheno_jdrange_nnz:
+        l_nonzero_jdrange_thisPheno.append(l_jdrange[j])
+        l_nonzero_jdrange_names_thisPheno.append(d_jdrange_lookup[l_jdrange[j]])
+    for j in this_pheno_med_nnz:
+        l_nonzero_meds_thisPheno.append(l_meds[j])

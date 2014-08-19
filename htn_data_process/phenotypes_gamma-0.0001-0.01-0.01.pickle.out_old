@@ -2,28 +2,7 @@
 proportion of pts: 0.231257437525
 lambda: 15956.1484073
 ----------------------------------------
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Disorders of the eye and adnexa
-Chronic rheumatic heart disease
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of arteries, arterioles, and capillaries
-Other diseases of respiratory system
-Nephritis, nephrotic syndrome, and nephrosis
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Other and unspecified effects of external causes
-Range name na
-----------------------------------------
+DiabetesNutritional deficienciesDisorders of lipoid metabolismDisorders of fluid, electrolyte, and acid-base balanceAnemiasDisorders of the eye and adnexaChronic rheumatic heart diseaseHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of arteries, arterioles, and capillariesOther diseases of respiratory systemNephritis, nephrotic syndrome, and nephrosisArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsOther and unspecified effects of external causesRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -61,41 +40,7 @@ Vitamins
 proportion of pts: 0.146370487902
 lambda: 14248.325935
 ----------------------------------------
-Other bacterial diseases
-Malignant neoplasm of breast
-Diabetes
-Disorders of fluid, electrolyte, and acid-base balance
-Overweight, obesity and other hyperalimentation
-Na
-Drug dependence
-Operations on the cardiovascular system
-Disorders of the peripheral nervous system
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Other diseases of urinary system
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Congenital anomalies
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Nonspecific abnormal findings on radiological and other examination of body structure
-Abnormal results of function studies
-Ill-defined and unknown causes of morbidity and mortality
-Operations on the integumentary system
-Miscellaneous diagnostic and therapeutic procedures
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Other bacterial diseasesMalignant neoplasm of breastDiabetesDisorders of fluid, electrolyte, and acid-base balanceOverweight, obesity and other hyperalimentationNaDrug dependenceOperations on the cardiovascular systemDisorders of the peripheral nervous systemHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemOther diseases of urinary systemOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesCongenital anomaliesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodNonspecific abnormal findings on radiological and other examination of body structureAbnormal results of function studiesIll-defined and unknown causes of morbidity and mortalityOperations on the integumentary systemMiscellaneous diagnostic and therapeutic proceduresComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic beta-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
@@ -147,45 +92,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.150337167791
 lambda: 13809.0347135
 ----------------------------------------
-Other bacterial diseases
-Mycoses
-Malignant neoplasm of digestive organs and peritoneum
-Secondary malignant neoplasm of lymph nodes, digestive system and other specified sites
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Coagulation or hemorrhagic diseases
-Organic psychotic conditions
-Other psychoses
-Drug dependence
-Hereditary and degenerative diseases of the central nervous system
-Other disorders of the central nervous system
-Disorders of the peripheral nervous system
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Pneumonia and influenza
-Other diseases of respiratory system
-Liver
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Na
-Symptoms involving nervous and musculoskeletal systems
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Ill-defined and unknown causes of morbidity and mortality
-Fractures
-Miscellaneous diagnostic and therapeutic procedures
-Other and unspecified effects of external causes
-Range name na
-----------------------------------------
+Other bacterial diseasesMycosesMalignant neoplasm of digestive organs and peritoneumSecondary malignant neoplasm of lymph nodes, digestive system and other specified sitesDisorders of fluid, electrolyte, and acid-base balanceAnemiasCoagulation or hemorrhagic diseasesOrganic psychotic conditionsOther psychosesDrug dependenceHereditary and degenerative diseases of the central nervous systemOther disorders of the central nervous systemDisorders of the peripheral nervous systemIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesPneumonia and influenzaOther diseases of respiratory systemLiverNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsNaSymptoms involving nervous and musculoskeletal systemsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemIll-defined and unknown causes of morbidity and mortalityFracturesMiscellaneous diagnostic and therapeutic proceduresOther and unspecified effects of external causesRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -237,24 +144,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.243950813169
 lambda: 12654.8124235
 ----------------------------------------
-Benign neoplasm of other parts of digestive system
-Disorders of lipoid metabolism
-Organic sleep disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Arthropathies and related disorders
-Symptoms involving head and neck
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Benign neoplasm of other parts of digestive systemDisorders of lipoid metabolismOrganic sleep disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumArthropathies and related disordersSymptoms involving head and neckSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
@@ -291,24 +181,7 @@ Vitamins
 proportion of pts: 0.226497421658
 lambda: 12500.9908177
 ----------------------------------------
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Range name na
-----------------------------------------
+Disorders of thyroid glandDisorders of lipoid metabolismDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -340,39 +213,7 @@ Vitamins
 proportion of pts: 0.169773899246
 lambda: 12177.3962834
 ----------------------------------------
-Malignant neoplasm of badder, kidney and other urinary organs
-Operations on the nose, mouth, and pharynx
-Benign neoplasm of other parts of digestive system
-Disorders of lipoid metabolism
-Disorders of mineral metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Operations on the respiratory system
-Operations on the cardiovascular system
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of arteries, arterioles, and capillaries
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Other diseases of intestines and peritoneum
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Diseases of male genital organs
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Nonspecific abnormal findings on radiological and other examination of body structure
-Abnormal results of function studies
-Ill-defined and unknown causes of morbidity and mortality
-Miscellaneous diagnostic and therapeutic procedures
-Other and unspecified effects of external causes
-Range name na
-----------------------------------------
+Malignant neoplasm of badder, kidney and other urinary organsOperations on the nose, mouth, and pharynxBenign neoplasm of other parts of digestive systemDisorders of lipoid metabolismDisorders of mineral metabolismDisorders of fluid, electrolyte, and acid-base balanceAnemiasOperations on the respiratory systemOperations on the cardiovascular systemHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of arteries, arterioles, and capillariesDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityOther diseases of intestines and peritoneumNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemDiseases of male genital organsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodNonspecific abnormal findings on radiological and other examination of body structureAbnormal results of function studiesIll-defined and unknown causes of morbidity and mortalityMiscellaneous diagnostic and therapeutic proceduresOther and unspecified effects of external causesRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -415,43 +256,7 @@ Vasodilator Agents
 proportion of pts: 0.163427211424
 lambda: 12011.0319349
 ----------------------------------------
-Intestinal infectious diseases
-Other bacterial diseases
-Diseases of other endocrine glands
-Disorders of fluid, electrolyte, and acid-base balance
-Other and unspecified disorders of metabolism
-Overweight, obesity and other hyperalimentation
-Other immune disorders
-Coagulation or hemorrhagic diseases
-Other diseases of the blood
-Neurotic, personality, nonpsychotic disorders
-Organic sleep disorders
-Hereditary and degenerative diseases of the central nervous system
-Pain
-Ischemic heart disease
-Diseases of pulmonary circulation
-Other forms of heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Other diseases of intestines and peritoneum
-Nephritis, nephrotic syndrome, and nephrosis
-Infections of skin and subcutaneous tissue
-General symptoms
-Symptoms involving nervous and musculoskeletal systems
-Symptoms involving skin and other integumentary tissue
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Nonspecific findings on examination of blood
-Ill-defined and unknown causes of morbidity and mortality
-Operations on the integumentary system
-Certain traumatic complications and unspecified injuries
-Other and unspecified effects of external causes
-Complications of surgical and medical care, not elsewhere classified
-----------------------------------------
+Intestinal infectious diseasesOther bacterial diseasesDiseases of other endocrine glandsDisorders of fluid, electrolyte, and acid-base balanceOther and unspecified disorders of metabolismOverweight, obesity and other hyperalimentationOther immune disordersCoagulation or hemorrhagic diseasesOther diseases of the bloodNeurotic, personality, nonpsychotic disordersOrganic sleep disordersHereditary and degenerative diseases of the central nervous systemPainIschemic heart diseaseDiseases of pulmonary circulationOther forms of heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemOther diseases of intestines and peritoneumNephritis, nephrotic syndrome, and nephrosisInfections of skin and subcutaneous tissueGeneral symptomsSymptoms involving nervous and musculoskeletal systemsSymptoms involving skin and other integumentary tissueSymptoms concerning nutrition, metabolism, and developmentSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemNonspecific findings on examination of bloodIll-defined and unknown causes of morbidity and mortalityOperations on the integumentary systemCertain traumatic complications and unspecified injuriesOther and unspecified effects of external causesComplications of surgical and medical care, not elsewhere classified----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
@@ -506,40 +311,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.16858389528
 lambda: 11819.9266439
 ----------------------------------------
-Malignant neoplasm of male and female genital organs
-Malignant neoplasm of badder, kidney and other urinary organs
-Secondary malignant neoplasm of lymph nodes, digestive system and other specified sites
-Disorders of thyroid gland
-Anemias
-Na
-Neurotic, personality, nonpsychotic disorders
-Pain
-Hypertensive disease
-Ischemic heart disease
-Operations on the digestive system
-Other forms of heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Other diseases of urinary system
-Diseases of male genital organs
-Dorsopathies
-Rheumatism, excluding the back
-Symptoms involving nervous and musculoskeletal systems
-Symptoms involving skin and other integumentary tissue
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Ill-defined and unknown causes of morbidity and mortality
-Miscellaneous diagnostic and therapeutic procedures
-Open wound
-Superficial, contusion, crushing injuries
-Other and unspecified effects of external causes
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Malignant neoplasm of male and female genital organsMalignant neoplasm of badder, kidney and other urinary organsSecondary malignant neoplasm of lymph nodes, digestive system and other specified sitesDisorders of thyroid glandAnemiasNaNeurotic, personality, nonpsychotic disordersPainHypertensive diseaseIschemic heart diseaseOperations on the digestive systemOther forms of heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of urinary systemDiseases of male genital organsDorsopathiesRheumatism, excluding the backSymptoms involving nervous and musculoskeletal systemsSymptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisIll-defined and unknown causes of morbidity and mortalityMiscellaneous diagnostic and therapeutic proceduresOpen woundSuperficial, contusion, crushing injuriesOther and unspecified effects of external causesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
 Analgesics, Non-Narcotic
@@ -586,40 +358,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.213407378025
 lambda: 11819.2724702
 ----------------------------------------
-Other diseases due to viruses and chlamydiae
-Malignant neoplasm of male and female genital organs
-Benign neoplasm of other parts of digestive system
-Diabetes
-Disorders of lipoid metabolism
-Gout
-Disorders of fluid, electrolyte, and acid-base balance
-Overweight, obesity and other hyperalimentation
-Anemias
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Pneumonia and influenza
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Other diseases of intestines and peritoneum
-Liver
-Gallbladder
-Other diseases of digestive system
-Nephritis, nephrotic syndrome, and nephrosis
-Diseases of male genital organs
-Rheumatism, excluding the back
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of urine
-Range name na
-----------------------------------------
+Other diseases due to viruses and chlamydiaeMalignant neoplasm of male and female genital organsBenign neoplasm of other parts of digestive systemDiabetesDisorders of lipoid metabolismGoutDisorders of fluid, electrolyte, and acid-base balanceOverweight, obesity and other hyperalimentationAnemiasOrganic sleep disordersDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractPneumonia and influenzaOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityOther diseases of intestines and peritoneumLiverGallbladderOther diseases of digestive systemNephritis, nephrotic syndrome, and nephrosisDiseases of male genital organsRheumatism, excluding the backSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of urineRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
@@ -660,20 +399,7 @@ Vitamins
 proportion of pts: 0.263387544625
 lambda: 11684.8378321
 ----------------------------------------
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Na
-Organic sleep disorders
-Hypertensive disease
-Infections of skin and subcutaneous tissue
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+DiabetesNutritional deficienciesDisorders of lipoid metabolismNaOrganic sleep disordersHypertensive diseaseInfections of skin and subcutaneous tissueRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -704,33 +430,7 @@ Vitamin B Complex
 proportion of pts: 0.174930583102
 lambda: 11597.2542995
 ----------------------------------------
-Mycoses
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Pneumonia and influenza
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Other diseases of urinary system
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Ill-defined and unknown causes of morbidity and mortality
-Range name na
-----------------------------------------
+MycosesDisorders of thyroid glandDiabetesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationDisorders of the peripheral nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractPneumonia and influenzaChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumOther diseases of urinary systemArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemIll-defined and unknown causes of morbidity and mortalityRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-2 Receptor Agonists
@@ -771,24 +471,7 @@ Vasodilator Agents
 proportion of pts: 0.202300674336
 lambda: 11369.5762551
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Nephritis, nephrotic syndrome, and nephrosis
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Open wound
-Superficial, contusion, crushing injuries
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismDisorders of the peripheral nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseNephritis, nephrotic syndrome, and nephrosisArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueOpen woundSuperficial, contusion, crushing injuriesRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -829,30 +512,7 @@ Vitamins
 proportion of pts: 0.20071400238
 lambda: 11366.4376556
 ----------------------------------------
-Malignant neoplasm of respiratory and intrathoracic organs
-Malignant neoplasm of skin
-Operations on the nose, mouth, and pharynx
-Disorders of lipoid metabolism
-Operations on the respiratory system
-Drug dependence
-Operations on the cardiovascular system
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of arteries, arterioles, and capillaries
-Pneumonia and influenza
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Operations on the musculoskeletal system
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Miscellaneous diagnostic and therapeutic procedures
-Other and unspecified effects of external causes
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Malignant neoplasm of respiratory and intrathoracic organsMalignant neoplasm of skinOperations on the nose, mouth, and pharynxDisorders of lipoid metabolismOperations on the respiratory systemDrug dependenceOperations on the cardiovascular systemHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of arteries, arterioles, and capillariesPneumonia and influenzaChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityOperations on the musculoskeletal systemSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsMiscellaneous diagnostic and therapeutic proceduresOther and unspecified effects of external causesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
@@ -894,31 +554,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.201904006347
 lambda: 11344.1579165
 ----------------------------------------
-Malignant neoplasm of breast
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of esophagus, stomach, and duodenum
-Other diseases of urinary system
-Disorders of breast
-Other disorders of female genital tract
-Infections of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Nonspecific abnormal findings on radiological and other examination of body structure
-Other and nonspecific abnormal cytological, histological, immunological and dna test findings
-Range name na
-----------------------------------------
+Malignant neoplasm of breastDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of esophagus, stomach, and duodenumOther diseases of urinary systemDisorders of breastOther disorders of female genital tractInfections of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms concerning nutrition, metabolism, and developmentSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemNonspecific abnormal findings on radiological and other examination of body structureOther and nonspecific abnormal cytological, histological, immunological and dna test findingsRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Angiotensin II Type 1 Receptor Blockers
@@ -958,31 +594,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.230067433558
 lambda: 11342.7292836
 ----------------------------------------
-Disorders of lipoid metabolism
-Anemias
-Na
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Acute respiratory infections
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Open wound
-Range name na
-----------------------------------------
+Disorders of lipoid metabolismAnemiasNaOrganic sleep disordersDisorders of the peripheral nervous systemDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseAcute respiratory infectionsDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodOpen woundRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -1012,46 +624,7 @@ Vasodilator Agents
 proportion of pts: 0.149940499802
 lambda: 11150.9795789
 ----------------------------------------
-Other bacterial diseases
-Nutritional deficiencies
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Other diseases of the blood
-Organic psychotic conditions
-Na
-Neurotic, personality, nonpsychotic disorders
-Hereditary and degenerative diseases of the central nervous system
-Pain
-Other disorders of the central nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Cerebrovascular disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Diseases of esophagus, stomach, and duodenum
-Noninfectious enteritis and colitis
-Other diseases of intestines and peritoneum
-Other diseases of digestive system
-Other diseases of urinary system
-Dorsopathies
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Congenital anomalies
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving nervous and musculoskeletal systems
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Nonspecific abnormal findings on radiological and other examination of body structure
-Na
-Certain traumatic complications and unspecified injuries
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Other bacterial diseasesNutritional deficienciesDisorders of fluid, electrolyte, and acid-base balanceAnemiasOther diseases of the bloodOrganic psychotic conditionsNaNeurotic, personality, nonpsychotic disordersHereditary and degenerative diseases of the central nervous systemPainOther disorders of the central nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseCerebrovascular diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of esophagus, stomach, and duodenumNoninfectious enteritis and colitisOther diseases of intestines and peritoneumOther diseases of digestive systemOther diseases of urinary systemDorsopathiesOsteopathies, chondropathies, and acquired musculoskeletal deformitiesCongenital anomaliesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving nervous and musculoskeletal systemsSymptoms concerning nutrition, metabolism, and developmentSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodNonspecific abnormal findings on radiological and other examination of body structureNaCertain traumatic complications and unspecified injuriesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
@@ -1105,37 +678,7 @@ Vitamin B Complex
 proportion of pts: 0.22570408568
 lambda: 11076.2915677
 ----------------------------------------
-Disorders of thyroid gland
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Na
-Neurotic, personality, nonpsychotic disorders
-Drug dependence
-Organic sleep disorders
-Diseases of the ear and mastoid process
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of urinary system
-Diseases of male genital organs
-Other disorders of female genital tract
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Na
-----------------------------------------
+Disorders of thyroid glandNutritional deficienciesDisorders of lipoid metabolismNaNeurotic, personality, nonpsychotic disordersDrug dependenceOrganic sleep disordersDiseases of the ear and mastoid processHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsOther diseases of urinary systemDiseases of male genital organsOther disorders of female genital tractOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodNa----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
@@ -1176,27 +719,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.246727489092
 lambda: 10999.0203472
 ----------------------------------------
-Mycoses
-Benign neoplasm of other parts of digestive system
-Benign neoplasm of skin
-Diabetes
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Diseases of arteries, arterioles, and capillaries
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Diseases of male genital organs
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+MycosesBenign neoplasm of other parts of digestive systemBenign neoplasm of skinDiabetesDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseDiseases of arteries, arterioles, and capillariesDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumDiseases of male genital organsOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1223,29 +746,7 @@ Vitamins
 proportion of pts: 0.155493851646
 lambda: 10802.0257207
 ----------------------------------------
-Operations on the nervous system
-Other infectious and parasitic diseases
-Benign neoplasm of eye, brain and other parts of nervous system
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Other psychoses
-Drug dependence
-Organic sleep disorders
-Pain
-Disorders of the peripheral nervous system
-Hypertensive disease
-Chronic obstructive pulmonary disease and allied conditions
-Diseases of esophagus, stomach, and duodenum
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-Symptoms involving skin and other integumentary tissue
-Sprains and strains of joints and adjacent muscles
-Range name na
-----------------------------------------
+Operations on the nervous systemOther infectious and parasitic diseasesBenign neoplasm of eye, brain and other parts of nervous systemDisorders of thyroid glandDiabetesDisorders of lipoid metabolismOther psychosesDrug dependenceOrganic sleep disordersPainDisorders of the peripheral nervous systemHypertensive diseaseChronic obstructive pulmonary disease and allied conditionsDiseases of esophagus, stomach, and duodenumArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemSymptoms involving skin and other integumentary tissueSprains and strains of joints and adjacent musclesRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -1294,37 +795,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.176120587069
 lambda: 10768.964021
 ----------------------------------------
-nan
-Malignant neoplasm of skin
-Operations on the nose, mouth, and pharynx
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Gout
-Organic sleep disorders
-Hereditary and degenerative diseases of the central nervous system
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Other forms of heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Diseases of esophagus, stomach, and duodenum
-Other diseases of urinary system
-Diseases of male genital organs
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Nonspecific findings on examination of blood
-Poisoning by drugs, medicinal and biological substances
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+nanMalignant neoplasm of skinOperations on the nose, mouth, and pharynxDisorders of thyroid glandDisorders of lipoid metabolismGoutOrganic sleep disordersHereditary and degenerative diseases of the central nervous systemDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseOther forms of heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of esophagus, stomach, and duodenumOther diseases of urinary systemDiseases of male genital organsOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemNonspecific findings on examination of bloodPoisoning by drugs, medicinal and biological substancesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -1367,39 +838,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.188020626735
 lambda: 10765.5592257
 ----------------------------------------
-Benign neoplasm of other parts of digestive system
-Carcinoma in situ of breast & genitourinary system
-Diabetes
-Disorders of lipoid metabolism
-Gout
-Disorders of fluid, electrolyte, and acid-base balance
-Overweight, obesity and other hyperalimentation
-Other immune disorders
-Na
-Neurotic, personality, nonpsychotic disorders
-Drug dependence
-Organic sleep disorders
-Other disorders of the central nervous system
-Disorders of the peripheral nervous system
-Hypertensive disease
-Cerebrovascular disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Pneumonia and influenza
-Diseases of esophagus, stomach, and duodenum
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Other disorders of female genital tract
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Nonspecific findings on examination of urine
-Range name na
-----------------------------------------
+Benign neoplasm of other parts of digestive systemCarcinoma in situ of breast & genitourinary systemDiabetesDisorders of lipoid metabolismGoutDisorders of fluid, electrolyte, and acid-base balanceOverweight, obesity and other hyperalimentationOther immune disordersNaNeurotic, personality, nonpsychotic disordersDrug dependenceOrganic sleep disordersOther disorders of the central nervous systemDisorders of the peripheral nervous systemHypertensive diseaseCerebrovascular diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemPneumonia and influenzaDiseases of esophagus, stomach, and duodenumNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemOther disorders of female genital tractDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemNonspecific findings on examination of urineRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -1443,36 +882,7 @@ Vitamin B Complex
 proportion of pts: 0.191590638635
 lambda: 10670.2329867
 ----------------------------------------
-Other bacterial diseases
-Mycoses
-Benign neoplasm of skin
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Other forms of heart disease
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Other disorders of female genital tract
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of urine
-Other and unspecified effects of external causes
-Range name na
-----------------------------------------
+Other bacterial diseasesMycosesBenign neoplasm of skinDisorders of thyroid glandDiabetesDisorders of lipoid metabolismDisorders of fluid, electrolyte, and acid-base balanceAnemiasDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseOther forms of heart diseaseNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemOther disorders of female genital tractInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of urineOther and unspecified effects of external causesRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic beta-1 Receptor Antagonists
@@ -1518,27 +928,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.220150733836
 lambda: 10650.612288
 ----------------------------------------
-Mycoses
-Benign neoplasm of skin
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Neurotic, personality, nonpsychotic disorders
-Hereditary and degenerative diseases of the central nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Acute respiratory infections
-Other disorders of female genital tract
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+MycosesBenign neoplasm of skinDisorders of thyroid glandDisorders of lipoid metabolismNeurotic, personality, nonpsychotic disordersHereditary and degenerative diseases of the central nervous systemDisorders of the eye and adnexaHypertensive diseaseAcute respiratory infectionsOther disorders of female genital tractOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -1576,27 +966,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.232447441491
 lambda: 10569.5655506
 ----------------------------------------
-Malignant neoplasm of badder, kidney and other urinary organs
-Disorders of thyroid gland
-Diabetes
-Other disorders of pancreatic internal secretion
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Diseases of esophagus, stomach, and duodenum
-Operations on the urinary system
-Other diseases of urinary system
-Inflammatory disease of female pelvic organs
-Other disorders of female genital tract
-Dorsopathies
-General symptoms
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+Malignant neoplasm of badder, kidney and other urinary organsDisorders of thyroid glandDiabetesOther disorders of pancreatic internal secretionDisorders of lipoid metabolismDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseDiseases of esophagus, stomach, and duodenumOperations on the urinary systemOther diseases of urinary systemInflammatory disease of female pelvic organsOther disorders of female genital tractDorsopathiesGeneral symptomsSymptoms concerning nutrition, metabolism, and developmentSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
@@ -1634,45 +1004,7 @@ Vitamins
 proportion of pts: 0.154303847679
 lambda: 10469.5574473
 ----------------------------------------
-Other bacterial diseases
-Viral diseases accompanied by exanthem
-Malignant neoplasm of lymphatic and hematopoietic tissue
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Disorders of plasma protein metabolism
-Other immune disorders
-Anemias
-Coagulation or hemorrhagic diseases
-Other diseases of the blood
-Pain
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Pneumonia and influenza
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Diseases of oral cavity, salivary glands, and jaws
-Diseases of esophagus, stomach, and duodenum
-Diseases of male genital organs
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Miscellaneous diagnostic and therapeutic procedures
-Range name na
-----------------------------------------
+Other bacterial diseasesViral diseases accompanied by exanthemMalignant neoplasm of lymphatic and hematopoietic tissueDisorders of thyroid glandDiabetesDisorders of lipoid metabolismDisorders of plasma protein metabolismOther immune disordersAnemiasCoagulation or hemorrhagic diseasesOther diseases of the bloodPainDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemAcute respiratory infectionsOther diseases of the upper respiratory tractPneumonia and influenzaChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemDiseases of oral cavity, salivary glands, and jawsDiseases of esophagus, stomach, and duodenumDiseases of male genital organsInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemMiscellaneous diagnostic and therapeutic proceduresRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
@@ -1736,37 +1068,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.18286394288
 lambda: 10353.2434527
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismAnemiasOrganic sleep disordersDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesAcute respiratory infectionsOther diseases of the upper respiratory tractOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -1794,32 +1096,7 @@ Tissue Adhesives
 proportion of pts: 0.201110670369
 lambda: 10289.0201778
 ----------------------------------------
-Other bacterial diseases
-Diabetes
-Disorders of lipoid metabolism
-Gout
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Infections of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Congenital anomalies
-General symptoms
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Abnormal results of function studies
-Sprains and strains of joints and adjacent muscles
-Range name na
-----------------------------------------
+Other bacterial diseasesDiabetesDisorders of lipoid metabolismGoutOverweight, obesity and other hyperalimentationOrganic sleep disordersDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseInfections of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesCongenital anomaliesGeneral symptomsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodAbnormal results of function studiesSprains and strains of joints and adjacent musclesRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -1862,41 +1139,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.201904006347
 lambda: 10156.2711948
 ----------------------------------------
-Operations on the nose, mouth, and pharynx
-Nutritional deficiencies
-Disorders of fluid, electrolyte, and acid-base balance
-Other diseases of the blood
-Na
-Other disorders of the central nervous system
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Diseases of arteries, arterioles, and capillaries
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Pneumonia and influenza
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Noninfectious enteritis and colitis
-Other diseases of intestines and peritoneum
-Other diseases of urinary system
-Other disorders of female genital tract
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving head and neck
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Other nonspecific abnormal findings
-Range name na
-----------------------------------------
+Operations on the nose, mouth, and pharynxNutritional deficienciesDisorders of fluid, electrolyte, and acid-base balanceOther diseases of the bloodNaOther disorders of the central nervous systemDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseDiseases of arteries, arterioles, and capillariesAcute respiratory infectionsOther diseases of the upper respiratory tractPneumonia and influenzaChronic obstructive pulmonary disease and allied conditionsOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumNoninfectious enteritis and colitisOther diseases of intestines and peritoneumOther diseases of urinary systemOther disorders of female genital tractDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms concerning nutrition, metabolism, and developmentSymptoms involving head and neckSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisOther nonspecific abnormal findingsRange name na----------------------------------------
 Adrenergic beta-2 Receptor Agonists
 Analgesics, Non-Narcotic
 Antacids
@@ -1938,31 +1181,7 @@ Vitamins
 proportion of pts: 0.209440698136
 lambda: 10122.4538194
 ----------------------------------------
-Malignant neoplasm of male and female genital organs
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Diseases of male genital organs
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Nonspecific findings on examination of blood
-Abnormal results of function studies
-Range name na
-----------------------------------------
+Malignant neoplasm of male and female genital organsDisorders of thyroid glandDiabetesDisorders of lipoid metabolismAnemiasOrganic sleep disordersDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumDiseases of male genital organsArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemNonspecific findings on examination of bloodAbnormal results of function studiesRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic beta-1 Receptor Antagonists
 Antacids
@@ -1994,38 +1213,7 @@ Vitamins
 proportion of pts: 0.196747322491
 lambda: 9935.04682899
 ----------------------------------------
-Mycoses
-Malignant neoplasm of digestive organs and peritoneum
-Diabetes
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Acute respiratory infections
-Diseases of oral cavity, salivary glands, and jaws
-Other diseases of intestines and peritoneum
-Liver
-Other diseases of urinary system
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms concerning nutrition, metabolism, and development
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Abnormal results of function studies
-Open wound
-Superficial, contusion, crushing injuries
-Na
-Range name na
-----------------------------------------
+MycosesMalignant neoplasm of digestive organs and peritoneumDiabetesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationOrganic sleep disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemAcute respiratory infectionsDiseases of oral cavity, salivary glands, and jawsOther diseases of intestines and peritoneumLiverOther diseases of urinary systemInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms concerning nutrition, metabolism, and developmentSymptoms involving urinary systemOther symptoms involving abdomen and pelvisAbnormal results of function studiesOpen woundSuperficial, contusion, crushing injuriesNaRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
@@ -2070,32 +1258,7 @@ Vitamins
 proportion of pts: 0.190797302658
 lambda: 9879.34687676
 ----------------------------------------
-Neoplasm of uncertain behavior of other sites & tissues
-Disorders of thyroid gland
-Nutritional deficiencies
-Disorders of mineral metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Other immune disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Acute respiratory infections
-Diseases of esophagus, stomach, and duodenum
-Other diseases of urinary system
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Open wound
-Certain traumatic complications and unspecified injuries
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+Neoplasm of uncertain behavior of other sites & tissuesDisorders of thyroid glandNutritional deficienciesDisorders of mineral metabolismDisorders of fluid, electrolyte, and acid-base balanceOther immune disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseAcute respiratory infectionsDiseases of esophagus, stomach, and duodenumOther diseases of urinary systemOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemOther symptoms involving abdomen and pelvisOpen woundCertain traumatic complications and unspecified injuriesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -2131,36 +1294,7 @@ Vitamins
 proportion of pts: 0.199920666402
 lambda: 9846.98315277
 ----------------------------------------
-Mycoses
-Diabetes
-Diseases of other endocrine glands
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Disorders of the peripheral nervous system
-Hypertensive disease
-Operations on the digestive system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Other diseases of intestines and peritoneum
-Liver
-Gallbladder
-Other diseases of urinary system
-Diseases of male genital organs
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Symptoms involving skin and other integumentary tissue
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Abnormal results of function studies
-Range name na
-----------------------------------------
+MycosesDiabetesDiseases of other endocrine glandsNutritional deficienciesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationOrganic sleep disordersDisorders of the peripheral nervous systemHypertensive diseaseOperations on the digestive systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityOther diseases of intestines and peritoneumLiverGallbladderOther diseases of urinary systemDiseases of male genital organsOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backSymptoms involving skin and other integumentary tissueSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodAbnormal results of function studiesRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic beta-1 Receptor Antagonists
@@ -2203,35 +1337,7 @@ Vasodilator Agents
 proportion of pts: 0.181673938913
 lambda: 9799.90767211
 ----------------------------------------
-Malignant neoplasm of skin
-Neoplasm of uncertain behavior of other sites & tissues
-Disorders of thyroid gland
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Anemias
-Neurotic, personality, nonpsychotic disorders
-Organic sleep disorders
-Hereditary and degenerative diseases of the central nervous system
-Disorders of the peripheral nervous system
-Hypertensive disease
-Other forms of heart disease
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Gallbladder
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Fractures
-Range name na
-----------------------------------------
+Malignant neoplasm of skinNeoplasm of uncertain behavior of other sites & tissuesDisorders of thyroid glandNutritional deficienciesDisorders of lipoid metabolismAnemiasNeurotic, personality, nonpsychotic disordersOrganic sleep disordersHereditary and degenerative diseases of the central nervous systemDisorders of the peripheral nervous systemHypertensive diseaseOther forms of heart diseaseDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityGallbladderNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemOther symptoms involving abdomen and pelvisFracturesRange name na----------------------------------------
 Adrenergic beta-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
 Analgesics, Non-Narcotic
@@ -2278,28 +1384,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.20071400238
 lambda: 9763.93805481
 ----------------------------------------
-Lipoma and other benign neoplasm of connective and other soft tissue
-Diabetes
-Disorders of lipoid metabolism
-Disorders of mineral metabolism
-Anemias
-Na
-Disorders of the eye and adnexa
-Hypertensive disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of oral cavity, salivary glands, and jaws
-Other disorders of female genital tract
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Range name na
-----------------------------------------
+Lipoma and other benign neoplasm of connective and other soft tissueDiabetesDisorders of lipoid metabolismDisorders of mineral metabolismAnemiasNaDisorders of the eye and adnexaHypertensive diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of oral cavity, salivary glands, and jawsOther disorders of female genital tractArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Analgesics, Non-Narcotic
 Anti-Allergic Agents
@@ -2341,35 +1426,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.170170567235
 lambda: 9457.60593457
 ----------------------------------------
-Malignant neoplasm of digestive organs and peritoneum
-Benign neoplasm of other parts of digestive system
-Neoplasms of unspecified nature
-Nutritional deficiencies
-Anemias
-Hypertensive disease
-Operations on the digestive system
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Liver
-Other diseases of digestive system
-Other diseases of urinary system
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Congenital anomalies
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Other and nonspecific abnormal cytological, histological, immunological and dna test findings
-Other nonspecific abnormal findings
-Range name na
-----------------------------------------
+Malignant neoplasm of digestive organs and peritoneumBenign neoplasm of other parts of digestive systemNeoplasms of unspecified natureNutritional deficienciesAnemiasHypertensive diseaseOperations on the digestive systemDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityLiverOther diseases of digestive systemOther diseases of urinary systemArthropathies and related disordersDorsopathiesRheumatism, excluding the backCongenital anomaliesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodOther and nonspecific abnormal cytological, histological, immunological and dna test findingsOther nonspecific abnormal findingsRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -2409,31 +1466,7 @@ Vitamins
 proportion of pts: 0.181277270924
 lambda: 9023.40244265
 ----------------------------------------
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Gout
-Disorders of mineral metabolism
-Overweight, obesity and other hyperalimentation
-Anemias
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Diseases of pulmonary circulation
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Diseases of esophagus, stomach, and duodenum
-Nephritis, nephrotic syndrome, and nephrosis
-Arthropathies and related disorders
-Dorsopathies
-Symptoms involving skin and other integumentary tissue
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Abnormal results of function studies
-Range name na
-----------------------------------------
+Disorders of thyroid glandDiabetesDisorders of lipoid metabolismGoutDisorders of mineral metabolismOverweight, obesity and other hyperalimentationAnemiasDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseDiseases of pulmonary circulationCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsDiseases of esophagus, stomach, and duodenumNephritis, nephrotic syndrome, and nephrosisArthropathies and related disordersDorsopathiesSymptoms involving skin and other integumentary tissueSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsAbnormal results of function studiesRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -2475,38 +1508,7 @@ Vitamins
 proportion of pts: 0.17215390718
 lambda: 9011.80497541
 ----------------------------------------
-Mycoses
-Operations on the nose, mouth, and pharynx
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Coagulation or hemorrhagic diseases
-Organic psychotic conditions
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Hernia of abdominal cavity
-Nephritis, nephrotic syndrome, and nephrosis
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Na
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Certain traumatic complications and unspecified injuries
-Complications of surgical and medical care, not elsewhere classified
-Range name na
-----------------------------------------
+MycosesOperations on the nose, mouth, and pharynxDiabetesNutritional deficienciesDisorders of lipoid metabolismDisorders of fluid, electrolyte, and acid-base balanceAnemiasCoagulation or hemorrhagic diseasesOrganic psychotic conditionsDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemHernia of abdominal cavityNephritis, nephrotic syndrome, and nephrosisInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsNaSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodCertain traumatic complications and unspecified injuriesComplications of surgical and medical care, not elsewhere classifiedRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
@@ -2555,43 +1557,7 @@ Vitamin B Complex
 proportion of pts: 0.15787385958
 lambda: 8963.90453163
 ----------------------------------------
-Mycoses
-Malignant neoplasm of male and female genital organs
-Benign neoplasm of other parts of digestive system
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Anemias
-Coagulation or hemorrhagic diseases
-Organic sleep disorders
-Hereditary and degenerative diseases of the central nervous system
-Other disorders of the central nervous system
-Operations on the cardiovascular system
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Other diseases of respiratory system
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Other diseases of digestive system
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving nervous and musculoskeletal systems
-Symptoms involving respiratory system and other chest symptoms
-Miscellaneous diagnostic and therapeutic procedures
-Range name na
-----------------------------------------
+MycosesMalignant neoplasm of male and female genital organsBenign neoplasm of other parts of digestive systemDisorders of thyroid glandDiabetesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationAnemiasCoagulation or hemorrhagic diseasesOrganic sleep disordersHereditary and degenerative diseases of the central nervous systemOther disorders of the central nervous systemOperations on the cardiovascular systemDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesDiseases of veins and lymphatics, and other diseases of circulatory systemOther diseases of respiratory systemDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of digestive systemOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving nervous and musculoskeletal systemsSymptoms involving respiratory system and other chest symptomsMiscellaneous diagnostic and therapeutic proceduresRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Analgesics, Non-Narcotic
 Anesthetics, Intravenous
@@ -2636,34 +1602,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.217770725902
 lambda: 8849.32057213
 ----------------------------------------
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Na
-Neurotic, personality, nonpsychotic disorders
-Organic sleep disorders
-Pain
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Diseases of arteries, arterioles, and capillaries
-Other diseases of urinary system
-Infections of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Fractures
-Sprains and strains of joints and adjacent muscles
-Open wound
-Certain traumatic complications and unspecified injuries
-Range name na
-----------------------------------------
+DiabetesNutritional deficienciesDisorders of lipoid metabolismNaNeurotic, personality, nonpsychotic disordersOrganic sleep disordersPainDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseDiseases of arteries, arterioles, and capillariesOther diseases of urinary systemInfections of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodFracturesSprains and strains of joints and adjacent musclesOpen woundCertain traumatic complications and unspecified injuriesRange name na----------------------------------------
 Adrenergic Uptake Inhibitors
 Adrenergic alpha-2 Receptor Agonists
 Analgesics, Non-Narcotic
@@ -2705,31 +1644,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.150337167791
 lambda: 8827.17878665
 ----------------------------------------
-nan
-Diseases of other endocrine glands
-Disorders of lipoid metabolism
-Drug dependence
-Organic sleep disorders
-Operations on the cardiovascular system
-Operations on the hemic and lymphatic system
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Cerebrovascular disease
-Diseases of arteries, arterioles, and capillaries
-Chronic obstructive pulmonary disease and allied conditions
-Other diseases of urinary system
-Operations on the male genital organs
-Diseases of male genital organs
-Arthropathies and related disorders
-Dorsopathies
-Congenital anomalies
-Operations on the musculoskeletal system
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Miscellaneous diagnostic and therapeutic procedures
-Range name na
-----------------------------------------
+nanDiseases of other endocrine glandsDisorders of lipoid metabolismDrug dependenceOrganic sleep disordersOperations on the cardiovascular systemOperations on the hemic and lymphatic systemHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseCerebrovascular diseaseDiseases of arteries, arterioles, and capillariesChronic obstructive pulmonary disease and allied conditionsOther diseases of urinary systemOperations on the male genital organsDiseases of male genital organsArthropathies and related disordersDorsopathiesCongenital anomaliesOperations on the musculoskeletal systemSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsMiscellaneous diagnostic and therapeutic proceduresRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
@@ -2769,46 +1684,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.174137247124
 lambda: 8724.33524441
 ----------------------------------------
-Malignant neoplasm of breast
-Neoplasm of uncertain behavior of other sites & tissues
-Disorders of thyroid gland
-Diabetes
-Diseases of other endocrine glands
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Disorders of mineral metabolism
-Overweight, obesity and other hyperalimentation
-Anemias
-Na
-Other psychoses
-Neurotic, personality, nonpsychotic disorders
-Organic sleep disorders
-Other disorders of the central nervous system
-Disorders of the peripheral nervous system
-Disorders of the eye and adnexa
-Hypertensive disease
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Other diseases of digestive system
-Disorders of breast
-Other disorders of female genital tract
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Dislocation
-Na
-Certain traumatic complications and unspecified injuries
-Range name na
-----------------------------------------
+Malignant neoplasm of breastNeoplasm of uncertain behavior of other sites & tissuesDisorders of thyroid glandDiabetesDiseases of other endocrine glandsNutritional deficienciesDisorders of lipoid metabolismDisorders of mineral metabolismOverweight, obesity and other hyperalimentationAnemiasNaOther psychosesNeurotic, personality, nonpsychotic disordersOrganic sleep disordersOther disorders of the central nervous systemDisorders of the peripheral nervous systemDisorders of the eye and adnexaHypertensive diseaseOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of digestive systemDisorders of breastOther disorders of female genital tractOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisDislocationNaCertain traumatic complications and unspecified injuriesRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists
 Angiogenesis Inhibitors
@@ -2855,30 +1731,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.231654105514
 lambda: 8699.03990147
 ----------------------------------------
-Viral diseases accompanied by exanthem
-Mycoses
-Malignant neoplasm of skin
-Neoplasm of uncertain behavior of other sites & tissues
-Disorders of thyroid gland
-Disorders of lipoid metabolism
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of esophagus, stomach, and duodenum
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Congenital anomalies
-General symptoms
-Symptoms involving digestive system
-Range name na
-----------------------------------------
+Viral diseases accompanied by exanthemMycosesMalignant neoplasm of skinNeoplasm of uncertain behavior of other sites & tissuesDisorders of thyroid glandDisorders of lipoid metabolismDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of esophagus, stomach, and duodenumInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesCongenital anomaliesGeneral symptomsSymptoms involving digestive systemRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Angiotensin II Type 1 Receptor Blockers
@@ -2911,37 +1764,7 @@ Vitamins
 proportion of pts: 0.195160650536
 lambda: 8627.76879153
 ----------------------------------------
-Intestinal infectious diseases
-Operations on the eye
-Malignant neoplasm of breast
-Benign neoplasm of other parts of digestive system
-Disorders of fluid, electrolyte, and acid-base balance
-Anemias
-Organic sleep disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Other forms of heart disease
-Acute respiratory infections
-Noninfectious enteritis and colitis
-Other diseases of intestines and peritoneum
-Liver
-Other diseases of digestive system
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Diseases of male genital organs
-Arthropathies and related disorders
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Operations on the musculoskeletal system
-General symptoms
-Symptoms involving cardiovascular system
-Symptoms involving digestive system
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of urine
-Nonspecific abnormal findings on radiological and other examination of body structure
-Range name na
-----------------------------------------
+Intestinal infectious diseasesOperations on the eyeMalignant neoplasm of breastBenign neoplasm of other parts of digestive systemDisorders of fluid, electrolyte, and acid-base balanceAnemiasOrganic sleep disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseOther forms of heart diseaseAcute respiratory infectionsNoninfectious enteritis and colitisOther diseases of intestines and peritoneumLiverOther diseases of digestive systemNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemDiseases of male genital organsArthropathies and related disordersOsteopathies, chondropathies, and acquired musculoskeletal deformitiesOperations on the musculoskeletal systemGeneral symptomsSymptoms involving cardiovascular systemSymptoms involving digestive systemSymptoms involving urinary systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of urineNonspecific abnormal findings on radiological and other examination of body structureRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic alpha-2 Receptor Agonists
@@ -2986,35 +1809,7 @@ Vitamins
 proportion of pts: 0.168187227291
 lambda: 8495.89160691
 ----------------------------------------
-Other diseases due to viruses and chlamydiae
-Malignant neoplasm of male and female genital organs
-Diseases of other endocrine glands
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of esophagus, stomach, and duodenum
-Hernia of abdominal cavity
-Noninfectious enteritis and colitis
-Other diseases of intestines and peritoneum
-Diseases of male genital organs
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-General symptoms
-Symptoms involving skin and other integumentary tissue
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Other diseases due to viruses and chlamydiaeMalignant neoplasm of male and female genital organsDiseases of other endocrine glandsNutritional deficienciesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationOrganic sleep disordersDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of esophagus, stomach, and duodenumHernia of abdominal cavityNoninfectious enteritis and colitisOther diseases of intestines and peritoneumDiseases of male genital organsOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesGeneral symptomsSymptoms involving skin and other integumentary tissueSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsNonspecific findings on examination of bloodRange name na----------------------------------------
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
@@ -3050,40 +1845,7 @@ Vitamins
 proportion of pts: 0.161840539468
 lambda: 8461.33997049
 ----------------------------------------
-Viral diseases accompanied by exanthem
-Other diseases due to viruses and chlamydiae
-Mycoses
-Disorders of thyroid gland
-Diabetes
-Disorders of lipoid metabolism
-Anemias
-Na
-Other psychoses
-Neurotic, personality, nonpsychotic disorders
-Drug dependence
-Organic sleep disorders
-Other disorders of the central nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Other forms of heart disease
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Chronic obstructive pulmonary disease and allied conditions
-Diseases of oral cavity, salivary glands, and jaws
-Diseases of esophagus, stomach, and duodenum
-Other diseases of intestines and peritoneum
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-General symptoms
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Range name na
-----------------------------------------
+Viral diseases accompanied by exanthemOther diseases due to viruses and chlamydiaeMycosesDisorders of thyroid glandDiabetesDisorders of lipoid metabolismAnemiasNaOther psychosesNeurotic, personality, nonpsychotic disordersDrug dependenceOrganic sleep disordersOther disorders of the central nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseOther forms of heart diseaseAcute respiratory infectionsOther diseases of the upper respiratory tractChronic obstructive pulmonary disease and allied conditionsDiseases of oral cavity, salivary glands, and jawsDiseases of esophagus, stomach, and duodenumOther diseases of intestines and peritoneumOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backGeneral symptomsSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemOther symptoms involving abdomen and pelvisRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic Uptake Inhibitors
 Adrenergic beta-1 Receptor Antagonists
@@ -3125,32 +1887,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.215787385958
 lambda: 8150.76322386
 ----------------------------------------
-Mycoses
-Malignant neoplasm of skin
-Neoplasm of uncertain behavior of other sites & tissues
-Diabetes
-Disorders of lipoid metabolism
-Hereditary and degenerative diseases of the central nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Diseases of arteries, arterioles, and capillaries
-Acute respiratory infections
-Other diseases of the upper respiratory tract
-Diseases of male genital organs
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-General symptoms
-Symptoms involving head and neck
-Symptoms involving respiratory system and other chest symptoms
-Abnormal results of function studies
-Fractures
-Effects of foreign body entering through orifice
-Certain traumatic complications and unspecified injuries
-Range name na
-----------------------------------------
+MycosesMalignant neoplasm of skinNeoplasm of uncertain behavior of other sites & tissuesDiabetesDisorders of lipoid metabolismHereditary and degenerative diseases of the central nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseDiseases of arteries, arterioles, and capillariesAcute respiratory infectionsOther diseases of the upper respiratory tractDiseases of male genital organsOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesGeneral symptomsSymptoms involving head and neckSymptoms involving respiratory system and other chest symptomsAbnormal results of function studiesFracturesEffects of foreign body entering through orificeCertain traumatic complications and unspecified injuriesRange name na----------------------------------------
 Adrenergic alpha-2 Receptor Agonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -3184,40 +1921,7 @@ Vasodilator Agents
 proportion of pts: 0.144783815946
 lambda: 8093.88696476
 ----------------------------------------
-Other diseases due to viruses and chlamydiae
-Malignant neoplasm of skin
-Malignant neoplasm of male and female genital organs
-Benign neoplasm of skin
-Hemangioma and lymphangioma any site
-Neoplasm of uncertain behavior of other sites & tissues
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Gout
-Disorders of fluid, electrolyte, and acid-base balance
-Coagulation or hemorrhagic diseases
-Other diseases of the blood
-Disorders of the eye and adnexa
-Hypertensive disease
-Ischemic heart disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Diseases of esophagus, stomach, and duodenum
-Nephritis, nephrotic syndrome, and nephrosis
-Other diseases of urinary system
-Infections of skin and subcutaneous tissue
-Other inflammatory conditions of skin and subcutaneous tissue
-Other diseases of skin and subcutaneous tissue
-Arthropathies and related disorders
-Dorsopathies
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-General symptoms
-Symptoms involving respiratory system and other chest symptoms
-Symptoms involving urinary system
-Other symptoms involving abdomen and pelvis
-Nonspecific findings on examination of blood
-Range name na
-----------------------------------------
+Other diseases due to viruses and chlamydiaeMalignant neoplasm of skinMalignant neoplasm of male and female genital organsBenign neoplasm of skinHemangioma and lymphangioma any siteNeoplasm of uncertain behavior of other sites & tissuesDiabetesNutritional deficienciesDisorders of lipoid metabolismGoutDisorders of fluid, electrolyte, and acid-base balanceCoagulation or hemorrhagic diseasesOther diseases of the bloodDisorders of the eye and adnexaHypertensive diseaseIschemic heart diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of esophagus, stomach, and duodenumNephritis, nephrotic syndrome, and nephrosisOther diseases of urinary systemInfections of skin and subcutaneous tissueOther inflammatory conditions of skin and subcutaneous tissueOther diseases of skin and subcutaneous tissueArthropathies and related disordersDorsopathiesRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesGeneral symptomsSymptoms involving respiratory system and other chest symptomsSymptoms involving urinary systemOther symptoms involving abdomen and pelvisNonspecific findings on examination of bloodRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 5-alpha Reductase Inhibitors
 Adrenergic alpha-1 Receptor Antagonists
@@ -3266,28 +1970,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.192780642602
 lambda: 7806.37964235
 ----------------------------------------
-Malignant neoplasm of thyroid gland and other endocrine glands and related structures
-Benign neoplasm of breast, ovary, uterus, and other genitourinary organs
-Neoplasms of unspecified nature
-Disorders of thyroid gland
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Organic sleep disorders
-Hypertensive disease
-Diseases of veins and lymphatics, and other diseases of circulatory system
-Diseases of oral cavity, salivary glands, and jaws
-Liver
-Other diseases of digestive system
-Disorders of breast
-Inflammatory disease of female pelvic organs
-Other disorders of female genital tract
-Operations on the female genital organs
-Operations on the musculoskeletal system
-Nonspecific findings on examination of blood
-Nonspecific abnormal findings on radiological and other examination of body structure
-Range name na
-----------------------------------------
+Malignant neoplasm of thyroid gland and other endocrine glands and related structuresBenign neoplasm of breast, ovary, uterus, and other genitourinary organsNeoplasms of unspecified natureDisorders of thyroid glandNutritional deficienciesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationOrganic sleep disordersHypertensive diseaseDiseases of veins and lymphatics, and other diseases of circulatory systemDiseases of oral cavity, salivary glands, and jawsLiverOther diseases of digestive systemDisorders of breastInflammatory disease of female pelvic organsOther disorders of female genital tractOperations on the female genital organsOperations on the musculoskeletal systemNonspecific findings on examination of bloodNonspecific abnormal findings on radiological and other examination of body structureRange name na----------------------------------------
 14-alpha Demethylase Inhibitors
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -3328,33 +2011,7 @@ Voltage-Gated Sodium Channel Blockers
 proportion of pts: 0.173343911146
 lambda: 7391.53815522
 ----------------------------------------
-Benign neoplasm of skin
-Disorders of thyroid gland
-Diabetes
-Nutritional deficiencies
-Disorders of lipoid metabolism
-Overweight, obesity and other hyperalimentation
-Na
-Neurotic, personality, nonpsychotic disorders
-Other disorders of the central nervous system
-Disorders of the eye and adnexa
-Diseases of the ear and mastoid process
-Hypertensive disease
-Ischemic heart disease
-Other forms of heart disease
-Other diseases of the upper respiratory tract
-Other disorders of female genital tract
-Other diseases of skin and subcutaneous tissue
-Dorsopathies
-Congenital anomalies
-General symptoms
-Na
-Symptoms involving nervous and musculoskeletal systems
-Symptoms involving cardiovascular system
-Symptoms involving respiratory system and other chest symptoms
-Other and unspecified effects of external causes
-Range name na
-----------------------------------------
+Benign neoplasm of skinDisorders of thyroid glandDiabetesNutritional deficienciesDisorders of lipoid metabolismOverweight, obesity and other hyperalimentationNaNeurotic, personality, nonpsychotic disordersOther disorders of the central nervous systemDisorders of the eye and adnexaDiseases of the ear and mastoid processHypertensive diseaseIschemic heart diseaseOther forms of heart diseaseOther diseases of the upper respiratory tractOther disorders of female genital tractOther diseases of skin and subcutaneous tissueDorsopathiesCongenital anomaliesGeneral symptomsNaSymptoms involving nervous and musculoskeletal systemsSymptoms involving cardiovascular systemSymptoms involving respiratory system and other chest symptomsOther and unspecified effects of external causesRange name na----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Analgesics, Non-Narcotic
@@ -3394,17 +2051,7 @@ Vitamins
 proportion of pts: 0.154303847679
 lambda: 6021.93390783
 ----------------------------------------
-Other bacterial diseases
-Arthropathies and related disorders
-Rheumatism, excluding the back
-Osteopathies, chondropathies, and acquired musculoskeletal deformities
-Fractures
-Dislocation
-Sprains and strains of joints and adjacent muscles
-Late effects of injuries, poisonings, toxic effects, and other external causes
-Na
-Certain traumatic complications and unspecified injuries
-----------------------------------------
+Other bacterial diseasesArthropathies and related disordersRheumatism, excluding the backOsteopathies, chondropathies, and acquired musculoskeletal deformitiesFracturesDislocationSprains and strains of joints and adjacent musclesLate effects of injuries, poisonings, toxic effects, and other external causesNaCertain traumatic complications and unspecified injuries----------------------------------------
 Adrenergic alpha-1 Receptor Antagonists
 Adrenergic beta-1 Receptor Antagonists
 Adrenergic beta-2 Receptor Agonists

@@ -20,6 +20,9 @@ import copy
 import csv
 import scipy as s
 from collections import OrderedDict
+import datetime as dt
+import json
+
 
 #import openpyxl
 #from openpyxl import load_workbook
@@ -35,3 +38,12 @@ if sys.version_info.major == 3:
 else:
     import cPickle as pickle
 
+
+#specific to tensor
+os.chdir('/Users/localadmin/tensor_factorization/github_tensor/htn_data_process/')
+sys.path.append("../test_joyce_code/")
+#sys.path.append("../test_joyce_code/marble")
+import sptensor
+import tensorIO
+import SP_NTF
+import tensor

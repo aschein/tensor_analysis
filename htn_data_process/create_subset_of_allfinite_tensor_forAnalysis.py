@@ -18,7 +18,7 @@ l_patClass_forTensorAnalysis = list(df_MAP_CHANGE_forTensorAnalysis['MAP_CHANGE_
 
 #take a subset of the full tensor##################################################################################################
 ## load the tensor #######
-loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-allfinite-tensor-{0}.dat")
+loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-allfinite-tensor-20140811-{0}.dat")
 
 #convert to nparray
 nparr_loaded_X = loaded_X.tondarray()
@@ -45,5 +45,5 @@ for n in range(num_dims):
 sparse_tensor_subset_for_analysis = sptensor.sptensor(nonzero_subs, data_values)
 
 #save tensor subset for analysis
-tensorIO.saveSingleTensor(sparse_tensor_subset_for_analysis, axisDict_subset_for_analysis, od_patClass_subset_for_analysis, "htn-tensor-subsetforanalysis-{0}.dat") #
+tensorIO.saveSingleTensor(sparse_tensor_subset_for_analysis, axisDict_subset_for_analysis, od_patClass_subset_for_analysis, "htn-tensor-subsetforanalysis-20140811-{0}.dat") #
 

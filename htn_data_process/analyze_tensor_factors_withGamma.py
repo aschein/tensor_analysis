@@ -1,8 +1,6 @@
-gamma_str = '_gamma-0.0001-0.05-0.05.pickle'
+#gamma_str = '_gamma-0.001-0.01-0.01.pickle'
 
-import os
-import json
-
+import operator
 
 def calculateValues(TM, M):
     fms = TM.greedy_fms(M)
@@ -15,7 +13,7 @@ loaded_X, loaded_axisDict, loaded_classDict = tensorIO.loadSingleTensor("htn-ten
 
 
 ##read in the pickles:
-pickle_folder = "./pickle_folder_20140811/"
+pickle_folder = "./pickle_folder_20140814/"
 
 outfile_str = pickle_folder + "pheno_htn_subset_analyzed_REG" + gamma_str
 matrix_pkl = open(outfile_str, "rb")
@@ -44,10 +42,10 @@ d_pheno_nonzero_labels = OrderedDict()
 
 
 #sort phenotypes by lambda values:
-d_lambda_phenoNumber = OrderedDict(zip(list(ktensor_phenotypes.lmbda),
-                                        list(range(R) )
+d_lambda_phenoNumber = OrderedDict(zip( list(range(R)), 
+                                        list(ktensor_phenotypes.lmbda)
                                         ))
-l_phenoNumbers_sorted_by_lambda = [  d_lambda_phenoNumber[x] for x in sorted(d_lambda_phenoNumber.keys(), reverse=True)]                                  
+l_phenoNumbers_sorted_by_lambda = [tup[0] for tup in sorted(d_lambda_phenoNumber.iteritems(), key=operator.itemgetter(1))][::-1]  #get a sorted list of phenotype numbers, which are sorted by using the operator.itemgetter                                
 
 #print phenotype feature names #################
 #for i in range(10):
@@ -88,19 +86,27 @@ for i in l_phenoNumbers_sorted_by_lambda:
     pheno_outstream.write("proportion of pts: " + str(d_pheno_nonzero_labels[i]['PERCENT_PTS']) + '\n')
     print "lambda: " + str(this_lmbda)
     pheno_outstream.write("lambda: " + str(this_lmbda) + '\n')
+    
+
     print "----------------------------------------" #divider
     pheno_outstream.write("----------------------------------------" + '\n')
-    #print "\tnumber jdrange: " + str(len(d_pheno_nonzero_labels[i]['JDRANGE_NZ']))
-    #print "\tjdrange: " + str(d_pheno_nonzero_labels[i]['JDRANGE_NZ'])
-    for jdrange in d_pheno_nonzero_labels[i]['JDRANGE_NZ']:
-        print d_jdrange_lookup[jdrange]
-        pheno_outstream.write(str(d_jdrange_lookup[jdrange]) + '\n')
-    #print "\tnumber meds: " + str(len(d_pheno_nonzero_labels[i]['MEDS_NZ']))
-    #print "\tmeds: " + str(d_pheno_nonzero_labels[i]['MEDS_NZ'])
+    #make ranking of JDRANGE by the weights:
+    nparr_jdrange_weights = this_pheno_jdrange_factor[this_pheno_jdrange_nnz]
+    d_jdrangeindex_weights = OrderedDict(zip(this_pheno_jdrange_nnz, nparr_jdrange_weights))
+    l_jdrangeindex_sorted = [tup[0] for tup in sorted(d_jdrangeindex_weights.iteritems(), key=operator.itemgetter(1))][::-1] #note: use slice [::-1] to reverse list!
+    for index_this_jdrange in l_jdrangeindex_sorted:
+        print d_jdrange_lookup[l_jdrange[index_this_jdrange]] + '\t' + str("%.3f" %this_pheno_jdrange_factor[index_this_jdrange] )
+        pheno_outstream.write(str(d_jdrange_lookup[l_jdrange[index_this_jdrange]]) + '\t' + str("%.3f" %this_pheno_jdrange_factor[index_this_jdrange])  +'\n')
+    
+
     print "----------------------------------------" #divider between diagnostic codes and meds
     pheno_outstream.write("----------------------------------------" + '\n')
-    for med in d_pheno_nonzero_labels[i]['MEDS_NZ']:
-        print med   
-        pheno_outstream.write(med + '\n')
+    #make ranking of MED by the weights:
+    nparr_med_weights = this_pheno_med_factor[this_pheno_med_nnz]
+    d_medindex_weights = OrderedDict(zip(this_pheno_med_nnz, nparr_med_weights))
+    l_medindex_sorted = [tup[0] for tup in sorted(d_medindex_weights.iteritems(), key=operator.itemgetter(1))][::-1]
+    for index_this_med in l_medindex_sorted:
+        print l_meds[index_this_med]  + '\t' + str("%.3f" %this_pheno_med_factor[index_this_med])
+        pheno_outstream.write(l_meds[index_this_med]  + '\t' + str("%.3f" %this_pheno_med_factor[index_this_med]) + '\n')
 pheno_outstream.close()
         
