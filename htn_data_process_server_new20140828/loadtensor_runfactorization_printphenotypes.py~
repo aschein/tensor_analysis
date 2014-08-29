@@ -1,0 +1,18 @@
+## this combines the 2 scripts into one comprehensive one:
+##
+##   1. run_factorization_localadmin.py
+##   2. analyze_tensor_factors_withGamma.py
+##  
+## INPUT:
+##     R
+##     alpha
+##     gammaForTF
+##     save_folder
+## OUTPUT:
+##     tensor factorizaiton results in dir save_folder/
+##         pheno_htn_subset_analyzed_REG_<gamma_str>.pickle
+##         pheno_htn_subset_analyzed_AUG_<gamma_str>.pickle
+##         Yinfo_htn_subset_analyzed_<gamma_str>.pickle
+##         
+##     analyzed PHENOTYPE output in save_folder/
+##         phenotypes_<gamma_str>.out
