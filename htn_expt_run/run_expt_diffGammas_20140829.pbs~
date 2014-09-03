@@ -1,0 +1,12 @@
+# PBS script
+#PBS -N marble_diff_gammas
+#PBS -l nodes=1:ppn=8:nvidiagpu
+#PBS -l mem=8gb
+#PBS -l walltime=15:00:00
+#PBS -q monkeys
+#PBS -j oe
+#PBS -o marble_gamma_0.001-0.02-0.02.out
+#PBS -m abe
+#PBS -M rchen87@gatech.edu
+
+

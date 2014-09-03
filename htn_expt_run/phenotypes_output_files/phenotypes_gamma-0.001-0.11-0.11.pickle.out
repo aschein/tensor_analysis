@@ -1,0 +1,728 @@
+===== phenotype 15=================================================================
+proportion of pts: 0.217770725902
+lambda: 12168.9041601
+----------------------------------------
+Diabetes	0.228
+Hypertensive disease	0.194
+Disorders of lipoid metabolism	0.176
+Range name na	0.142
+Disorders of the eye and adnexa	0.141
+Arthropathies and related disorders	0.119
+----------------------------------------
+Antipyretics	0.157
+Hypoglycemic Agents	0.155
+Anti-Inflammatory Agents, Non-Steroidal	0.153
+Cyclooxygenase Inhibitors	0.151
+Antihypertensive Agents	0.141
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.124
+Anticholesteremic Agents	0.119
+===== phenotype 40=================================================================
+proportion of pts: 0.197937326458
+lambda: 11193.0548732
+----------------------------------------
+Disorders of lipoid metabolism	0.224
+Hypertensive disease	0.218
+Ischemic heart disease	0.211
+Symptoms involving respiratory system and other chest symptoms	0.181
+Range name na	0.166
+----------------------------------------
+Fibrinolytic Agents	0.164
+Platelet Aggregation Inhibitors	0.157
+Antipyretics	0.152
+Cyclooxygenase Inhibitors	0.147
+Anti-Inflammatory Agents, Non-Steroidal	0.147
+Vasodilator Agents	0.119
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.114
+===== phenotype 39=================================================================
+proportion of pts: 0.212217374058
+lambda: 10634.2288043
+----------------------------------------
+Arthropathies and related disorders	0.206
+Hypertensive disease	0.206
+Rheumatism, excluding the back	0.164
+Disorders of lipoid metabolism	0.152
+Dorsopathies	0.140
+Symptoms involving respiratory system and other chest symptoms	0.131
+----------------------------------------
+Anti-Inflammatory Agents, Non-Steroidal	0.159
+Antihypertensive Agents	0.157
+Cyclooxygenase Inhibitors	0.153
+Diuretics	0.143
+Vasodilator Agents	0.137
+Anti-Arrhythmia Agents	0.126
+Calcium Channel Blockers	0.125
+===== phenotype 33=================================================================
+proportion of pts: 0.164220547402
+lambda: 8818.36646249
+----------------------------------------
+Range name na	0.187
+General symptoms	0.186
+Disorders of lipoid metabolism	0.168
+Rheumatism, excluding the back	0.165
+Dorsopathies	0.157
+Anemias	0.137
+----------------------------------------
+Fibrinolytic Agents	0.160
+Platelet Aggregation Inhibitors	0.157
+Antipyretics	0.150
+Anti-Inflammatory Agents, Non-Steroidal	0.146
+Cyclooxygenase Inhibitors	0.137
+Antihypertensive Agents	0.131
+Vasodilator Agents	0.118
+===== phenotype 2=================================================================
+proportion of pts: 0.165807219357
+lambda: 8178.84379924
+----------------------------------------
+Range name na	0.194
+Other forms of heart disease	0.186
+Hypertensive disease	0.177
+Disorders of lipoid metabolism	0.169
+Ischemic heart disease	0.151
+Arthropathies and related disorders	0.122
+----------------------------------------
+Anti-Arrhythmia Agents	0.179
+Sympatholytics	0.166
+Adrenergic beta-1 Receptor Antagonists	0.156
+Anticholesteremic Agents	0.138
+Rodenticides	0.129
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.117
+Anticoagulants	0.114
+===== phenotype 12=================================================================
+proportion of pts: 0.153510511702
+lambda: 7469.9226757
+----------------------------------------
+Other forms of heart disease	0.214
+Hypertensive disease	0.181
+Ischemic heart disease	0.173
+Nephritis, nephrotic syndrome, and nephrosis	0.154
+Other diseases of respiratory system	0.146
+Disorders of fluid, electrolyte, and acid-base balance	0.131
+----------------------------------------
+Antihypertensive Agents	0.154
+Antipyretics	0.152
+Fibrinolytic Agents	0.151
+Platelet Aggregation Inhibitors	0.145
+Anti-Inflammatory Agents, Non-Steroidal	0.143
+Cyclooxygenase Inhibitors	0.141
+Vasodilator Agents	0.114
+===== phenotype 0=================================================================
+proportion of pts: 0.159460531535
+lambda: 7221.67031467
+----------------------------------------
+Rheumatism, excluding the back	0.164
+Hypertensive disease	0.157
+Arthropathies and related disorders	0.148
+General symptoms	0.146
+Symptoms involving respiratory system and other chest symptoms	0.145
+Range name na	0.123
+Dorsopathies	0.117
+----------------------------------------
+Anti-Inflammatory Agents	0.226
+Dermatologic Agents	0.177
+Immunosuppressive Agents	0.165
+Enzyme Inhibitors	0.165
+Antirheumatic Agents	0.152
+Antimetabolites, Antineoplastic	0.114
+===== phenotype 18=================================================================
+proportion of pts: 0.164617215391
+lambda: 6994.36967704
+----------------------------------------
+Hypertensive disease	0.187
+Disorders of lipoid metabolism	0.164
+Range name na	0.148
+Dorsopathies	0.133
+Arthropathies and related disorders	0.131
+Rheumatism, excluding the back	0.122
+Symptoms involving respiratory system and other chest symptoms	0.115
+----------------------------------------
+Analgesics	0.177
+Muscle Relaxants, Central	0.173
+Analgesics, Opioid	0.171
+Narcotics	0.168
+Antidepressive Agents, Tricyclic	0.162
+Calcium Channel Blockers	0.149
+===== phenotype 21=================================================================
+proportion of pts: 0.180483934946
+lambda: 6749.51349427
+----------------------------------------
+Hypertensive disease	0.195
+Range name na	0.172
+Disorders of lipoid metabolism	0.167
+Arthropathies and related disorders	0.157
+Rheumatism, excluding the back	0.156
+General symptoms	0.153
+----------------------------------------
+Anti-Ulcer Agents	0.192
+Hypnotics and Sedatives	0.184
+Anti-Anxiety Agents	0.169
+Proton Pump Inhibitors	0.156
+Histamine H1 Antagonists	0.152
+Analgesics, Non-Narcotic	0.147
+===== phenotype 44=================================================================
+proportion of pts: 0.167790559302
+lambda: 6742.56558481
+----------------------------------------
+Range name na	0.175
+Hypertensive disease	0.162
+General symptoms	0.141
+Rheumatism, excluding the back	0.135
+Diabetes	0.133
+Other forms of heart disease	0.130
+Symptoms involving skin and other integumentary tissue	0.124
+----------------------------------------
+Diuretics	0.244
+Anti-Arrhythmia Agents	0.203
+Sodium Potassium Chloride Symporter Inhibitors	0.201
+Sympatholytics	0.182
+Adrenergic beta-1 Receptor Antagonists	0.171
+===== phenotype 1=================================================================
+proportion of pts: 0.130503768346
+lambda: 6549.12832201
+----------------------------------------
+Hypertensive disease	0.281
+Disorders of lipoid metabolism	0.258
+Range name na	0.172
+Diabetes	0.154
+Arthropathies and related disorders	0.134
+----------------------------------------
+Folic Acid Antagonists	0.136
+Nucleic Acid Synthesis Inhibitors	0.136
+Abortifacient Agents, Nonsteroidal	0.135
+Antimetabolites, Antineoplastic	0.125
+Immunosuppressive Agents	0.121
+Dermatologic Agents	0.118
+Enzyme Inhibitors	0.116
+Antirheumatic Agents	0.113
+===== phenotype 4=================================================================
+proportion of pts: 0.178897262991
+lambda: 6123.64415374
+----------------------------------------
+Hypertensive disease	0.205
+Disorders of lipoid metabolism	0.165
+Other diseases of the upper respiratory tract	0.137
+Range name na	0.131
+Symptoms involving respiratory system and other chest symptoms	0.125
+Diseases of esophagus, stomach, and duodenum	0.118
+Acute respiratory infections	0.118
+----------------------------------------
+Bronchodilator Agents	0.270
+Histamine H1 Antagonists, Non-Sedating	0.256
+Anti-Allergic Agents	0.249
+Dermatologic Agents	0.225
+===== phenotype 14=================================================================
+proportion of pts: 0.16858389528
+lambda: 6094.91443227
+----------------------------------------
+Disorders of lipoid metabolism	0.174
+Hypertensive disease	0.173
+Diseases of esophagus, stomach, and duodenum	0.170
+Disorders of the eye and adnexa	0.126
+Diabetes	0.123
+Rheumatism, excluding the back	0.119
+Acute respiratory infections	0.114
+----------------------------------------
+Anti-Ulcer Agents	0.216
+Proton Pump Inhibitors	0.199
+Antihypertensive Agents	0.196
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.195
+Anticholesteremic Agents	0.195
+===== phenotype 35=================================================================
+proportion of pts: 0.167790559302
+lambda: 6066.73092809
+----------------------------------------
+Other symptoms involving abdomen and pelvis	0.173
+Symptoms involving digestive system	0.156
+Symptoms involving respiratory system and other chest symptoms	0.151
+General symptoms	0.141
+Diseases of esophagus, stomach, and duodenum	0.136
+Hypertensive disease	0.127
+Disorders of lipoid metabolism	0.116
+----------------------------------------
+Antihypertensive Agents	0.231
+Platelet Aggregation Inhibitors	0.208
+Anti-Ulcer Agents	0.203
+Proton Pump Inhibitors	0.181
+Anti-Arrhythmia Agents	0.177
+===== phenotype 27=================================================================
+proportion of pts: 0.133280444268
+lambda: 5906.66099574
+----------------------------------------
+Range name na	0.185
+Hypertensive disease	0.169
+Other forms of heart disease	0.157
+Symptoms involving respiratory system and other chest symptoms	0.141
+Other diseases of respiratory system	0.119
+Ischemic heart disease	0.118
+Anemias	0.111
+----------------------------------------
+Antiemetics	0.161
+Vitamins	0.160
+Analgesics, Opioid	0.151
+Anti-Anxiety Agents	0.147
+Anesthetics, Local	0.137
+Antipruritics	0.131
+Cathartics	0.112
+===== phenotype 25=================================================================
+proportion of pts: 0.126933756446
+lambda: 5728.16420087
+----------------------------------------
+Hypertensive disease	0.212
+Range name na	0.183
+Arthropathies and related disorders	0.175
+Rheumatism, excluding the back	0.165
+Dorsopathies	0.143
+Diabetes	0.122
+----------------------------------------
+Anticonvulsants	0.223
+Antiparkinson Agents	0.180
+Excitatory Amino Acid Antagonists	0.178
+Antimanic Agents	0.169
+Calcium Channel Blockers	0.133
+Anti-Bacterial Agents	0.116
+===== phenotype 8=================================================================
+proportion of pts: 0.156287187624
+lambda: 5607.52641076
+----------------------------------------
+Range name na	0.190
+Hypertensive disease	0.189
+Symptoms involving respiratory system and other chest symptoms	0.182
+Other forms of heart disease	0.170
+General symptoms	0.152
+Disorders of lipoid metabolism	0.117
+----------------------------------------
+Anti-Bacterial Agents	0.204
+Analgesics, Non-Narcotic	0.191
+Bone Density Conservation Agents	0.162
+Topoisomerase II Inhibitors	0.156
+Anti-Infective Agents, Urinary	0.151
+Anticoagulants	0.137
+===== phenotype 20=================================================================
+proportion of pts: 0.184450614835
+lambda: 5520.00224455
+----------------------------------------
+Hypertensive disease	0.217
+General symptoms	0.185
+Symptoms involving respiratory system and other chest symptoms	0.170
+Diabetes	0.156
+Other diseases of the upper respiratory tract	0.143
+Acute respiratory infections	0.129
+----------------------------------------
+Antihypertensive Agents	0.199
+Anti-Arrhythmia Agents	0.178
+Anti-Allergic Agents	0.169
+Vitamins	0.159
+Antioxidants	0.156
+Sympatholytics	0.140
+===== phenotype 36=================================================================
+proportion of pts: 0.145180483935
+lambda: 4997.86466729
+----------------------------------------
+Hypertensive disease	0.203
+Diabetes	0.201
+Disorders of lipoid metabolism	0.168
+Range name na	0.155
+Dorsopathies	0.143
+Other symptoms involving abdomen and pelvis	0.130
+----------------------------------------
+Antiemetics	0.169
+Anti-Anxiety Agents	0.164
+Antipruritics	0.159
+Anti-Bacterial Agents	0.142
+Hypoglycemic Agents	0.128
+Bone Density Conservation Agents	0.124
+Narcotics	0.113
+===== phenotype 5=================================================================
+proportion of pts: 0.154700515668
+lambda: 4921.17615409
+----------------------------------------
+Hypertensive disease	0.181
+Disorders of lipoid metabolism	0.162
+Range name na	0.151
+Other forms of heart disease	0.138
+Arthropathies and related disorders	0.132
+Other symptoms involving abdomen and pelvis	0.125
+Osteopathies, chondropathies, and acquired musculoskeletal deformities	0.112
+----------------------------------------
+Angiotensin-Converting Enzyme Inhibitors	0.230
+Vasodilator Agents	0.206
+Anti-Allergic Agents	0.189
+Anticholesteremic Agents	0.188
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.186
+===== phenotype 3=================================================================
+proportion of pts: 0.180880602935
+lambda: 4915.44210751
+----------------------------------------
+Hypertensive disease	0.221
+Disorders of lipoid metabolism	0.215
+Symptoms involving respiratory system and other chest symptoms	0.164
+Diabetes	0.146
+Range name na	0.139
+Acute respiratory infections	0.114
+----------------------------------------
+Hypnotics and Sedatives	0.226
+Serotonin Uptake Inhibitors	0.208
+Anti-Allergic Agents	0.192
+Analgesics, Non-Narcotic	0.192
+Antidepressive Agents, Second-Generation	0.182
+===== phenotype 37=================================================================
+proportion of pts: 0.176517255058
+lambda: 4801.8322473
+----------------------------------------
+Other diseases of urinary system	0.245
+Symptoms involving urinary system	0.230
+Hypertensive disease	0.221
+Disorders of lipoid metabolism	0.173
+Other disorders of female genital tract	0.131
+----------------------------------------
+Antihypertensive Agents	0.215
+Antipyretics	0.213
+Anti-Inflammatory Agents, Non-Steroidal	0.210
+Cyclooxygenase Inhibitors	0.204
+Anti-Allergic Agents	0.158
+===== phenotype 22=================================================================
+proportion of pts: 0.131693772313
+lambda: 4201.69786839
+----------------------------------------
+Dorsopathies	0.227
+Na	0.215
+General symptoms	0.191
+Arthropathies and related disorders	0.189
+Diseases of esophagus, stomach, and duodenum	0.179
+----------------------------------------
+Serotonin Uptake Inhibitors	0.190
+Anti-Anxiety Agents	0.147
+Analgesics, Non-Narcotic	0.146
+Analgesics	0.139
+Antidepressive Agents, Second-Generation	0.135
+Hypnotics and Sedatives	0.129
+Calcium Channel Blockers	0.114
+===== phenotype 23=================================================================
+proportion of pts: 0.152717175724
+lambda: 4152.92601091
+----------------------------------------
+Symptoms involving respiratory system and other chest symptoms	0.226
+Diabetes	0.184
+Disorders of lipoid metabolism	0.162
+Ischemic heart disease	0.162
+Dorsopathies	0.142
+Other diseases of urinary system	0.126
+----------------------------------------
+Hypolipidemic Agents	0.274
+Anticholesteremic Agents	0.273
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.243
+Hypoglycemic Agents	0.211
+===== phenotype 6=================================================================
+proportion of pts: 0.171757239191
+lambda: 3924.49185328
+----------------------------------------
+Hypertensive disease	0.229
+Disorders of lipoid metabolism	0.196
+Arthropathies and related disorders	0.169
+Rheumatism, excluding the back	0.156
+Organic sleep disorders	0.127
+Disorders of the eye and adnexa	0.122
+----------------------------------------
+Hypolipidemic Agents	0.365
+Anticholesteremic Agents	0.320
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	0.315
+===== phenotype 38=================================================================
+proportion of pts: 0.149543831813
+lambda: 3698.09894565
+----------------------------------------
+Hypertensive disease	0.244
+Disorders of lipoid metabolism	0.236
+Symptoms involving respiratory system and other chest symptoms	0.219
+Other forms of heart disease	0.165
+Chronic obstructive pulmonary disease and allied conditions	0.135
+----------------------------------------
+Diuretics	0.258
+Glucocorticoids	0.236
+Sodium Potassium Chloride Symporter Inhibitors	0.198
+Enzyme Inhibitors	0.164
+Gout Suppressants	0.144
+===== phenotype 28=================================================================
+proportion of pts: 0.157477191591
+lambda: 3657.82557583
+----------------------------------------
+Hypertensive disease	0.236
+Symptoms involving respiratory system and other chest symptoms	0.188
+Disorders of lipoid metabolism	0.182
+Ischemic heart disease	0.138
+Other diseases of skin and subcutaneous tissue	0.131
+Chronic obstructive pulmonary disease and allied conditions	0.125
+----------------------------------------
+Angiotensin-Converting Enzyme Inhibitors	0.259
+Anti-Bacterial Agents	0.233
+Anti-Ulcer Agents	0.197
+Antifungal Agents	0.157
+Antimalarials	0.154
+===== phenotype 17=================================================================
+proportion of pts: 0.139230464102
+lambda: 3575.10347364
+----------------------------------------
+Hypertensive disease	0.214
+Symptoms involving respiratory system and other chest symptoms	0.180
+Disorders of lipoid metabolism	0.164
+Chronic obstructive pulmonary disease and allied conditions	0.157
+Range name na	0.155
+General symptoms	0.130
+----------------------------------------
+Bronchodilator Agents	0.348
+Tocolytic Agents	0.344
+Adrenergic beta-2 Receptor Agonists	0.308
+===== phenotype 30=================================================================
+proportion of pts: 0.148353827846
+lambda: 3372.00789797
+----------------------------------------
+Hypertensive disease	0.219
+Range name na	0.186
+General symptoms	0.179
+Symptoms involving respiratory system and other chest symptoms	0.153
+Other diseases of urinary system	0.141
+Other diseases of intestines and peritoneum	0.122
+----------------------------------------
+Serotonin Uptake Inhibitors	0.234
+Anti-Anxiety Agents	0.229
+Antidepressive Agents, Second-Generation	0.207
+Antipsychotic Agents	0.184
+Anti-Infective Agents	0.146
+===== phenotype 31=================================================================
+proportion of pts: 0.148750495835
+lambda: 3300.57572824
+----------------------------------------
+Other forms of heart disease	0.230
+Range name na	0.226
+Symptoms involving respiratory system and other chest symptoms	0.205
+Hypertensive disease	0.179
+Other diseases of respiratory system	0.160
+----------------------------------------
+Anti-Ulcer Agents	0.282
+Calcium Channel Blockers	0.263
+Vasodilator Agents	0.236
+Proton Pump Inhibitors	0.219
+===== phenotype 7=================================================================
+proportion of pts: 0.145180483935
+lambda: 3206.41682564
+----------------------------------------
+Hypertensive disease	0.274
+Rheumatism, excluding the back	0.225
+Range name na	0.199
+Symptoms involving respiratory system and other chest symptoms	0.164
+Other symptoms involving abdomen and pelvis	0.138
+----------------------------------------
+Serotonin Uptake Inhibitors	0.273
+Antidepressive Agents, Second-Generation	0.199
+Analgesics	0.189
+Antidepressive Agents	0.176
+Dopamine Uptake Inhibitors	0.163
+===== phenotype 47=================================================================
+proportion of pts: 0.155097183657
+lambda: 2974.36397533
+----------------------------------------
+Disorders of lipoid metabolism	0.247
+Symptoms involving respiratory system and other chest symptoms	0.237
+Hypertensive disease	0.224
+Other diseases of skin and subcutaneous tissue	0.163
+Organic sleep disorders	0.129
+----------------------------------------
+Adrenergic beta-1 Receptor Antagonists	0.350
+Sympatholytics	0.345
+Anti-Arrhythmia Agents	0.305
+===== phenotype 13=================================================================
+proportion of pts: 0.149147163824
+lambda: 2822.21432103
+----------------------------------------
+General symptoms	0.196
+Dorsopathies	0.159
+Symptoms involving skin and other integumentary tissue	0.154
+Na	0.126
+Symptoms involving head and neck	0.124
+Neurotic, personality, nonpsychotic disorders	0.123
+Cerebrovascular disease	0.119
+----------------------------------------
+Antipyretics	0.368
+Cyclooxygenase Inhibitors	0.340
+Anti-Allergic Agents	0.292
+===== phenotype 32=================================================================
+proportion of pts: 0.150733835779
+lambda: 2462.32209299
+----------------------------------------
+Hypertensive disease	0.233
+Disorders of lipoid metabolism	0.218
+Range name na	0.155
+Nutritional deficiencies	0.153
+General symptoms	0.128
+Diabetes	0.113
+----------------------------------------
+Vitamins	0.533
+Bone Density Conservation Agents	0.467
+===== phenotype 24=================================================================
+proportion of pts: 0.156683855613
+lambda: 2121.90051297
+----------------------------------------
+Hypertensive disease	0.182
+Range name na	0.161
+Dorsopathies	0.142
+Symptoms involving respiratory system and other chest symptoms	0.137
+Arthropathies and related disorders	0.135
+Rheumatism, excluding the back	0.125
+Disorders of lipoid metabolism	0.118
+----------------------------------------
+Proton Pump Inhibitors	0.526
+Adjuvants, Anesthesia	0.474
+===== phenotype 9=================================================================
+proportion of pts: 0.174930583102
+lambda: 2107.05794454
+----------------------------------------
+Range name na	0.249
+Disorders of the eye and adnexa	0.229
+Other diseases of skin and subcutaneous tissue	0.145
+Ischemic heart disease	0.131
+Other inflammatory conditions of skin and subcutaneous tissue	0.124
+Nutritional deficiencies	0.121
+----------------------------------------
+Antihypertensive Agents	0.514
+Anti-Inflammatory Agents	0.486
+===== phenotype 10=================================================================
+proportion of pts: 0.130503768346
+lambda: 2104.99976664
+----------------------------------------
+Range name na	0.185
+Disorders of the eye and adnexa	0.174
+Hypertensive disease	0.171
+Other forms of heart disease	0.171
+Disorders of lipoid metabolism	0.160
+Other diseases of skin and subcutaneous tissue	0.139
+----------------------------------------
+Enzyme Inhibitors	0.381
+Immunosuppressive Agents	0.344
+Antirheumatic Agents	0.275
+===== phenotype 46=================================================================
+proportion of pts: 0.130900436335
+lambda: 1834.78946089
+----------------------------------------
+Disorders of lipoid metabolism	0.191
+Hypertensive disease	0.190
+Arthropathies and related disorders	0.167
+Ischemic heart disease	0.162
+Diseases of esophagus, stomach, and duodenum	0.147
+Diabetes	0.144
+----------------------------------------
+Anti-Ulcer Agents	0.507
+Proton Pump Inhibitors	0.493
+===== phenotype 34=================================================================
+proportion of pts: 0.148353827846
+lambda: 1714.6896648
+----------------------------------------
+Other diseases of skin and subcutaneous tissue	0.228
+Hypertensive disease	0.199
+Osteopathies, chondropathies, and acquired musculoskeletal deformities	0.169
+Anemias	0.143
+Other inflammatory conditions of skin and subcutaneous tissue	0.131
+Diseases of arteries, arterioles, and capillaries	0.129
+----------------------------------------
+Antipyretics	0.506
+Antihypertensive Agents	0.494
+===== phenotype 26=================================================================
+proportion of pts: 0.170170567235
+lambda: 1438.69770792
+----------------------------------------
+Hypertensive disease	0.162
+Disorders of lipoid metabolism	0.152
+Range name na	0.145
+Other diseases of the upper respiratory tract	0.143
+Symptoms involving respiratory system and other chest symptoms	0.136
+Acute respiratory infections	0.133
+Arthropathies and related disorders	0.130
+----------------------------------------
+Antihypertensive Agents	1.000
+===== phenotype 43=================================================================
+proportion of pts: 0.161840539468
+lambda: 1136.83928352
+----------------------------------------
+Symptoms involving skin and other integumentary tissue	0.193
+Rheumatism, excluding the back	0.182
+Arthropathies and related disorders	0.181
+Disorders of the peripheral nervous system	0.154
+Infections of skin and subcutaneous tissue	0.148
+Osteopathies, chondropathies, and acquired musculoskeletal deformities	0.143
+----------------------------------------
+Antihypertensive Agents	1.000
+===== phenotype 49=================================================================
+proportion of pts: 0.130900436335
+lambda: 908.921347533
+----------------------------------------
+Range name na	0.210
+Other forms of heart disease	0.188
+Disorders of thyroid gland	0.169
+Symptoms involving respiratory system and other chest symptoms	0.157
+Diseases of veins and lymphatics, and other diseases of circulatory system	0.141
+Hypertensive disease	0.135
+----------------------------------------
+Antihypertensive Agents	1.000
+===== phenotype 11=================================================================
+proportion of pts: 0.12177707259
+lambda: 825.495135065
+----------------------------------------
+General symptoms	0.224
+Symptoms involving skin and other integumentary tissue	0.194
+Diabetes	0.158
+Disorders of thyroid gland	0.153
+Organic sleep disorders	0.139
+Symptoms involving digestive system	0.132
+----------------------------------------
+Calcium Channel Blockers	1.000
+===== phenotype 16=================================================================
+proportion of pts: 0.117810392701
+lambda: 799.186662738
+----------------------------------------
+Hypertensive disease	0.242
+Range name na	0.207
+Arthropathies and related disorders	0.204
+Rheumatism, excluding the back	0.188
+Disorders of thyroid gland	0.159
+----------------------------------------
+Analgesics, Non-Narcotic	1.000
+===== phenotype 42=================================================================
+proportion of pts: 0.11820706069
+lambda: 669.005965294
+----------------------------------------
+Anemias	0.283
+Nephritis, nephrotic syndrome, and nephrosis	0.208
+Disorders of fluid, electrolyte, and acid-base balance	0.182
+Diabetes	0.175
+Nutritional deficiencies	0.152
+----------------------------------------
+Anti-Ulcer Agents	1.000
+===== phenotype 29=================================================================
+proportion of pts: 0.125743752479
+lambda: 668.735592336
+----------------------------------------
+Symptoms involving digestive system	0.244
+Anemias	0.182
+Organic sleep disorders	0.172
+Other diseases of intestines and peritoneum	0.141
+Na	0.133
+Overweight, obesity and other hyperalimentation	0.129
+----------------------------------------
+Anti-Allergic Agents	1.000
+===== phenotype 48=================================================================
+proportion of pts: 0.0
+lambda: 1.0
+----------------------------------------
+----------------------------------------
+===== phenotype 45=================================================================
+proportion of pts: 0.0
+lambda: 1.0
+----------------------------------------
+----------------------------------------
+===== phenotype 41=================================================================
+proportion of pts: 0.0
+lambda: 1.0
+----------------------------------------
+----------------------------------------
+===== phenotype 19=================================================================
+proportion of pts: 0.0
+lambda: 1.0
+----------------------------------------
+----------------------------------------

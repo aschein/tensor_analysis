@@ -1,0 +1,37 @@
+---------------------------------------
+Begin PBS Prologue Fri Aug 29 02:51:45 EDT 2014
+Job ID:     154531.dedicated-sched.pace.gatech.edu
+User ID:    rchen87
+Job name:   python_test.pbs
+Queue:      monkeys
+End PBS Prologue Fri Aug 29 02:51:45 EDT 2014
+---------------------------------------
+Install rlwrap to use node: sudo apt-get install -y rlwrap
+started on iw-k33-36.pace.gatech.edu
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+python: can't open file 'python_test.py': [Errno 2] No such file or directory
+
+=====================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 512
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+=====================================================================================
+---------------------------------------
+Begin PBS Epilogue Fri Aug 29 02:51:46 EDT 2014
+Job ID:     154531.dedicated-sched.pace.gatech.edu
+User ID:    rchen87
+Job name:   python_test.pbs
+Resources:  mem=8gb,neednodes=2:ppn=4,nodes=2:ppn=4,walltime=15:00:00
+Rsrc Used:  cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue:      monkeys
+Nodes:     
+iw-k33-36.pace.gatech.edu
+End PBS Epilogue Fri Aug 29 02:51:46 EDT 2014
+---------------------------------------
