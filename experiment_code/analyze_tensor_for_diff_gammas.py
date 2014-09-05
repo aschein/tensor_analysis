@@ -104,9 +104,9 @@ for thisgamma in l_gammas_used:
         l_numfactors_jdrange.append(num_jdrange)
         l_numfactors_med.append(num_med)
     
-    d_numfactors_pt_perGamma[thisgamma] = np.mean(np.nonzero(l_numfactors_pt))
-    d_numfactors_diag_perGamma[thisgamma] = np.mean(np.nonzero(l_numfactors_jdrange))
-    d_numfactors_med_perGamma[thisgamma] = np.mean(np.nonzero(l_numfactors_med))
+    d_numfactors_pt_perGamma[thisgamma] = np.array(l_numfactors_pt)[np.mean(np.nonzero(l_numfactors_pt))]
+    d_numfactors_diag_perGamma[thisgamma] = np.array(l_numfactors_jdrange)[np.mean(np.nonzero(l_numfactors_jdrange))]
+    d_numfactors_med_perGamma[thisgamma] = np.array(l_numfactors_med)[np.mean(np.nonzero(l_numfactors_med))]
     d_numPheno_nonzero_pt_perGamma[thisgamma] = len(np.nonzero(l_numfactors_pt))
     d_numPheno_nonzero_diag_perGamma[thisgamma] = len(np.nonzero(l_numfactors_jdrange))
     d_numPheno_nonzero_med_perGamma[thisgamma] = len(np.nonzero(l_numfactors_med))
@@ -117,7 +117,6 @@ od_numfactors_med_perGamma = OrderedDict(sorted(d_numfactors_med_perGamma.items(
 od_numPheno_nonzero_pt_perGamma = OrderedDict(sorted(d_numPheno_nonzero_pt_perGamma.items()))
 od_numPheno_nonzero_diag_perGamma = OrderedDict(sorted(d_numPheno_nonzero_diag_perGamma.items()))
 od_numPheno_nonzero_med_perGamma = OrderedDict(sorted(d_numPheno_nonzero_med_perGamma.items()))
-
 
 
 #make plots
