@@ -74,7 +74,7 @@ l_gammas = l_gammas = [0.01 * x for x in range(1,16)]
 # loop thru all gammas in the l_gammas, load the tensor factor data, and run classification
 for thisgamma in l_gammas:
     
-    #string for python pickle file (to read from) based upon gamma                                                                                                                                                                                                                
+    #string for python pickle file (to read from) based upon gamma                                                                                                                                                                                                                                                                      
     gammaForTF_used = [0.001, thisgamma, thisgamma]
     gamma_str = '_gamma'
     for num in gammaForTF_used:
@@ -84,14 +84,16 @@ for thisgamma in l_gammas:
     filename_tensorFactors_thisgamma_REG = marble_output_folder + "pheno_htn_subset_analyzed_REG" + gamma_str
     filename_tensorFactors_thisgamma_AUG = marble_output_folder + "pheno_htn_subset_analyzed_AUG" + gamma_str
     filename_Yinfo_thisgamma = marble_output_folder + "Yinfo_htn_subset_analyzed" + gamma_str
-    
-    ##read in the pickles:                                                                                                                                                                                                                                                        
+
+    ##read in the pickles:                                                                                                                                                                                                                                                                                            
     matrix_pkl = open(filename_tensorFactors_thisgamma_REG, "rb")
     pheno_htn_subset_analyzed_REG_withGamma = pickle.load(matrix_pkl)
     matrix_pkl.close()
+
     matrix_pkl = open(filename_tensorFactors_thisgamma_AUG, "rb")
     pheno_htn_subset_analyzed_AUG_withGamma = pickle.load(matrix_pkl)
     matrix_pkl.close()
+
     matrix_pkl = open(filename_Yinfo_thisgamma, "rb")
     Yinfo_htn_subset_analyzed_withGamma = pickle.load(matrix_pkl)
     matrix_pkl.close()
@@ -103,24 +105,29 @@ for thisgamma in l_gammas:
     num_jdrange = ktensor_phenotypes.shape[1]
     num_med = ktensor_phenotypes.shape[2]
 
-    #sort phenotypes by lambda values:                                                                                                                                                                                                                                            
+    #sort phenotypes by lambda values:                                                                                                                                                                                                                                                                                
     d_lambda_phenoNumber = OrderedDict(zip( list(range(ktensor_phenotypes.R)),
                                         list(ktensor_phenotypes.lmbda)
                                         ))
-    l_phenoNumbers_sorted_by_lambda = [tup[0] for tup in sorted(d_lambda_phenoNumber.iteritems(), key=operator.itemgetter(1))][::-1]  #get a sorted list of phenotype numbers, which are sorted by using the operator.itemgetter                                                  
+    l_phenoNumbers_sorted_by_lambda = [tup[0] for tup in sorted(d_lambda_phenoNumber.iteritems(), key=operator.itemgetter(1))][::-1]  #get a sorted list of phenotype numbers, which are sorted by using the operator.itemgetter                                                                                      
 
-    #feature_matrix and target ######################################################
+    #feature_matrix and target 
     feature_matrix_phenos = ktensor_phenotypes.U[0]
-    feature_matrix_phenos_binary = feature_matrix_phenos.copy()
-    feature_matrix_phenos_binary[feature_matrix_phenos_binary.nonzero()] = 1 #turn phenotype matrix into a binary matrix
-    target_vals = np.array(loaded_classDict.values()).reshape((num_pt, 1))
 
-    #do CV with classification with sklearn module ######################################################
-    cv_folds_indexnumbers = cross_validation.KFold(num_pt, n_folds=10, shuffle=True)
+    feature_matrix_phenos_binary = feature_matrix_phenos.copy()
+    feature_matrix_phenos_binary[feature_matrix_phenos_binary.nonzero()] = 1
+
+    target_vals = np.array(loaded_classDict.values())
+
+
+    #do CV with classification with sklearn module
 
     #define X, y
     X = feature_matrix_phenos_binary
     y = target_vals
+
+    #determind CV folds
+    cv_folds_indexnumbers = cross_validation.StratifiedKFold(y, n_folds=10)
 
     #define logreg model
     model_logistic_l2 = linear_model.LogisticRegression(penalty='l2')
@@ -134,7 +141,7 @@ for thisgamma in l_gammas:
     fig = plt.figure(1)
     fig.set_size_inches(8,8)
 
-    for train_index, test_index in cv_folds_indexnumbers:
+    for i, (train_index, test_index) in enumerate(cv_folds_indexnumbers):
         #print("TRAIN:", train_index, "TEST:", test_index)
         X_train, X_test = feature_matrix_phenos[train_index], feature_matrix_phenos[test_index]
         y_train, y_test = target_vals[train_index], target_vals[test_index]
@@ -170,7 +177,3 @@ for thisgamma in l_gammas:
     save_filename = 'htn_marble_classification_MAPDECREASEBY2' + '_gamma_' + "-".join([str(g) for g in gammaForTF_used]) + '.png'
     fig.savefig(save_folder + save_filename)
     plt.close()
-
-
-
-
