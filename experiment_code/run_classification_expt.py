@@ -169,7 +169,7 @@ for thisgamma in l_gammas:
     #save figure
     save_filename = 'htn_marble_classification_MAPDECREASEBY2' + '_gamma_' + "-".join([str(g) for g in gammaForTF_used]) + '.png'
     fig.savefig(save_folder + save_filename)
-
+    plt.close()
 
 
 
