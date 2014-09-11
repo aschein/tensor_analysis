@@ -71,6 +71,16 @@ l_meds= loaded_axisDict[2].keys()
 #specify which gamma
 l_gammas = l_gammas = [0.01 * x for x in range(1,16)]
 
+#define classification models
+random_state = np.random.RandomState(0)
+model_logistic_l2 = linear_model.LogisticRegression(penalty='l2')
+model_svm_linear = svm.SVC(kernel='linear', probability=True,
+                     random_state=random_state)
+model_randForest = ensemble.RandomForestClassifier(100)
+
+classifier_to_use = ('randForest', model_randForest) #tuple, first entry = name describing classifier, second entry = defined model (see above)
+s_outcome_description = '_MAPDECREASEBY2'
+
 # loop thru all gammas in the l_gammas, load the tensor factor data, and run classification
 for thisgamma in l_gammas:
     
@@ -129,9 +139,6 @@ for thisgamma in l_gammas:
     #determind CV folds
     cv_folds_indexnumbers = cross_validation.StratifiedKFold(y, n_folds=10)
 
-    #define logreg model
-    model_logistic_l2 = linear_model.LogisticRegression(penalty='l2')
-
     #define metrics
     mean_tpr = 0.0
     mean_fpr = np.linspace(0, 1, 100)
@@ -146,7 +153,7 @@ for thisgamma in l_gammas:
         X_train, X_test = feature_matrix_phenos[train_index], feature_matrix_phenos[test_index]
         y_train, y_test = target_vals[train_index], target_vals[test_index]
 
-        probas_ = model_logistic_l2.fit(X_train, y_train).predict_proba(X_test)
+        probas_ = classifier_to_use[1].fit(X_train, y_train).predict_proba(X_test)
         # Compute ROC curve and area the curve
         fpr, tpr, thresholds = roc_curve(y_test, probas_[:, 1])
         mean_tpr += interp(mean_fpr, fpr, tpr)
@@ -171,9 +178,9 @@ for thisgamma in l_gammas:
     plt.ylim([-0.05, 1.05])
     plt.xlabel('False Positive Rate')
     plt.ylabel('True Positive Rate')
-    plt.title('ROC: 10-fold CV Logistic Regression; MAP DECREASE BY 2mmHg; Gamma=[0.001, 0.04, 0.04]')
+    plt.title('ROC: 10-fold CV' +  classifier_to_use[0] + '; ' + s_target_description + '; Gamma='+ "-".join([str(g) for g in gammaForTF_used]))
     plt.legend(loc="lower right")
     #save figure
-    save_filename = 'htn_marble_classification_MAPDECREASEBY2' + '_gamma_' + "-".join([str(g) for g in gammaForTF_used]) + '.png'
+    save_filename = 'htn_marble_classification_' + classifier_to_use[0] + s_target_description + '_gamma_' + "-".join([str(g) for g in gammaForTF_used]) + '.png'
     fig.savefig(save_folder + save_filename)
     plt.close()
